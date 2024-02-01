@@ -2,12 +2,12 @@
 
 namespace App\Service;
 
-use App\Entity\Dialog;
+use App\Entity\Story;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException;
 use Symfony\Component\Serializer\SerializerInterface;
 
-class DialogService
+class StoryService
 {
 
 
@@ -15,7 +15,7 @@ class DialogService
 
     }
 
-    public function saveDialogueFromJson($jsonFilePath)
+    public function saveStoryFromJson($jsonFilePath)
     {
 
         // Vérifier si le fichier existe
@@ -26,8 +26,8 @@ class DialogService
         $jsonContent = file_get_contents($jsonFilePath);
         $data = json_decode($jsonContent, true, 512, JSON_THROW_ON_ERROR);
 
-        // Créer une nouvelle instance de Dialogue et la remplir avec les données
-        $dialog = new Dialog();
+        // Créer une nouvelle instance de Storyue et la remplir avec les données
+        $dialog = new Story();
         $dialog->setS($data['situation']);
         $dialog->setP($data['personen']);
         $dialog->setO($data['ort']);
@@ -38,10 +38,11 @@ class DialogService
         $this->entityManager->persist($dialog);
         $this->entityManager->flush();
 
+
     }
-    public function saveAllDialoguesToJsonFile($db): void {
-        // Récupérer toutes les entités Dialogue
-        $dialogs = $this->entityManager->getRepository(Dialog::class)->findAll();
+    public function saveAllStoryToJsonFile($db): void {
+        // Récupérer toutes les entités Storyue
+        $dialogs = $this->entityManager->getRepository(Story::class)->findAll();
 
         // Sérialiser les entités en JSON
         $jsonData = $this->serializer->serialize($dialogs, 'json');

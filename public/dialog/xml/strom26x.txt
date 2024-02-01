@@ -1,0 +1,900 @@
+Situation: Stromberg Der Vertrag(S2 7)
+Personen: None
+Ort: None
+
+
+ORI: Wenn Sie mit Ihrer Firma zu Capitol wechseln würde, könnten wir Ihnen bei dem Volumen sicher entgegenkommen.
+ARI: If your company were to switch to Capitol, we could certainly accommodate you in terms of volume. (Si votre entreprise décidait de passer à Capitol, nous pourrions certainement vous accueillir en termes de volume.)
+
+ORI: Auf jeden Fall! Wir als Capitol würden Ihnen-- Zeigen Sie Herrn Althoff doch mal die Prämientabelle.
+ARI: Absolutely! We at Capitol would-- Show Mr. Althoff the bonus table, please. (Absolument ! Nous, chez Capitol, nous allons-- Montrez à M. Althoff le tableau des primes, s'il vous plaît.)
+
+ORI: Das ist von uns so minimal kalkuliert, da würde sogar der geizigste Schotte feucht werden unterm Rock.
+ARI: We've calculated it so minimally that even the stingiest Scot would get moist under the kilt. (Nous l'avons calculé de manière si minimale que même l'Écossais le plus avare serait humide sous le kilt.)
+
+ORI: Haben Sie auch aktuellere Zahlen? Die sind schon 3 Jahre alt.
+ARI: Do you have more recent numbers? These are already 3 years old. (Avez-vous des chiffres plus récents ? Ceux-ci datent déjà de 3 ans.)
+
+ORI: Huppsala, da hab' ich wohl, ähm... Wie Geige spielen, oder die Brustgröße bei Frauen. Wenn von Natur aus nix da ist, dann ist nix da. Lassen Sie bitte liegen...
+ARI: Oops, I seem to have, uh... Like playing the violin, or a woman's breast size. If there's nothing there naturally, there's nothing there. Please, let it go... (Oops, il semble que j'aie, euh... Comme jouer du violon, ou la taille de poitrine d'une femme. Si rien n'est là naturellement, il n'y a rien. S'il vous plaît, laissez tomber...)
+
+ORI: Als Kind mit diesen Fußballsammelbildchen gehandelt. Und nicht schlecht!
+ARI: I traded these football collectible cards as a kid. And not bad! (J'ai échangé ces cartes de collection de football quand j'étais enfant. Et pas mal !)
+
+ORI: Ich check' dann heute Abend meine E-Mails, ja? Danke.
+ARI: I'll check my emails tonight, okay? Thanks. (Je vérifierai mes emails ce soir, d'accord ? Merci.)
+
+ORI: Es tut mir Leid, daß es so hektisch wird, aber ich muss zum Flughafen. Fachtagung in Den Haag. Steuerrecht... Naja. Aber wir können ja weiterreden, wenn ich zurück bin.
+ARI: I'm sorry it's getting so hectic, but I have to go to the airport. Conference in The Hague. Tax law... Well. But we can continue talking when I get back. (Je suis désolé que ça devienne si chaotique, mais je dois aller à l'aéroport. Conférence à La Haye. Droit fiscal... Bon. Mais nous pouvons continuer à discuter lorsque je serai de retour.)
+
+ORI: Ja, sonst können wir das ja auch in den nächsten Tagen-- Sie machen gar nichts, Herr Stromberg. Offensichtlich kann ich Sie ja nicht einmal zu Präsentationen einsetzen. - Drei Jahre alte Zahlen! - Das, da... Wenn ich zurück bin, reden wir mal über Ihre Zukunft hier. In welchem Sinne jetzt Zukunft? Sie irgendwohin zu stecken, wo Sie keinen Schaden anrichten.
+ARI: Yes, otherwise we can do it in the next few days-- You're not doing anything, Mr. Stromberg. Obviously, I can't even assign you to presentations. - Three-year-old numbers! - That, there... When I get back, we'll talk about your future here. In what sense, the future? Placing you somewhere where you won't cause any harm. (Oui, sinon, nous pouvons le faire dans les prochains jours-- Vous ne faites rien, Monsieur Stromberg. De toute évidence, je ne peux même pas vous affecter à des présentations. - Des chiffres de trois ans ! - Ça, là... Quand je serai de retour, nous parlerons de votre avenir ici. Au sens propre, le futur ? Vous placer quelque part où vous ne causeriez aucun dommage.)
+
+ORI: Herr Althoff, vielen herzlichen Dank für Ihr Interesse, ich melde mich. - Wiedersehen. [Herr Althoff] - Wiedersehen. [Herr Althoff] - Guten Flug. - Danke!
+ARI: Mr. Althoff, thank you very much for your interest, I will get in touch. - Goodbye. [Mr. Althoff] - Goodbye. [Mr. Althoff] - Have a good flight. - Thank you! (M. Althoff, merci beaucoup pour votre intérêt, je vous recontacterai. - Au revoir. [M. Althoff] - Au revoir. [M. Althoff] - Bon vol. - Merci !)
+
+ORI: Althoff, kann ich Sie nach vorne begleiten? Verliert aber auch keine Zeit, hm? Sehr effizient.
+ARI: Althoff, can I accompany you to the front? But don't waste any time, hm? Very efficient. (Althoff, puis-je vous accompagner à l'avant ? Mais ne perdons pas de temps, hm ? Très efficace.)
+
+ORI: Ja, das sind wir aber alle hier, das ist ähm... - Find' ich ein bisschen übertrieben. - Find' ich auch. Das ist nicht meine Philosophie. Wissen Sie, Arbeitszeit ist auch Lebenszeit. Sehe ich genau so. Der Weg ist das Ziel. Der Koffer ist die Reise. Et cetera pp. ist genau mein Reden.
+ARI: Yes, but that's all of us here, that's uh... - I find it a bit exaggerated. - I do too. That's not my philosophy. You know, working time is also life time. I see it exactly the same way. The journey is the goal. The suitcase is the trip. Et cetera, etc. That's exactly what I'm saying. (Oui, mais c'est nous tous ici, c'est euh... - Je trouve ça un peu exagéré. - Moi aussi. Ce n'est pas ma philosophie. Vous savez, le temps de travail, c'est aussi le temps de vie. Je le vois exactement de la même manière. Le voyage est le but. La valise est le voyage. Et cetera, etc. C'est exactement ce que je dis.)
+
+ORI: Und wie er Sie behandelt hat, ich weiß nicht
+
+, ich... Äh, haben Sie einen Zettel?
+ARI: And how he treated you, I don't know, I... Uh, do you have a piece of paper? (Et comment il vous a traité, je ne sais pas, je... Euh, avez-vous un morceau de papier ?)
+
+ORI: Wissen Sie, für mich sind die Mitarbeiter in meiner Firma wie meine Familie. Die schütze ich doch! Egal, was da für Kleinigkeiten passiert sind. In meiner Abteilung bin ich ja quasi der Herbergsvater. In erster Linie der Papa, in zweiter Linie der Chef. - Hier... Nicht? - Nein danke. Da habe ich mir den Mund schon tausendmal fusselig.... Sieht er natürlich ganz anders. - Lassen Sie uns doch vorne weiterreden. - Ja gerne.
+ARI: You know, for me, the employees in my company are like my family. I protect them! No matter what little things have happened. In my department, I'm practically the innkeeper. First and foremost, the dad, secondly, the boss. - Here... Not? - No, thanks. I've already talked myself hoarse a thousand times... He sees it quite differently, of course. - Let's continue talking up front. - Yes, gladly. (Vous savez, pour moi, les employés de mon entreprise sont comme ma famille. Je les protège ! Peu importe les petites choses qui se sont produites. Dans mon service, je suis pratiquement l'aubergiste. Avant tout, le père, ensuite, le chef. - Ici... Pas ? - Non, merci. Je me suis déjà parlé mille fois... Il le voit bien différemment, bien sûr. - Continuons à parler à l'avant. - Oui, volontiers.)
+
+ORI: Was ist denn Ihre Meinung zu dem Vertrag? Da sollten wir vielleicht nochmal in Ruhe, also... Wir zwei beide alleine. [Kaffeemaschine blubbert]
+ARI: What is your opinion on the contract? Maybe we should go over it again calmly, so... Just the two of us alone. [Coffee machine gurgles] (Quelle est votre opinion sur le contrat ? Peut-être devrions-nous le revoir calmement, donc... Juste nous deux, seuls. [La machine à café gargouille])
+
+ORI: So, ganz kurz mal eben, das sind... Hallo!? Hier, mal aufpassen hier! Das sind die Ergebnisse von meiner Arbeitsgruppe. Und ich möchte, daß jeder sich das durchliest und umsetzt. Im Wesentlichen schicken wir die VGOs schneller zur Zentrale...
+ARI: So, just briefly, these are... Hello!? Pay attention here! These are the results from my working group. And I want everyone to read and implement them. Essentially, we're sending the VGOs to the headquarters more quickly... (Alors, très brièvement, ce sont... Salut !? Faites attention ici ! Ce sont les résultats de mon groupe de travail. Et je veux que tout le monde les lise et les mette en œuvre. Essentiellement, nous envoyons les VGO plus rapidement au siège social...)
+
+ORI: Was soll denn der Zinnober jetzt? Ich hab' die Arbeitsgruppe geleitet und es ist abgesprochen, daß die Ergebnisse zeitnah umgesetzt werden.
+ARI: What's all this fuss about now? I led the working group and it was agreed that the results would be implemented promptly. (Qu'est-ce que tout ce remue-ménage maintenant ? J'ai dirigé le groupe de travail et il a été convenu que les résultats seraient mis en œuvre rapidement.)
+
+ORI: Gibts sonst Abmahnungen, hm?
+ARI: Are there any other warnings, hm? (Y a-t-il d'autres avertissements, hm ?)
+
+ORI: Das kann durchaus sein.
+ARI: That's quite possible. (C'est tout à fait possible.)
+
+ORI: Jeden Tag was Neues wegen dem Scheiß.
+ARI: Something new every day because of this crap. (Quelque chose de nouveau tous les jours à cause de cette merde.)
+
+ORI: So, der Papa braucht erst mal 'n Käffchen.
+ARI: So, the daddy needs a cup of coffee first. (Alors, le papa a besoin d'une tasse de café d'abord.)
+
+ORI: Es geht gerade darum, daß unsere Ergebnisse mal umgesetzt werden.
+ARI: It's about our results being implemented. (Il s'agit de la mise en œuvre de nos résultats.)
+
+ORI: Auch von dir, Herr Stromberg.
+ARI: Also from you, Mr. Stromberg. (Aussi de vous, M. Stromberg.)
+
+ORI: Ernie? Hast du wieder diese Stierhormone genommen?
+ARI: Ernie? Did you take those bull hormones again? (Ernie ? As-tu pris à nouveau ces hormones de taureau ?)
+
+ORI: [Alle lachen]
+ARI: [Everyone laughs] ([Tout le monde rit])
+
+ORI: Ja... Für Fragen stehe ich jederzeit zur Verfügung.
+ARI: Yes... I'm always available for questions. (Oui... Je suis toujours disponible pour des questions.)
+
+ORI: Gilt das auch für die 2er und 3er hier, oder...
+ARI: Does that also apply to the 2s and 3s here, or... (Est-ce que cela s'applique aussi aux 2 et 3 ici, ou...)
+
+ORI: Absolut, für alle Kategorien, außer für die Neukunden...
+ARI: Absolutely, for all categories, except for the new customers... (Absolument, pour toutes les catégories, sauf pour les nouveaux clients...)
+
+ORI: [Aufgeregte Gespräche setzen ein]
+ARI: [Excited conversations begin] ([Des conversations excitées commencent])
+
+ORI: [Stromberg] Leute, nicht vorschnell meutern!
+ARI: [Stromberg] People, don't mutiny too quickly! ([Stromberg] Les gens, ne mutinez pas trop rapidement !)
+
+ORI: [Stromberg] Die sind vielseitig einsetzbar, da kann man zum Beispiel so Hüte daraus falten.
+ARI: [Stromberg] They are versatile, for example, you can fold hats out of them. ([Stromberg] Ils sont polyvalents, par exemple, vous pouvez en faire des chapeaux.)
+
+ORI: [Alle lachen hämisch]
+ARI: [Everyone laughs maliciously] ([Tout le monde rit méchamment])
+
+ORI: also im Prinzip... wie Gandhi. Nur dass ich halt normal weitergegessen hab'.
+ARI: basically... like Gandhi. Except that I kept eating normally. (en gros... comme Gandhi. Sauf que j'ai continué à manger normalement.)
+
+ORI: Aber irgendwann, ganz ehrlich! Meine Mutter hat auch gesagt, dass es so nicht geht. Stimmt ja auch! Ich meine, wo kommen wir da hin? Und deswegen muss ich jetzt ganz neue Seiten... Also...
+ARI: But at some point, honestly! My mother also said that this is not the way. And it's true! I mean, where are we going with this? And that's why I have to turn over a completely new leaf... So... (Mais à un moment donné, honnêtement ! Ma mère a également dit que ce n'est pas la bonne voie. C'est vrai ! Je veux dire, où allons-nous avec ça ? Et c'est pourquoi je dois tourner complètement une nouvelle page... Donc...)
+
+ORI: [Erika] Jetzt ruf' den doch einfach an.
+ARI: [Erika] Just call him. ([Erika] Appelle-le simplement.)
+
+ORI: Erst erzählt er mir von wegen Pause machen, blah, blubb. Weiß aber selber nicht, was das soll. Dann irgendwie doch keine Pause. Dann auf einmal will er mit seinen Jungs Urlaub machen und so 'ne Scheiße! Ja, das hat mein Oller auch gesagt. Als er was mit der Thekenziege aus dem Vereinslokal hatte.
+ARI: First he tells me about taking a break, blah, blah. But he doesn't even know what that's about. Then suddenly, no break at all. Then all of a sudden, he wants to go on vacation with his buddies and all that crap! Yeah, my old man said the same thing. When he was fooling around with the barmaid from the club. (D'abord, il me parle de faire une pause, blah, blah. Mais il ne sait même pas de quoi il s'agit. Puis soudainement, plus de pause du tout. Puis tout à coup, il veut partir en vacances avec ses potes et toutes ces conneries ! Ouais, mon vieux a dit la même chose. Quand il fricotait avec la serveuse du club.)
+
+ORI: [Tanja] Na super.
+ARI: [Tanja] Oh great. ([Tanja] Oh super.)
+
+ORI: Ja, nein, so war das doch nicht gemeint. - Der Ulf, der ist doch ganz anders...
+ARI: Yes, no, that's not what I meant. - Ulf, he's completely different... (Oui, non, ce n'est pas ce que je voulais dire. - Ulf, il est complètement différent...)
+
+ORI: Eine Karte hat er geschrieben: "Bin gestern Mr. Poolbar geworden, die Siegprämie werde ich heute trinken. Wetter ist super."
+ARI: He wrote a card: "Became Mr. Poolbar yesterday, I'll drink the prize money today. The weather is great." (Il a écrit une carte : "Je suis devenu M. Poolbar hier, je vais boire la prime aujourd'hui. Le temps est super.")
+
+ORI: Ja, Männer und Gefühle... Och Schätzchen!
+ARI: Yes, men and feelings... Oh, sweetheart! (Oui, les hommes et les sentiments... Oh, chérie !)
+
+ORI: [Erika] Hast du die Nummer hier irgendwo eingespeichert?
+ARI: [Erika] Do you have the number saved somewhere here? ([Erika] As-tu enregistré le numéro quelque part ici ?)
+
+ORI: Ich red' nicht mit dem, der soll erst mal--
+ARI: I'm not talking to him, he should... (Je ne lui parle pas, il devrait d'abord...)
+
+ORI: Nun mal langsam, ich red' mit ihm. Der sitzt jetzt bestimmt genau so da wie du und grübelt ein Loch in den Kopf und ihr kommt einfach nicht zusammen...
+ARI: Now, slow down, I'm talking to him. He's probably sitting there just like you, racking his brain, and you just can't get it together... (Maintenant, ralentis, je lui parle. Il est probablement assis là, tout comme toi, à se creuser la tête, et vous n'arrivez tout simplement pas à vous entendre...)
+
+ORI: Ja guten Tag, hier ist Burstedt von der Capitol Versicherung. Du altes Haus [lacht]
+ARI: Yes, good day, this is Burstedt from Capitol Insurance. You old rascal [laughs]. (Oui, bonjour,
+
+ ici Burstedt de Capitol Insurance. Toi, vieux coquin [rit].)
+
+ORI: Ja, Connie kann doch auch 'n Mann sein. Konrad zum Beispiel...
+ARI: Yes, Connie can also be a man. Konrad, for example... (Oui, Connie peut aussi être un homme. Konrad, par exemple...)
+
+ORI: [Es rasselt das Faxgerät]
+ARI: [The fax machine rattles] ([La machine à fax grésille])
+
+ORI: Herr Althoff! Kommen Sie, staunen Sie. - Kaffee? Oder andere kalte Getränke? - Nein, danke.
+ARI: Mr. Althoff! Come, be amazed. - Coffee? Or other cold drinks? - No, thanks. (M. Althoff ! Venez, soyez émerveillé. - Du café ? Ou d'autres boissons froides ? - Non, merci.)
+
+ORI: Warten Sie, ich helfe Ihnen. Sie wollen verreisen? Hm? Achso, nee. Das ist... privat. Ist bei mir gerade etwas schwierig.
+ARI: Wait, I'll help you. You want to travel? Hm? Oh, no. It's... private. It's a bit complicated for me right now. (Attendez, je vais vous aider. Vous voulez voyager ? Hm ? Oh, non. C'est... personnel. C'est un peu compliqué pour moi en ce moment.)
+
+ORI: Meine Ehe ist in letzter Zeit eher suboptimal gelaufen.
+ARI: My marriage has been rather suboptimal lately. (Mon mariage n'a pas été optimal ces derniers temps.)
+
+ORI: Ja, kenne ich. Ich habe auch gerade eine Scheidung hinter mir.
+ARI: Yes, I know. I've just gone through a divorce myself. (Oui, je sais. Je viens de divorcer moi-même.)
+
+ORI: - Am Ende geht's halt nicht mehr. - Ich hab' 3 Monate im Hotel gewohnt.
+ARI: - In the end, it just didn't work out. - I lived in a hotel for 3 months. (- À la fin, ça n'a tout simplement pas fonctionné. - J'ai vécu dans un hôtel pendant 3 mois.)
+
+ORI: [Stromberg] Ich hab' auch zu meiner Frau gesagt: "Schatz komm, dann mach' aus dem Schlafzimmer ein Schuhmuseum, ich will dich nicht dabei stören."
+ARI: [Stromberg] I also told my wife: "Darling, let's turn the bedroom into a shoe museum, I don't want to disturb you." ([Stromberg] J'ai aussi dit à ma femme : "Chérie, transformons la chambre en musée de chaussures, je ne veux pas te déranger.")
+
+ORI: Na, da hatten wir wohl die selbe Frau.
+ARI: Well, it seems we had the same wife. (Eh bien, il semble que nous avions la même femme.)
+
+ORI: [Beide lachen]Kommen Sie, nehmen Sie Platz.
+ARI: [Both laugh] Please, have a seat. ([Les deux rient] S'il vous plaît, prenez place.)
+
+ORI: Hauptsache im Büro stimmt es. Die Bürofamilie ist doch verlässlicher.
+ARI: The main thing is that it works in the office. The office family is more reliable. (Le principal, c'est que ça fonctionne au bureau. La famille du bureau est plus fiable.)
+
+ORI: - Mein Reden. - Hab' ich mehrmals festgestellt.
+ARI: - Exactly what I've been saying. - I've noticed it several times. (- Exactement ce que je disais. - Je l'ai remarqué plusieurs fois.)
+
+ORI: Absolut, wenn ich meine Schäfchen wischen durch mal angucke, dann nehme ich 'ne kaputte Ehe dafür in Kauf.
+ARI: Absolutely, when I occasionally look at my little sheep, I'm willing to trade it for a broken marriage. (Absolument, quand je regarde de temps en temps mes petits moutons, je suis prêt à les échanger contre un mariage brisé.)
+
+ORI: Keks?
+ARI: Cookie? (Cookie ?)
+
+ORI: [Mitarbeiter] Ernie, du spinnst doch komplett! Auf dem Niveau brauchen wir hier gar nicht weiterreden!
+ARI: [Employee] Ernie, you're completely crazy! We don't need to continue on this level! ([Employé] Ernie, tu es complètement fou ! Nous n'avons pas besoin de continuer à ce niveau !)
+
+ORI: [Tanja] - Ich glaub' das einfach nicht! [Ernie] - Ja wieso, wer nicht hören will, der, äh... braucht auch nicht essen. Ganz einfach.
+ARI: [Tanja] - I just can't believe it! [Ernie] - Well, why, if someone doesn't want to listen, uh... they also don't need to eat. Simple as that. ([Tanja] - Je n'arrive tout simplement pas à le croire ! [Ernie] - Eh bien, pourquoi, si quelqu'un ne veut pas écouter, euh... il n'a pas besoin de manger non plus. C'est simple comme bonjour.)
+
+ORI: Du kannst doch nicht einfach den Kühlschrank abschließen! Doch, das kann ich, wenn ihr meine Vorschläge nicht umsetzt!
+ARI: You can't just lock the fridge! Yes, I can, if you don't implement my suggestions! (Tu ne peux pas simplement verrouiller le réfrigérateur ! Oui, je le peux, si vous ne mettez pas en œuvre mes suggestions !)
+
+ORI: Als nächstes kommt die Mikrowelle dran, und so weiter! Als Kapitän muss man auch mal dramatisch, äh, drastisch... Muss man auch mal einen über Bord kippen, und so weiter.
+ARI: Next up is the microwave, and so on! As a captain, you also have to be dramatic, uh, drastic... You have to throw someone overboard once in a while, and so on. (Ensuite, c'est le tour du micro-ondes, et ainsi de suite ! En tant que capitaine, il faut aussi parfois être dramatique, euh, drastique... Il faut aussi jeter quelqu'un par-dessus bord de temps en temps, et ainsi de suite.)
+
+ORI: Ja und wenn ihr nicht endlich... Dann ist eben Schluss mit kalten Bananen und Joghurts, und so weiter!
+ARI: And if you don't finally... then it's over with cold bananas and yogurts, and so on! (Et si vous ne le faites enfin pas... alors c'est fini avec les bananes et les yaourts froids, et ainsi de suite !)
+
+ORI: Ja und, und... Dann wollen wir mal sehen!
+ARI: Yes, and, and... Then let's see! (Oui, et, et... Alors voyons !)
+
+ORI: [Verblüffte Gespräche]
+ARI: [Surprised conversations] ([Conversations surprises])
+
+ORI: Aus dieser Tabelle können Sie entnehmen, wie das in Ihrer Familie... Äh, Firma, aussieht.
+ARI: From this table, you can see how it looks in your family... Uh, company. (De cette table, vous pouvez voir comment cela se passe dans votre famille... euh, entreprise.)
+
+ORI: Och, die Uhr. Die hat mir meine Abteilung letztens zum Geburtstag geschenkt. Hier so: "Dem besten Chef der Welt."
+ARI: Oh, the clock. My department gave it to me for my birthday recently. It says: "To the best boss in the world." (Oh, l'horloge. Mon département me l'a offerte pour mon anniversaire récemment. Elle dit : "Au meilleur chef du monde.")
+
+ORI: [Stromberg] Ist doch nett.
+ARI: [Stromberg] That's nice. ([Stromberg] C'est gentil.)
+
+ORI: Herr Stromberg, Sie wollten 'ne Kopie von der Prämientabelle?
+ARI: Mr. Stromberg, did you want a copy of the bonus table? (Monsieur Stromberg, vouliez-vous une copie du tableau des primes?)
+
+ORI: Achso ne
+
+, das hab' ich schon selber.
+ARI: Oh no, I already have it myself. (Oh non, je l'ai déjà.)
+
+ORI: Nee, die grünen sind doch nur intern. Sie wollten doch eine für die Kunden.
+ARI: No, the green ones are only for internal use. You wanted one for the customers. (Non, les verts ne sont que pour un usage interne. Vous en vouliez un pour les clients.)
+
+ORI: Ach, äh, ja Althoff, dann müsste ich Ihnen das kurz mal wieder...
+ARI: Oh, uh, yes, Althoff, then I'll have to get that for you quickly... (Oh, euh, oui, Althoff, alors je vais devoir vous le chercher rapidement...)
+
+ORI: Aber so ist das hier, da steht die Abteilung hinter dem Chef, ne? Da wird ein Fehler, zack, gleich ausgebügelt. Ne Erika?
+ARI: But that's how it is here, the department supports the boss, right? If there's a mistake, it's ironed out immediately. Right, Erika? (Mais c'est comme ça ici, le département soutient le chef, n'est-ce pas ? Si il y a une erreur, elle est immédiatement corrigée. N'est-ce pas, Erika ?)
+
+ORI: Was ist das denn? [Erika lacht] "Dem besten Chef der Welt", na also... Zum nächsten Geburtstag vielleicht ein leiseres Geschenk.
+ARI: What's that? [Erika laughs] "To the best boss in the world," there you go... Maybe a quieter gift for the next birthday. (Qu'est-ce que c'est ? [Erika rit] "Au meilleur chef du monde," voilà... Peut-être un cadeau plus discret pour le prochain anniversaire.)
+
+ORI: Welche Abteilung?
+ARI: Which department? (Quel département ?)
+
+ORI: Ja, Erika, komm jetzt...
+ARI: Yes, Erika, come now... (Oui, Erika, viens maintenant...)
+
+ORI: Jaja, ist gut. Ich melde mich...
+ARI: Yes, yes, alright. I'll get back to you... (Oui, oui, d'accord. Je vous rappelle...)
+
+ORI: Die sind hier alle so. Nehmen Sie doch Platz.
+ARI: They're all like this here. Please have a seat. (Ils sont tous comme ça ici. Prenez donc place.)
+
+ORI: Naja, ich kenne das aus meiner Firma.
+ARI: Well, I know that from my company. (Eh bien, je connais ça de ma société.)
+
+ORI: Hi! Sabine, Buchhaltung. Wir haben ja mal...
+ARI: Hi! Sabine, Accounting. We used to... (Salut ! Sabine, Comptabilité. On avait...)
+
+ORI: Jaja, weiß ich.
+ARI: Yes, yes, I know. (Oui, oui, je sais.)
+
+ORI: Du ich hab' hier 'nen Vorgang, da ist etwas falsch abgerechnet worden.
+ARI: Hey, I have a case here, something was billed incorrectly. (Hé, j'ai un cas ici, quelque chose a été facturé incorrectement.)
+
+ORI: Den hat Ulf gemacht, der ist im Moment im Urlaub.
+ARI: Ulf did it, he's on vacation at the moment. (Ulf l'a fait, il est en vacances pour le moment.)
+
+ORI: Ja, aber das muss diese Woche noch raus, jetzt frage ich dich ob du dir das mal angucken kannst. Du machst doch auch Haftpflicht?
+ARI: Yes, but it has to go out this week, now I'm asking you if you can take a look at it. You also handle liability, right? (Oui, mais ça doit partir cette semaine, maintenant je te demande si tu peux jeter un coup d'œil. Tu t'occupes aussi des responsabilités civiles, non ?)
+
+ORI: Ja schon, aber ich kenne den Vorgang nicht.
+ARI: Yes, I do, but I'm not familiar with this case. (Oui, mais je ne connais pas ce cas.)
+
+ORI: Das wär' aber echt wichtig.
+ARI: But it's really important. (Mais c'est vraiment important.)
+
+ORI: Ach, hier, die Karte! Die ist von Ulf, ne?
+ARI: Oh, here, the card! It's from Ulf, right? (Oh, ici, la carte ! C'est de la part d'Ulf, n'est-ce pas ?)
+
+ORI: Die hat er mir auch geschickt, aber den totalen Stuß geschrieben. "Bin Mr. Poolbar und die Prämie saufen wir heute aus. Wetter super." Und Prämie mit "h". Das ist ech 'n Spinner der Ulf, ne?
+ARI: He sent it to me too, but he wrote complete nonsense. "I'm Mr. Poolbar and we're drinking up the bonus today. Weather's great." And "bonus" with an "h". Ulf is a real weirdo, huh? (Il me l'a aussi envoyée, mais il a écrit n'importe quoi. "Je suis M. Poolbar et on boit le bonus aujourd'hui. Le temps est super." Et "bonus" avec un "h". Ulf est vraiment bizarre, hein ?)
+
+ORI: Sag mal, seid ihr eigentlich noch zusammen? Der hat mir da neulich was erzählt, da bin ich nicht ganz schlau draus ge...
+ARI: By the way, are you still together? He told me something recently, and I couldn't quite figure it out... (Au fait, vous êtes toujours ensemble ? Il m'a raconté quelque chose récemment, et je n'ai pas bien compris...)
+
+ORI: Nee, eben so nicht, Erika!
+ARI: No, not exactly like that, Erika! (Non, pas exactement comme ça, Erika !)
+
+ORI: Nach meinem neuen Plan legen wir die VGOs direkt im Gesamtordner ab und schicken die dann nach oben, so, hier.
+ARI: According to my new plan, we'll put the VGOs directly in the main folder and then send them up, like this. (Selon mon nouveau plan, nous mettrons les VGO directement dans le dossier principal, puis nous les enverrons en haut, comme ça.)
+
+ORI: Jetzt wurschtel mir doch nicht in meinem Vorgang herum!
+ARI: Now don't mess around in my case! (Maintenant, ne fouillez pas dans mon dossier !)
+
+ORI: Och, du spinnst aber jetzt wirklich, oder? Das mit dem Kühlschrank ist doch auch völlig...
+ARI: Oh, are you really crazy now, or what? And the thing with the refrigerator is completely... (Oh, tu es vraiment fou maintenant, ou quoi ? Et l'histoire du réfrigérateur, c'est complètement...)
+
+ORI: Ich will dass hier mal gemacht wird wie ich sage und Basta! Ich hab's satt hier immer ausgelacht zu werden! Nee!
+ARI: I want things to be done here the way I say, and that's final! I'm tired of being laughed at here! No! (Je veux que les choses se fassent ici comme je le dis, et c'est tout ! J'en ai assez d'être ridiculisé ici ! Non !)
+
+ORI: Ich hab' was geleistet und die Arbeitsgruppe ist gut gelaufen. Und ich will, dass das läuft wenn der Herr Becker wiederkommt!
+ARI: I've achieved something, and the workgroup has been running well. And I want it to keep running when Mr. Becker returns! (J'ai accompli quelque chose, et le groupe de travail fonctionne bien. Et je veux que ça continue quand M. Becker reviendra !)
+
+ORI: Ich hab' gehört, da geht es nochmal um die ganzen Positionen.
+ARI: I heard that it's about the positions again. (J'ai entendu dire que c'est encore une fois au sujet des postes.)
+
+ORI: Ja, du warst doch schon im Kindergarten, ne? Wenn keiner mit dir gespielt hat, hast du das Spielzeug kaputt gemacht.
+ARI: Yes, you were already in kindergarten, right? If no one played with you, you broke the toys. (Oui, tu étais déjà à la maternelle, n'est-ce pas ? Si personne ne jouait avec toi, tu cassais les jouets.)
+
+ORI: Ja, Erika, erstens stimmt das gar nicht und zweitens hat die Frau Gretenkord immer mit mir gespielt.
+ARI: Yes, Erika, first of all, that's not true, and secondly, Mrs. Gretenkord always played
+
+ with me. (Oui, Erika, premièrement, ce n'est pas vrai, et deuxièmement, Mme Gretenkord a toujours joué avec moi.)
+
+ORI: Das war die Betreuerin!
+ARI: She was the supervisor! (C'était la superviseure !)
+
+ORI: Gretenkord, jaja...
+ARI: Gretenkord, yeah... (Gretenkord, ouais...)
+
+ORI: So Ernie. Schluss mit lustig. Rück' den Schlüssel raus. Ich hab' Hunger!
+ARI: So Ernie. Enough with the fun and games. Give me the key. I'm hungry! (Alors Ernie. Assez de plaisanteries. Donne-moi la clé. J'ai faim !)
+
+ORI: Nee, erst setzt ihr mein neues System um.
+ARI: No, first you'll implement my new system. (Non, d'abord, vous mettrez en place mon nouveau système.)
+
+ORI: Ich wette er hat ihn ganz schlau hier versteckt!
+ARI: I bet he cleverly hid it here! (Je parie qu'il l'a habilement caché ici !)
+
+ORI: - Finger weg Josef, hier ist nix. - Ihr müsst ihn kitzeln!
+ARI: - Hands off, Josef, there's nothing here. - You have to tickle him! (- Laisse tomber, Josef, il n'y a rien ici. - Tu dois le chatouiller !)
+
+ORI: Schlüssel!!
+ARI: Key!! (Clé !!)
+
+ORI: Jetzt hört doch mal auf, ihr Arschlöcher! Sagt mal habt ihr 'nen Knall!? Ich hab' hier Geschäftstermin!
+ARI: Now, stop it, you assholes! Seriously, are you crazy!? I have a business appointment here! (Maintenant, arrêtez ça, bande d'enfoirés ! Sérieusement, vous êtes fous !? J'ai un rendez-vous professionnel ici !)
+
+ORI: Der Spinner hat mich geschlagen!
+ARI: The weirdo hit me! (Le dingue m'a frappé !)
+
+ORI: Die Arschlöcher haben mich gekitzelt!
+ARI: The assholes tickled me! (Les enfoirés m'ont chatouillé !)
+
+ORI: Ja, weil er den Kühlschrank abgeschlossen hat! Was ist überhaupt los?
+ARI: Yes, because he locked the refrigerator! What's going on anyway? (Oui, parce qu'il a verrouillé le réfrigérateur ! Qu'est-ce qui se passe en fin de compte ?)
+
+ORI: Die wollen mein System nicht umsetzen.
+ARI: They don't want to implement my system. (Ils ne veulent pas mettre en place mon système.)
+
+ORI: Die werden dein System umsetzen, aber nicht jetzt.
+ARI: They will implement your system, but not right now. (Ils mettront en place ton système, mais pas tout de suite.)
+
+ORI: Ich brauch' jetzt Ruhe im Puff.
+ARI: I need peace and quiet in the office now. (J'ai besoin de calme au bureau maintenant.)
+
+ORI: Was brauch' ich?
+ARI: What do I need? (De quoi ai-je besoin ?)
+
+ORI: Ruhe im Puff.
+ARI: Peace and quiet in the office. (Calme au bureau.)
+
+ORI: So.
+ARI: That's right. (C'est ça.)
+
+ORI: Was wär' wenn---
+ARI: What if--- (Et si---)
+
+ORI: Ich brauch' jetzt Ruhe...
+ARI: I need peace and quiet now... (J'ai besoin de calme maintenant...)
+
+ORI: beim Kunden einschleimt.
+ARI: when Ernie tries to curry favor with the client. (quand Ernie essaie de se faire bien voir auprès du client.)
+
+ORI: Das nicht.
+ARI: Not that. (Pas ça.)
+
+ORI: Aber wenn ein wichtiger Kunde zu mir sagt: "Mir wär' lieber wenn hier all grün wären." Dann hole ich schonmal einen Eimer Farbe.
+ARI: But if an important client tells me, "I'd prefer everything to be green here," then I'll go get a bucket of paint. (Mais si un client important me dit : "Je préférerais que tout soit vert ici", alors je vais chercher un seau de peinture.)
+
+ORI: Dann tut dem Ernie halt den Gefallen und macht da mit bei seinem Dings. Zumindest bis ich den Deal unter Dach und Fach habe.
+ARI: So just do Ernie a favor and join in with his thing. At least until I seal the deal. (Alors fais plaisir à Ernie et participe à son truc. Au moins jusqu'à ce que j'ai conclu l'affaire.)
+
+ORI: Bei dem Lärm kann ich ja mit keinem Großkunden verhandeln!
+ARI: I can't negotiate with any major client in this noise! (Je ne peux pas négocier avec un gros client dans ce bruit !)
+
+ORI: Ja, aber der Ernie hat---
+ARI: Yes, but Ernie has--- (Oui, mais Ernie a---)
+
+ORI: Jaa! Der Ernie ist bescheuert, wissen wir. Aber Ich brauch' jetzt Harmonie, verdammte Scheiße!
+ARI: Yeah! We know Ernie is stupid. But I need harmony now, damn it! (Ouais ! On sait qu'Ernie est idiot. Mais j'ai besoin d'harmonie maintenant, bon sang !)
+
+ORI: Aber wenn wir die VGOs schneller--
+ARI: But if we handle the VGOs faster-- (Mais si nous gérons les VGO plus rapidement--)
+
+ORI: Ihr macht jetzt wie der Ernie geschrieben hat und Ruhe! Verdamm ich noch eins!
+ARI: You all do as Ernie wrote, and be quiet now! Damn it! (Vous faites comme Ernie l'a écrit, et soyez calmes maintenant ! Bon sang !)
+
+ORI: [Geschirr klappert]
+ARI: [Dishes clatter] ([Les assiettes cliquettent])
+
+ORI: Ich hab' geguckt, das gibts nicht mehr in meiner Größe.
+ARI: I checked, they don't have it in my size anymore. (J'ai vérifié, ils n'ont plus ma taille.)
+
+ORI: [Sabine] Ja, ich war vorhin schon hier, hab' nur was geholt!
+ARI: [Sabine] Yes, I was here earlier, just grabbed something! ([Sabine] Oui, j'étais déjà ici plus tôt, j'ai juste pris quelque chose !)
+
+ORI: [Mitarbeiterin] - Weiß ich nichts von.[Tanja] - Die drängelt sich gerne vor.
+ARI: [Employee] - I don't know anything about it. [Tanja] - She likes to push her way in. ([Employée] - Je n'en sais rien. [Tanja] - Elle aime se faufiler.)
+
+ORI: [Sabine] - Wie, was soll das werden?[Tanja] - Ist doch so.
+ARI: [Sabine] - What, what is this supposed to be? [Tanja] - It's true. ([Sabine] - Quoi, que devrait être cela ? [Tanja] - C'est vrai.)
+
+ORI: [Sabine] - Wie, "ist doch so"?[Tanja] - Generell mal hinten anstellen.
+ARI: [Sabine] - What, "it's true"? [Tanja] - Generally, just stand in line at the back. ([Sabine] - Quoi, "c'est vrai" ? [Tanja] - En général, mets-toi à la fin de la file.)
+
+ORI: [Sabine] Hä, sag' mal spinn' ich jetzt? Ach Gott! Weil Typ mir auch 'ne Karte geschrieben hat!
+ARI: [Sabine] What, am I going crazy now? Oh God! Because some guy also wrote me a card! ([Sabine] Quoi, est-ce que je deviens folle maintenant ? Oh mon Dieu ! Parce qu'un gars m'a aussi écrit une carte !)
+
+ORI: - Können wir hier mal weiter?
+ARI: - Can we continue here? (- Pouvons-nous continuer ici ?)
+
+ORI: - Gräfin Blondie bestimmt hier jetzt...
+ARI: - Countess Blondie is in charge here now... (- La comtesse Blondie est en charge ici maintenant...)
+
+ORI: Hey, jetzt macht mal halblang, echt!
+ARI: Hey, calm down now, seriously! (Hé, calmez-vous maintenant, sérieusement !)
+
+ORI: Meinst du ich hab' nicht mitgekriegt was bei dem Kurs war?
+ARI: Do you think I didn't notice what happened during the course? (Tu crois que je n'ai pas remarqué ce qui s'est passé pendant le cours ?)
+
+ORI: Das ist ja noch aufgewärmter als das Essen hier! Und die SMS zwischendurch. Glaubst du ich bin blöd?
+ARI: This is even more reheated than the food here! And the text messages in between. Do you think I'm stupid? (C'est encore plus réchauffé que la nourriture ici ! Et les messages texte entre temps. Tu crois que je suis idiot ?)
+
+ORI: Ich glaube bei dir kommt grade PMS. Was jetzt, Schlammcatchen oder was?
+ARI: I think you're having PMS right now. What, mud wrestling or something? (Je pense que tu as des règles en ce moment. Quoi, lutte dans la boue ou quelque chose comme ça ?)
+
+ORI: [Alles fällt auf den Boden]
+ARI: [Everything falls to the floor] ([Tout tombe par terre])
+
+ORI: Mann, echt.
+ARI: Man, seriously. (Mec, sérieusement.)
+
+OR
+
+I: [Sabine wirft die Scherben auf Tablett]
+ARI: [Sabine throws the shards onto the tray] ([Sabine jette les éclats sur le plateau])
+
+ORI: [Kaffeemaschine blubbert]
+ARI: [Coffee machine bubbles] ([La machine à café fait des bulles])
+
+ORI: Mensch, da will ich meine Abteilung zeigen und meine beste Kraft heult.
+ARI: Man, I want to show my department and my best talent is crying. (Mec, je veux montrer mon département et mon meilleur talent pleure.)
+
+ORI: - Ich hab' mich nur aufgeregt---
+ARI: - I was just upset--- (- J'étais juste contrarié---)
+
+ORI: Ja, zurecht!
+ARI: Yes, rightly so! (Oui, à juste titre !)
+
+ORI: Die Sabbel da, da hört sich der Spaß aber auf!
+ARI: But with Sabbel there, the fun stops! (Mais avec Sabbel là-bas, le plaisir s'arrête !)
+
+ORI: Da werde ich persönlich dafür sorgen, daß die versetzt wird.
+ARI: I will personally make sure she gets transferred. (Je vais personnellement m'assurer qu'elle soit mutée.)
+
+ORI: Nee, es ging doch nur um was Privates.
+ARI: No, it was just about something private. (Non, c'était juste une affaire privée.)
+
+ORI: Ja nee, komm. Also das... Du weißt ganz genau, ich setz' mich immer für meine Leute ein. Und ich kenne den Chef von der Buchhaltung dort sehr gut. Und der soll da gleich mal...
+ARI: Yeah, come on. So this... You know very well that I always stand up for my people. And I know the head of the accounting department there very well. And he should... (Ouais, viens. Donc ça... Tu sais très bien que je défends toujours mes gens. Et je connais très bien le chef du service comptabilité là-bas. Et il devrait...)
+
+ORI: - So, komm.
+ARI: - So, come on. (- Alors, viens.)
+
+ORI: - Wirklich, das war nicht...
+ARI: - Seriously, it wasn't... (- Sérieusement, ce n'était pas...)
+
+ORI: Jochen? Jochen altes Scheißhaus! Ich bins!
+ARI: Jochen? Jochen, you old shit house! It's me! (Jochen ? Jochen, vieux bâtard ! C'est moi !)
+
+ORI: Hör mal, ich hab' ein Problemchen mit der Sabbel, der Buhrer da aus deinem Haufen, du ist nicht mehr tragbar.
+ARI: Listen, I have a little problem with Sabbel, that Buhrer from your team, she's no longer acceptable. (Écoute, j'ai un petit problème avec Sabbel, ce Buhrer de ton équipe, elle n'est plus acceptable.)
+
+ORI: Bernd. Stromberg! Hier aus dem Haus!
+ARI: Bernd. Stromberg! Here from the office! (Bernd. Stromberg ! Ici, de l'entreprise !)
+
+ORI: Schadensregul...
+ARI: Claims settlement...
+(Indemnisation des sinistres...)
+
+ORI: Ja, oder so.
+ARI: Yes, or something like that.
+(Oui, ou quelque chose comme ça.)
+
+ORI: Ja ist gut, tschüss.
+ARI: Yes, that's fine, goodbye.
+(Oui, c'est bien, au revoir.)
+
+ORI: Das regle ich mit ihm unter vier Augen.
+ARI: I'll settle that with him privately.
+(Je réglerai cela avec lui en privé.)
+
+ORI: So Herr Althoff, wollen wir mal?
+ARI: So, Mr. Althoff, shall we begin?
+(Alors, M. Althoff, commençons-nous ?)
+
+ORI: [Mitarbeitern] Morgen.
+ARI: [Employees] Tomorrow.
+([Employés] Demain.)
+
+ORI: Ich hab' gestern nochmal mit den Fachabteilungen zusammengesessen
+und wir haben eine gute Lösung wegen dem Haftungsausschluss.
+ARI: I sat down with the specialized departments yesterday
+and we've come up with a good solution regarding the liability waiver.
+(J'ai discuté avec les départements spécialisés hier
+et nous avons trouvé une bonne solution concernant la renonciation à la responsabilité.)
+
+ORI: Es würde mich freuen, wenn wir heute abschließen könnten.
+ARI: I would be pleased if we could conclude today.
+(Je serais heureux si nous pouvions conclure aujourd'hui.)
+
+ORI: Ja, ich mich auch.
+ARI: Yes, I would too.
+(Oui, moi aussi.)
+
+ORI: Ich komme gerne auch zu Ihnen mal raus in die Firma.
+ARI: I'd be happy to come to your company sometime.
+(Je serais heureux de venir dans votre entreprise à un moment donné.)
+
+ORI: Kein Problem, ich sehe gerne, wie andere mit ihren Mitarbeitern umgehen.
+ARI: No problem, I like to see how others interact with their employees.
+(Pas de problème, j'aime voir comment les autres interagissent avec leurs employés.)
+
+ORI: Herr Stromberg, danke nochmal wie Sie sich gestern eingesetzt haben!
+ARI: Mr. Stromberg, thanks again for your support yesterday!
+(M. Stromberg, merci encore pour votre soutien hier !)
+
+ORI: Ist doch klar, Ernie!
+Wenn einer von meinen Leuten einen Vorschlag macht,
+hat er doch immer Rückhalt von mir!
+ARI: Of course, Ernie! When one of my people makes a suggestion,
+they always have my support!
+(Bien sûr, Ernie ! Quand l'un de mes collaborateurs fait une suggestion,
+il a toujours mon soutien !)
+
+ORI: Das ist der Herr Althoff, das ist Ernie, ein sehr guter Mitarbeiter.
+ARI: This is Mr. Althoff, this is Ernie, a very good employee.
+(C'est M. Althoff, c'est Ernie, un très bon employé.)
+
+ORI: Also eigentlich Bert. Berthold.Heisterkamp.
+ARI: Actually, Bert. Berthold Heisterkamp.
+(En réalité, Bert. Berthold Heisterkamp.)
+
+ORI: Freut mich. Sympathische Abteilung,die Sie hier haben.
+ARI: Nice to meet you. You have a pleasant department here.
+(Enchanté. Vous avez un département agréable ici.)
+
+ORI: Ja, wobei da auch viele dabei sind, die menschlich gesehen--
+ARI: Yes, although there are also many who, from a human perspective--
+(Oui, bien qu'il y en ait aussi beaucoup qui, d'un point de vue humain--)
+
+ORI: Ja. der Ernie ist spitze,bisschen wie der Froschkönig,
+also eigentlich ein Prinz, aber gefangen in seinem Körper...
+ARI: Yes, Ernie is great, a bit like the Frog Prince,
+actually a prince but trapped in his body...
+(Oui, Ernie est génial, un peu comme le Prince Grenouille,
+en fait un prince mais piégé dans son corps...)
+
+ORI: Das ist ja mehr ein Zellhaufen hier.
+ARI: This is more like a cell heap here.
+(C'est plutôt un tas de cellules ici.)
+
+ORI: Ist ja alles nur Spaß.
+ARI: It's all just for fun.
+(C'est juste pour s'amuser.)
+
+ORI: Ja, wir sagen auch oft Strombose.
+Oder Saddam haben wir auch oft gesagt, weil er immer so...
+Wir haben uns natürlich totgelacht,weil nimmt ja keiner ernst--
+ARI: Yes, we often call it "Strombose."
+Or we've also said Saddam often, because he's always like that...
+Of course, we laughed our heads off, because no one takes it seriously--
+(Oui, nous l'appelons souvent "Strombose."
+Ou nous avons aussi souvent dit Saddam, parce qu'il est toujours comme ça...
+Bien sûr, nous avons ri à en perdre la tête, car personne ne le prend au sérieux--)
+
+ORI: Ja, Ernie, komm geh wieder arbeiten wie Erwachsene,
+wir müssen hier noch ein bisschen unter uns...
+ARI: Yes, Ernie, come on, go back to work like adults,
+we still have some private matters to discuss here...
+(Oui, Ernie, allez, retournez travailler comme des adultes,
+nous avons encore quelques sujets privés à discuter ici...)
+
+ORI: - Wässerchen?
+- Ja.
+ARI: - Water?
+- Yes.
+(- De l'eau ?
+- Oui.)
+
+ORI: Ich hab' nichts von Versetzung gesagt!
+ARI: I didn't mention anything about a transfer!
+(Je n'ai rien dit à propos d'une mutation !)
+
+ORI: Auch noch nach Darmstadt! Ausgerechnet Darmstadt!
+ARI: And to Darmstadt of all places! Just Darmstadt!
+(Et à Darmstadt en plus ! Juste Darmstadt !)
+
+ORI: Das klingt doch schon wie...Darm. Stadt.
+ARI: That already sounds like...Darm. Stadt.
+(Ça ressemble déjà à...Darm. Stadt.)
+
+ORI: Ich hätte ja nie gedacht,daß der das durchzieht.
+Ner macht doch normalerweisenie was er sagt.
+ARI: I never thought he would go through with it.
+He usually never follows through on what he says.
+(Je n'aurais jamais pensé qu'il irait jusqu'au bout.
+Il ne suit généralement jamais ce qu'il dit.)
+
+ORI: Darmstadt! So 'ne Scheiße!
+ARI: Darmstadt! Such crap!
+(Darmstadt ! Quelle merde !)
+
+ORI: Wie gesagt, war nicht meine Idee.
+ARI: Like I said, it wasn't my idea.
+(Comme je l'ai dit, ce n'était pas mon idée.)
+
+ORI: Hör mal, da läuft nix mit Ulf und so.
+Also jetzt nicht nur weil ich nicht nach D
+
+armstadt will.
+Der Ulf ist 'ne total treue Socke.
+ARI: Listen, there's nothing going on with Ulf and all that.
+Not just because I don't want to go to Darmstadt.
+Ulf is a totally loyal guy.
+(Écoute, il ne se passe rien avec Ulf et tout ça.
+Pas seulement parce que je ne veux pas aller à Darmstadt.
+Ulf est un gars totalement loyal.)
+
+ORI: - Mhm, Mr. Poolbar.
+- Das ist doch bloß Show!
+ARI: - Mhm, Mr. Poolbar.
+- That's just for show!
+(- Mhm, M. Poolbar.
+- C'est juste pour la représentation !)
+
+ORI: Hör mal, der liebt Dich. Hat er mir selber gesagt.
+ARI: Listen, he loves you. He told me himself.
+(Écoute, il t'aime. Il me l'a dit lui-même.)
+
+ORI: Was? Wieso erzählt er Dir denn sowas?
+ARI: What? Why would he tell you something like that?
+(Quoi ? Pourquoi te dirait-il quelque chose comme ça ?)
+
+ORI: Oh Gott, jetzt muss ich erst recht nach Darmstadt!
+Nee, jetzt ohne Scheiß,hat er mir neulich erzählt.
+ARI: Oh God, now I really have to go to Darmstadt!
+No, seriously, he told me recently.
+(Oh mon Dieu, maintenant je dois vraiment aller à Darmstadt !
+Non, sérieusement, il me l'a dit récemment.)
+
+ORI: Nee Spaß! Hallo, war 'n Scherz!
+[Sabine] Nee, wie gesagt. Tut mir echt Leid die Nummer in der Kantine und so.
+ARI: No, just kidding! Hello, it was a joke!
+[Sabine] No, as I said. I'm really sorry about the situation in the cafeteria and all.
+(Non, juste pour rire ! Salut, c'était une blague !
+[Sabine] Non, comme je l'ai dit. Je suis vraiment désolée pour la situation à la cafétéria et tout.)
+
+ORI: Okay, und ich red' nochmal mit Stromberg wegen Darmstadt.
+[Sabine] - Ja, bitte.
+[Tanja] - Wie wär's mit Pirmasens?
+- Blöde Schnalle! - Trulla!
+ARI: Okay, and I'll talk to Stromberg again about Darmstadt.
+[Sabine] - Yes, please.
+[Tanja] - How about Pirmasens?
+- Stupid b*tch! - Trulla!
+(D'accord, et je parlerai à Stromberg à nouveau de Darmstadt.
+[Sabine] - Oui, s'il vous plaît.
+[Tanja] - Et que diriez-vous de Pirmasens ?
+- P*tain d'idiote ! - Trulla !)
+
+ORI: Hey, Zicke!
+[Beide lachen]
+[Stromberg] Junge junge, mit wem quatschter denn die ganze Zeit?
+ARI: Hey, bitch!
+[Both laugh]
+[Stromberg] Hey hey, who are you talking to all the time?
+(Hey, salope !
+[Tous les deux rient]
+[Stromberg] Hé hé, à qui parles-tu tout le temps ?)
+
+ORI: Ja, der Alte hat hier nämlich unterschrieben, deswegen bin ich
+auf sein blödes Gesicht gespannt,wenn ich ihm das hier...
+ARI: Yes, the old man signed here, that's why I'm curious to see his stupid face when I show him this...
+(Oui, le vieux a signé ici, c'est pourquoi je suis curieux de voir sa stupide expression quand je lui montrerai ça...)
+
+ORI: Dann ist hier auch mal piano vonwegen Stromberg und Schaden und so.
+ARI: Then let's take it easy here for a moment, regarding Stromberg and damage and such. (Alors, prenons-le doucement ici un instant, en ce qui concerne Stromberg et les dommages, et tout ça.)
+
+ORI: Ja, jetzt hat er aufgelegt.
+ARI: Yes, he hung up now. (Oui, il a raccroché maintenant.)
+
+ORI: - Na Herr Becker, wie war's in Den Haag? - Herr Stromberg!
+ARI: - Well, Mr. Becker, how was it in The Hague? - Mr. Stromberg! (Eh bien, Monsieur Becker, comment ça s'est passé à La Haye ? - Monsieur Stromberg !)
+
+ORI: Haben Sie den belgischen Pommesgesichtern mal Dampf gemacht?
+ARI: Did you give those Belgian potato-faced people a hard time? (Avez-vous donné du fil à retordre à ces gens à la face de pomme de terre belge ?)
+
+ORI: Den Haag liegt in Holland.
+ARI: The Hague is in the Netherlands. (La Haye se trouve aux Pays-Bas.)
+
+ORI: Jedenfalls war ich auch nicht untätig und hab' hier was ausverhandelt.
+ARI: Anyway, I wasn't idle either and negotiated something here. (Quoi qu'il en soit, je n'étais pas inactif et j'ai négocié quelque chose ici.)
+
+ORI: - Was ist das? - Ja, schauen Sie mal was hier steht. Hans Georg Althoff. Praktisch alles akzeptiert, was wir hier besprochen haben.
+ARI: - What's this? - Yes, take a look at what's written here. Hans Georg Althoff. Practically accepted everything we discussed here. (- Qu'est-ce que c'est ? - Oui, regardez ce qui est écrit ici. Hans Georg Althoff. Il a pratiquement accepté tout ce que nous avons discuté ici.)
+
+ORI: Ich hatte doch ausdrücklich gesagt, dass Sie hier nichts unternehmen!
+ARI: I explicitly told you not to do anything here! (Je vous avais explicitement dit de ne rien faire ici !)
+
+ORI: Ja, aber als Sie weg waren, sagte der Althoff zu mir, dass ihm das gar nicht so recht ist mit dem Warten. Und da hab' ich den vielleicht bearbeitet!
+ARI: Yes, but when you were gone, Althoff told me that he wasn't too happy about waiting. And maybe I worked on him a bit! (Oui, mais quand vous étiez parti, Althoff m'a dit qu'il n'était pas trop content d'attendre. Et peut-être que je l'ai un peu travaillé !)
+
+ORI: Und ja, man soll den Kunden ja schmieden, solange er heiß ist.
+ARI: And yes, one should forge the customer while they're still hot. (Et oui, il faut forger le client tant qu'il est encore chaud.)
+
+ORI: Und da ging es hin und her. Und her und hin, und am Ende hab' ich gesagt: "So, Althoff Titten auf'n Tisch!" hab ich gesagt. Wirklich. Ne?
+ARI: And back and forth it went. And forth and back, and in the end, I said, "So, Althoff, put your cards on the table!" I said. Seriously. Right? (Et ça allait de ça et de là. Et de ça en ça, et à la fin, j'ai dit : "Alors, Althoff, mets tes cartes sur la table !" j'ai dit. Sérieusement. Non ?)
+
+ORI: Den hatten ja auch schon alle abgeschrieben, aber nach drei Tagen, so Comeback. So richtig, wo keiner mehr damit gerechnet hat.
+ARI: Everyone had already written him off, but after three days, such a comeback. Really, where no one expected it anymore. (Tout le monde l'avait déjà abandonné, mais après trois jours, quel retour en force. Vraiment, là où personne ne s'y attendait plus.)
+
+ORI: Also... Hallo... Also sowas ist wirklich... Da merkst du erst mal, was das vorher für 'ne Belastung war! Innere. Auch so... psychisch! Alles fällt jetzt ab von einem. Das macht schon Spaß, muss ich sagen.
+ARI: So... Hello... So something like that is really... You only realize what a burden it was before! Internally. Also, mentally! Everything is falling away from you now. It's quite enjoyable, I must say. (Alors... Salut... Alors quelque chose comme ça, c'est vraiment... On ne réalise que maintenant combien c'était un fardeau ! Intérieurement. Aussi, mentalement ! Tout tombe maintenant. C'est plutôt amusant, je dois dire.)
+
+ORI: [Er macht Furzgeräusche] Ich mach doch nur Spaß!
+ARI: [He makes fart noises] I'm just kidding! (Il fait des bruits de pets] Je plaisante !)
+
+ORI: [Klaviermusik und Staubsauger] So Meister. Ich Chef! Nixe Papierscheiße machen! Hier, großes Büro, normale Leute, Papierscheiß. Mitgedacht und Spaß gehabt. Auch von 'nem Büroboten könnte man erwarten--
+ARI: [Piano music and vacuum cleaner] So, boss. Me, boss! No paper crap! Here, big office, normal people, paper crap. Expected and had fun. You could also expect it from a robot... ( [Musique de piano et aspirateur] Alors, patron. Moi, patron ! Pas de conneries de papier ! Ici, grand bureau, gens normaux, conneries de papier. On s'y attendait et on s'est amusé. On pourrait aussi s'attendre à ça d'un robot...)
+
+ORI: Ach, die ganzen VGOs, die von der Zentrale zurückgekommen sind! Ja, die kommen dort ins Rotieren, weil nix abgesprochen ist.
+ARI: Oh, all the VGOs that have come back from headquarters! Yes, they're spinning there because nothing has been coordinated. (Oh, tous les VGO qui sont revenus du siège ! Oui, ils tournent en rond là-bas parce qu'il n'y a pas eu de coordination.)
+
+ORI: Hier, mit Ernies super Neuerung. Also wir schicken die ohne Einser direkt in die Zentrale, ja? Aber so können die keine PV erstellen.
+ARI: Here, with Ernie's super innovation. So, we send them directly to headquarters without any ones, right? But that way, they can't create PVs. (Ici, avec la super innovation d'Ernie. Donc, on les envoie directement au siège sans aucun numéro un
+
+, n'est-ce pas ? Mais de cette façon, ils ne peuvent pas créer de PV.)
+
+ORI: - Und was soll ich damit? - Ja, Herr Becker sagte allein ausbaden. - Wieso weiß der denn davon? - Der ist stocksauer, ja? Weil in der Zentrale ist wegen dem Zeug der Rechner abgeschmiert. Und die haben sich klarerweise beschwert.
+ARI: - And what am I supposed to do with that? - Yes, Mr. Becker said you'll have to deal with it alone. - Why does he know about it? - He's furious, right? Because the computer in headquarters crashed because of that stuff. And they obviously complained. (- Et qu'est-ce que je suis censé en faire ? - Oui, Monsieur Becker a dit que tu devrais t'en occuper tout seul. - Pourquoi sait-il cela ? - Il est furieux, non ? Parce que l'ordinateur au siège a planté à cause de cette merde. Et ils se sont évidemment plaints.)
+
+[Ernie] Na, Herr Stromberg? Alles klärchen? Komm, jetzt lass mal den Scheiß, guck dir lieber deine Neuerungen an, da.
+ARI: [Ernie] Well, Mr. Stromberg? Everything clear? Come on, let's leave this shit behind, and rather check out your innovations there. ([Ernie] Eh bien, Monsieur Stromberg ? Tout est clair ? Allez, laissons cette merde de côté et examinons plutôt vos innovations là-bas.)
+
+ORI: - Wieso, was ist damit?
+ARI: - Why, what's the matter with it? (Pourquoi, qu'est-ce qui ne va pas avec ça ?)
+
+ORI: - Die Zentrale ist stocksauer!
+ARI: - The headquarters is furious! (La direction est furieuse !)
+
+ORI: - Wieso?
+ARI: - Why? (Pourquoi ?)
+
+ORI: - Weil du nichts abgeklärt hast!
+ARI: - Because you didn't clarify anything! (Parce que tu n'as rien clarifié !)
+
+ORI: - Wir schicken das hier ohne PV
+ARI: - We're sending this without a purchase order. (Nous envoyons ceci sans bon de commande.)
+
+ORI: - an die Zentrale...
+ARI: - to the headquarters... (à la direction...)
+
+ORI: [Ernie] - Was?
+ARI: [Ernie] - What? (Ernie - Quoi ?)
+
+ORI: - Die Zentrale kann die PV dafür nicht erstellen!
+ARI: - The headquarters can't create the purchase order for it! (La direction ne peut pas créer le bon de commande pour cela !)
+
+ORI: [Ernie] - Ach du Scheiße!
+ARI: [Ernie] - Oh, shit! (Ernie - Oh, merde !)
+
+ORI: - Ja, Scheiße, stell dir vor.
+ARI: - Yeah, shit, imagine that. (Ouais, merde, imagine ça.)
+
+ORI: So, der ganze Bums macht Überstunden, bis den Scheiß im Lot ist.
+ARI: So, the whole thing is working overtime until this shit is sorted out. (Donc, tout ça fait des heures supplémentaires jusqu'à ce que cette merde soit réglée.)
+
+ORI: [Stromberg knallt die Tür zu, Erika summt zufrieden]
+ARI: [Stromberg slams the door shut, Erika hums contentedly] ([Stromberg] claque la porte, Erika fredonne avec satisfaction)
+
+ORI: Hey, Schnupps.
+ARI: Hey, Schnupps. (Hé, Schnupps.)
+
+ORI: Hey, was machst du denn hier, ich dachte du kommst erst morgen!
+ARI: Hey, what are you doing here? I thought you were coming tomorrow! (Eh bien, qu'est-ce que tu fais ici ? Je pensais que tu venais demain !)
+
+ORI: Bin schon 'nen Tag eher geflogen.
+ARI: I flew a day earlier. (J'ai volé un jour plus tôt.)
+
+ORI: [Tanja] Nicht mehr ausgehalten, ganz ohne...
+ARI: [Tanja] Couldn't stand it any longer, completely without... ([Tanja] N'en pouvais plus, complètement sans...)
+
+ORI: [Ulf] Hat die letzten Tage nur geschifft.
+ARI: [Ulf] Has been raining for the past few days. ([Ulf] Il a plu ces derniers jours.)
+
+ORI: Sag' mal, ich hab doch noch einen Ersatzschlüssel für die Wohnung. [klappert mit dem Schlüsselbund]
+ARI: Tell me, I still have a spare key for the apartment. [jingles the keychain] (Dis-moi, j'ai encore une clé de rechange pour l'appartement. [secoue le trousseau de clés])
+
+ORI: Und wie war's hier so die ganze Zeit?
+ARI: And how was it here all this time? (Et comment ça s'est passé ici tout ce temps ?)
+
+ORI: Ja, schon so Einiges...
+ARI: Yeah, quite a lot... (Ouais, pas mal de choses...)
+
+ORI: Du siehst gut aus, muss ich schon sagen.
+ARI: You look good, I have to say. (Tu as l'air bien, je dois dire.)
+
+ORI: Ja, ich war die ersten Tage nur in der Sonne, - und bisschen Haare geschnitten.
+ARI: Yeah, I was just in the sun for the first few days - and got a bit of a haircut. (Ouais, j'étais juste au soleil les premiers jours - et j'ai un peu coupé mes cheveux.)
+
+ORI: Ulf, echt. Kannst du nicht sagen "Du aber auch" oder so?
+ARI: Ulf, seriously. Can't you say "You too" or something? (Ulf, sérieusement. Tu ne peux pas dire "Toi aussi" ou quelque chose comme ça ?)
+
+ORI: Hast du mir wenigstens was mitgebracht?
+ARI: Did you bring me something at least? (Tu m'as apporté quelque chose au moins ?)
+
+ORI: Lass uns mal kurz raus gehen. Ganz kurz.
+ARI: Let's go out for a quick moment. Very briefly. (Sortons un instant. Très brièvement.)
+
+ORI: Hast du mir doch was mitgebracht? [Tanja] Was größeres? [Ernie] So. Wer war das hier? Wer hat mir dieses... äh? Da sind auch private Sachen von mir dabei!
+ARI: Did you bring me something after all? [Tanja] Something bigger? [Ernie] So. Who did this? Who left me this... uh? There are also private things of mine in there! (Tu m'as quand même apporté quelque chose ? [Tanja] Quelque chose de plus gros ? [Ernie] Alors. Qui a fait ça ? Qui m'a laissé ça... euh ? Il y a aussi des affaires privées à moi là-dedans !)
+
+ORI: Und das... Ooch...
+ARI: And this... Ooh... (Et ça... Ooh...)
+
+ORI: Hier, das... Wenn da was von kaputt ist, oder so! Ich hab' 'ne Rechtsschutzversicherung! Da könnt ihr euch alle mal...
+ARI: Here, this... If anything's broken, or something! I have legal insurance! You can all... (Ici, ça... Si quelque chose est cassé, ou quoi que ce soit ! J'ai une assurance juridique ! Vous pouvez tous...)
+
+ORI: Ich muss genau so Überstunden machen wie ihr auch!! So, das ist alles hier jetzt verknittert...
+ARI: I have to work overtime just like you guys do!! So, everything here is all wrinkled now... (Je dois faire des heures supplémentaires exactement comme vous !! Donc, tout ici est tout froissé maintenant...)
+
+ORI: Und dafür fährst du extra in die Türkei? Für "Ich glaube es ist besser, wenn wir Schluß machen" oder so. Mit Wörtern, das ist einfach nicht so mein Ding. Mit mir ist auch nicht so dein Ding, ne? Ja im Prinzip ja schon, aber... Boah Mann... Du weisst doch was ich meine. In Liebeserklärungen warst du schon nicht gut. Aber im Schluß machen bist du totale Scheiße. Oder halt was A
+
+nderes.
+ARI: And you went all the way to Turkey for this? For "I think it's better if we break up" or something. Words, that's just not my thing. With me, I'm not your thing either, right? Yeah, in principle, maybe, but... Oh man... You know what I mean. You were never good with declarations of love. But when it comes to breaking up, you're a total shit. Or something else. (Et tu es allé jusqu'en Turquie pour ça ? Pour "Je pense que c'est mieux si on se sépare" ou quelque chose comme ça. Les mots, ce n'est juste pas mon truc. Avec moi, je ne suis pas ton truc non plus, n'est-ce pas ? Ouais, en principe, peut-être, mais... Oh mec... Tu sais ce que je veux dire. Tu n'as jamais été doué pour les déclarations d'amour. Mais quand il s'agit de rompre, tu es vraiment nul. Ou quelque chose d'autre.)
+
+ORI: Ist wie auf 'ner Autobahn, wenn du dich nicht auskennst.
+ARI: It's like on a highway when you don't know your way around. (C'est comme sur une autoroute quand tu ne connais pas le chemin.)
+
+ORI: und da denkt man ja auch, nehm' ich jetzt die Ausfahrt oder warte ich noch auf die nächste... Ausfahrt?
+ARI: And just like on a highway, you think, do I take this exit now, or do I wait for the next one... exit? (Et tout comme sur une autoroute, vous vous demandez, est-ce que je prends cette sortie maintenant, ou j'attends la suivante... sortie ?)
+
+ORI: Entscheide ich immer aus dem Bauch raus.
+ARI: I always decide based on my gut feeling. (Je décide toujours en me fiant à mon instinct.)
+
+ORI: Der Wagner meinte, Sie wollten Frau Buhrer nach Darmstadt versetzen lassen.
+ARI: Wagner mentioned that you wanted to transfer Mrs. Buhrer to Darmstadt. (Wagner a mentionné que vous vouliez transférer Mme Buhrer à Darmstadt.)
+
+ORI: Ja, da hat es 'nen Vorfall gegeben, wo ich--
+ARI: Yes, there was an incident where I-- (Oui, il y a eu un incident où je--)
+
+ORI: [Becker] Sie können doch nicht einfach jemanden versetzen lassen!
+ARI: [Becker] You can't just transfer someone like that! ([Becker] Vous ne pouvez pas simplement transférer quelqu'un comme ça !)
+
+ORI: [Stromberg] Ich kenne die Frau Wichorskija ganz gut, und die regelt sowas locker unter'm Tisch, so daß ich... Aber mittlerweile hab' ich das ja zurückge... äh. Die bleibt ja hier, die Sabbel!
+ARI: [Stromberg] I know Frau Wichorskija quite well, and she handles such things easily behind the scenes, so I... But by now, I've, uh, taken that back... uh. She's staying here, Sabbel! ([Stromberg] Je connais bien Frau Wichorskija, et elle gère ce genre de choses en douce, donc je... Mais maintenant, j'ai, euh, repris ça... euh. Elle reste ici, Sabbel !)
+
+ORI: Ich sag' ja immer Sabbel, weil die Sabine Buhrer--
+ARI: I always say Sabbel because Sabine Buhrer-- (Je dis toujours Sabbel parce que Sabine Buhrer--)
+
+ORI: [Becker] Herr Stromberg, machen Sie selbst alle VGOs, die zurückgekommen sind.
+ARI: [Becker] Mr. Stromberg, you do all the VGOs that have come back yourself. ([Becker] Monsieur Stromberg, vous faites vous-même tous les VGOs qui sont revenus.)
+
+ORI: [Becker] Und bringen Sie sie in die alte Form zurück!
+ARI: [Becker] And bring them back to their old form! ([Becker] Et ramenez-les à leur ancienne forme !)
+
+ORI: Hab' ich den Leuten aber schon gesagt, daß da unausweichlich Überstunden--
+ARI: But I've already told the people that there will inevitably be overtime-- (Mais j'ai déjà dit aux gens qu'il y aurait inévitablement des heures supplémentaires--)
+
+ORI: Sie machen das. Und zwar ganz alleine.
+ARI: You'll do it. All by yourself. (Vous le ferez. Tout seul.)
+
+ORI: Und ich werde dafür sorgen, daß Ihnen alle Befugnisse abgesprochen werden.
+ARI: And I will ensure that all your privileges are revoked. (Et je veillerai à ce que tous vos privilèges soient révoqués.)
+
+ORI: [Strombergs Pausenuhr beginnt zu läuten]
+ARI: [Stromberg's break timer starts ringing] ([L'alarme de pause de Stromberg commence à sonner])
+
+ORI: Das ist, das...
+ARI: That's, that... (C'est, ça...)
+
+ORI: [Stromberg] So gut wie weg. Das ist einfach nur, äh...
+ARI: [Stromberg] Almost gone. It's just, uh... ([Stromberg] Presque parti. C'est juste, euh...)
+
+ORI: [die Uhr singt]
+ARI: [the clock sings] ([l'horloge chante])
+
+ORI: [Bert gibt ächzende Geräusche von sich]
+ARI: [Bert makes groaning noises] ([Bert émet des bruits de grognement])
+
+ORI: [Er strengt sich mächtig an]
+ARI: [He's making a great effort] ([Il fait de gros efforts])
+
+ORI: Mann!
+ARI: Man! (Mec !)

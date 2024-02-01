@@ -1,0 +1,3151 @@
+ORI: [leises Rauschen]
+ARI: [soft noise]
+(Faible bruit)
+
+ORI: [Junge 1] Kamera läuft.Wir haben Geschichte geschrieben.
+ARI: [Boy 1] Camera rolling.We just made history.
+([Garçon 1] Caméra en marche.Nous venons d'écrire l'histoire.)
+
+ORI: Die PerfettiBanderettet ihr erstes Leben!
+ARI: The PerfettiBanderettas started their first life!
+(Les PerfettiBanderettas ont commencé leur première vie !)
+
+ORI: Ja!Whoo!
+ARI: Yes!Whoo!
+(Oui !Whoo !)
+
+ORI: Perfetti!
+ARI: Perfetti!
+(Perfetti !)
+
+ORI: Ich war mit einer nackt baden.Die aus der 9.
+ARI: I went skinny dipping with one from 9th grade.
+(J'ai fait du nudisme avec une personne de la 9e année.)
+
+ORI: Klar.Geil.
+ARI: Of course.Awesome.
+(Bien sûr.Génial.)
+
+ORI: [HipHopMusik]
+ARI: [Hiphop music]
+(Musique hiphop)
+
+ORI: Ja!Freunde für immer!
+ARI: Yes!Friends forever!
+(Oui !Amis pour toujours !)
+
+ORI: Freunde für immer!Freunde für immer!
+ARI: Friends forever! Friends forever!
+(Amis pour toujours ! Amis pour toujours !)
+
+ORI: Ich hab 'ne Idee.Blutsbrüderschaft.
+ARI: I have an idea. Blood brotherhood.
+(J'ai une idée. Fraternité de sang.)
+
+ORI: Blutsbrüderschaft.Blutsbrüderschaft!
+ARI: Blood brotherhood.Blood brotherhood!
+(Fraternité de sang.Fraternité de sang !)
+
+ORI: Halt. Warte, Leo.
+ARI: Stop. Wait, Leo.
+(Stop. Attends, Leo.)
+
+ORI: Okay, jetzt.
+ARI: Okay, now.
+(D'accord, maintenant.)
+
+ORI: Ah! Fuck!Fuck! Lauf zur Telefonzelle!
+ARI: Ah! Fuck!Fuck! Run to the phone booth!
+(Ah ! Fuck !Fuck ! Cours vers la cabine téléphonique !)
+
+ORI: Ah!
+ARI: Ah!
+(Ah !)
+
+ORI: [Gelächter]
+ARI: [Laughter]
+(Rires)
+
+ORI: Oh Mann, welcher Lutscher hatte diese Scheißidee?
+ARI: Oh man, who came up with this crappy idea?
+(Oh mec, qui a eu cette idée pourrie ?)
+
+ORI: Deine Mudda.Siehst du schon das Licht?
+ARI: Your mom.Can you already see the light?
+(Ta mère.Peuxtu déjà voir la lumière ?)
+
+ORI: Ach, halt die Fresse, Alter.
+ARI: Oh, shut up, dude.
+(Oh, fermela, mec.)
+
+ORI: Idioten.Das überhören wir mal.
+ARI: Idiots.Let's just ignore that.
+(Idiots.Ignorons ça pour le moment.)
+
+ORI: Whoa. Taxi in die Schwarzwaldklinik.
+ARI: Whoa. Taxi to the Schwarzwaldklinik.
+(Whoa. Taxi pour la clinique de la ForêtNoire.)
+
+ORI: Oder sind Sie nicht Sascha Hehn? [Lacher]
+ARI: Or are you not Sascha Hehn? [Laughter]
+(Ou n'êtesvous pas Sascha Hehn ? [Rires])
+
+ORI: [Mann]
+ARI: [Man]
+(Homme)
+
+ORI: [Gelächter]
+ARI: [Laughter]
+([Rires])
+
+ORI: [Junge]
+ARI: [Boy]
+(Garçon)
+
+ORI: [Mann] [Junge]
+ARI: [Man] [Boy]
+([Homme] [Garçon])
+
+ORI: [Mann]
+ARI: [Man]
+(Homme)
+
+ORI: Krass, du hast den alten Camcorder gefunden. Wo war der?
+ARI: Wow, you found the old camcorder. Where was it?
+(Incroyable, tu as trouvé le vieux caméscope. Où étaitil ?)
+
+ORI: Rocco, brauchst du jetzt noch Hilfe?
+ARI: Rocco, do you still need help now?
+(Rocco, astu toujours besoin d'aide maintenant ?)
+
+ORI: Aha, die Frage ist, was hier von ist Zufall, was ist Absicht?
+ARI: Aha, the question is, what here is coincidence, what is intention?
+(Aha, la question est de savoir ce qui est ici une coïncidence, ce qui est une intention ?)
+
+ORI: Entspann dich.Trink du schon mal 'n Glas Wein.
+ARI: Relax. You have a glass of wine already.
+(Détendstoi. Tu as déjà un verre de vin.)
+
+ORI: Du, ich bin nicht Carlotta.
+ARI: Hey, I'm not Carlotta.
+(Hé, je ne suis pas Carlotta.)
+
+ORI: [gedämpfter Klingelton, Pop]
+ARI: [muffled ringing tone, pop]
+(sonnerie étouffée, pop)
+
+ORI: Erwacht?
+ARI: Awake?
+(Réveillé ?)
+
+ORI: Hey, Süße. Na?
+ARI: Hey, sweetie. How's it going?
+(Hé, chérie. Comment ça va ?)
+
+ORI: Weißt du schon, was du anziehst?
+ARI: Do you already know what you're wearing?
+(Tu sais déjà ce que tu vas porter ?)
+
+ORI: Oh mein Gott, was?Ich glaub, das wird so geil.
+ARI: Oh my God, what? I think it's going to be so cool.
+(Oh mon Dieu, quoi ? Je pense que ça va être génial.)
+
+ORI: [Klingelton]
+ARI: [Ringtone]
+(Sonnerie)
+
+ORI: [fröhliche Musik]
+ARI: [cheerful music]
+(musique joyeuse)
+
+ORI: Tut, tut, hi.
+ARI: Beep, beep, hi.
+(Beep, beep, salut.)
+
+ORI: [Junge]
+ARI: [Boy]
+(Garçon)
+
+ORI: Gib mir das, Bruno.Damit spielt man nicht.
+ARI: Give me that, Bruno. You're not supposed to play with that.
+(Donnemoi ça, Bruno. On ne joue pas avec ça.)
+
+ORI: Handys machen dumm.
+ARI: Smartphones make you dumb.
+(Les smartphones vous rendent bête.)
+
+ORI: [Junge]
+ARI: [Boy]
+(Garçon)
+
+ORI: Wir waren so gestört als Kinder.
+ARI: We were so messed up as kids.
+(Nous étions tellement perturbés quand nous étions enfants.)
+
+ORI: Mama
+
+!Hm?
+ARI: Mom!Hmm?
+(Maman !Hmm ?)
+
+ORI: Hast du die Schnuller abgekocht?Ja.
+ARI: Did you sterilize the pacifiers?Yes.
+(Astu stérilisé les sucettes ?Oui.)
+
+ORI: Sag mal, putzt du jetzt noch?
+ARI: Hey, are you still cleaning?
+(Hé, tu nettoies toujours ?)
+
+ORI: Nur kurz.
+ARI: Just briefly.
+(Juste brièvement.)
+
+ORI: Morgen hab ich BabyYoga.Das wird wieder megastressig.
+ARI: Tomorrow I have baby yoga. It's going to be super stressful again.
+(Demain, j'ai du yoga pour bébé. Ça va être super stressant encore.)
+
+ORI: Macht Carlotta eigentlich irgendetwas im Haushalt?
+ARI: Does Carlotta actually do anything around the house?
+(Estce que Carlotta fait réellement quelque chose à la maison ?)
+
+ORI: Sie arbeitet, Mama.Dass du das mit dir machen lässt.
+ARI: She's working, Mom.That you put up with it.
+(Elle travaille, Maman.Que tu tolères ça.)
+
+ORI: Wir wollten das so.Eine moderne Beziehung.
+ARI: We wanted it that way. A modern relationship.
+(Nous le voulions ainsi. Une relation moderne.)
+
+ORI: Was wäre aus dir geworden,hättest du zu Ende studiert?
+ARI: What would have become of you if you had finished your studies?
+(Que seraitil advenu de toi si tu avais terminé tes études ?)
+
+ORI: Ich mach mir eher Sorgen,was aus dir wird.
+ARI: I'm more worried about what will become of you.
+(Je m'inquiète davantage de ce que tu deviendras.)
+
+ORI: Du hast dich geopfert für eine Feministin.
+ARI: You sacrificed yourself for a feminist.
+(Tu t'es sacrifié pour une féministe.)
+
+ORI: Ihr könnt aufhören,über mich zu reden. Ich bin da.
+ARI: You can stop talking about me now. I'm here.
+(Vous pouvez arrêter de parler de moi maintenant. Je suis là.)
+
+ORI: Ich weiß, es ist spät. Tut mir leid.Geht schon, geht schon.
+ARI: I know it's late. I'm sorry.It's okay, it's okay.
+(Je sais que c'est tard. Je suis désolé.C'est bon, c'est bon.)
+
+ORI: Na du? Hast du auf mich gewartet?Ein bisschen?
+ARI: Hey you? Were you waiting for me? A little?
+(Hé, toi ? Tu m'attendais ? Un peu ?)
+
+ORI: Na? Hi. Hallo, mein kleiner Schatz.
+ARI: Hey? Hi. Hello, my little darling.
+(Hé ? Salut. Bonjour, mon petit chéri.)
+
+ORI: Er erkennt dich gar nicht.
+ARI: He doesn't even recognize you.
+(Il ne te reconnaît même pas.)
+
+ORI: Er lächelt nicht mal.So schön, dass du da bist.
+ARI: He doesn't even smile.So nice that you're here.
+(Il ne sourit même pas.C'est tellement bien que tu sois là.)
+
+ORI: Herzliche Atmosphäre.Ich zieh mich schnell um.
+ARI: Warm atmosphere. I'll change quickly.
+(Ambiance chaleureuse. Je vais me changer rapidement.)
+
+ORI: Nee, wir fahren jetzt los.
+ARI: No, we're leaving now.
+(Non, nous partons maintenant.)
+
+ORI: Carl… Carlotta!
+ARI: Carl... Carlotta!
+(Carl... Carlotta!)
+
+ORI: [Klingelton]
+ARI: [Ringtone]
+(Sonnerie)
+
+ORI: [Simon]
+ARI: [Simon]
+(Simon)
+
+ORI: Du musst dich nicht umziehen.
+ARI: You don't have to change.
+(Tu n'as pas besoin de te changer.)
+
+ORI: Ich habe meiner Chefin geantwortet.Stress mich doch nicht so.
+ARI: I replied to my boss. Don't stress me out.
+(J'ai répondu à ma patronne. Ne me stresse pas.)
+
+ORI: Wollen wir streiten oder können wir einmal einen schönen Abend haben?
+ARI: Do we want to argue or can we have a nice evening for once?
+(Voulonsnous nous disputer ou pouvonsnous passer une belle soirée pour une fois ?)
+
+ORI: Mhm…
+ARI: Mhm…
+(Mhm…)
+
+ORI: Ja, dann komm.
+ARI: Yes, then come. (Oui, alors viens.)
+
+ORI: [sie seufzt]
+ARI: [she sighs] ([elle soupire])
+
+ORI: Sagst du mir bitte, wo du hingehst?
+ARI: Can you please tell me where you're going? (Peuxtu me dire où tu vas?)
+
+ORI: Weißt du doch. Zu Klara.
+ARI: You know it. To Klara. (Tu le sais. Chez Klara.)
+
+ORI: Ziehst du dir vorher noch was an?
+ARI: Are you going to put on something before? (Tu vas mettre quelque chose avant?)
+
+ORI: Ja. Schuhe.
+ARI: Yes. Shoes. (Oui. Des chaussures.)
+
+ORI: Du triffst dich mit Maik, oder?
+ARI: You're meeting up with Maik, right? (Tu te retrouves avec Maik, n'estce pas?)
+
+ORI: PsychoFragen.
+ARI: Psycho questions. (Des questions de psychologie.)
+
+ORI: Wenn du lügst, setzt du unsere Vertrauensbasis aufs Spiel.
+ARI: If you lie, you jeopardize our trust. (Si tu mens, tu mets en danger notre confiance.)
+
+ORI: Mama, ich hab dir gesagt, ich geh zu Klara. Da sind tausend Leute.
+ARI: Mom, I told you, I'm going to Klara's. There are a thousand people there. (Maman, je t'ai dit que j'allais chez Klara. Il y a mille personnes làbas.)
+
+ORI: Kann sein, dass Maik auch kommt.
+ARI: Maybe Maik is coming too. (Peutêtre que Maik vient aussi.)
+
+ORI: Und daraus bastelt ihr Wasserbomben.
+ARI: And you're making water balloons out of them. (Et vous en faites des bombes à eau.)
+
+ORI: Sind nicht meine.
+ARI: They're not mine. (Ce ne sont pas les miennes.)
+
+ORI: Sind dir in die Tasche gefallen, ja?
+ARI: Did they fall into your pocket, yes? (Sontelles tombées dans ta poche, oui?)
+
+ORI: Heb sie nur auf für Klara.
+ARI: Just keep them for Klara. (Gardeles juste pour Klara.)
+
+ORI: Das kann sie nicht selbst?
+ARI: Can't she do it herself? (Elle ne peut pas le faire ellemême ?)
+
+ORI: Tja, ihre Mutter ist paranoid und durchwühlt ihre Sachen.
+ARI: Well, her mother is paranoid and rummages through her things. (Eh bien, sa mère est paranoïaque et fouille dans ses affaires.)
+
+ORI: Ruf an, die könnte 'ne Therapeutin brauchen.
+ARI: Call her, she might need a therapist. (Appellela, elle pourrait avoir besoin d'un thérapeute.)
+
+ORI: Ich dreh noch durch deinetwegen!
+ARI: I'm going crazy because of you! (Je deviens fou à cause de toi!)
+
+ORI: Ist eh schon passiert.
+ARI: It's already happened anyway. (De toute façon, ça s'est déjà produit.)
+
+ORI: Wann bist du eigentlich so geworden?
+ARI: When did you become like this, anyway? (Quand estu devenu comme ça, de toute façon ?)
+
+ORI: Ich war schon immer so. Ich hab mich nur die ersten 14 Jahre verstellt.
+ARI: I've always been like this. I just pretended for the first 14 years. (J'ai toujours été comme ça. J'ai juste fait semblant pendant les 14 premières années.)
+
+ORI: [leise] Gott, diese Frau, ey.
+ARI: [quietly] God, this woman, seriously. ([à voix basse] Mon dieu, cette femme, sérieusement.)
+
+ORI: [Marika]
+ARI: [Marika] ([Marika])
+
+ORI: Kannst du mal dein Handy weglegen, Baby?
+ARI: Can you put your phone away for a moment, baby? (Peuxtu mettre ton téléphone de côté, chéri ?)
+
+ORI: Ja.
+ARI: Yes. (Oui.)
+
+ORI: Ich hätte so gerne noch ein Brot gebacken.
+ARI: I really would have liked to bake some more bread. (J'aurais vraiment aimé faire encore du pain.)
+
+ORI: Warte, ich hab doch den Traumfänger aus dem Volkshochschulkurs dabei.
+ARI: Wait, I have the dreamcatcher from the community college course with me. (Attends, j'ai le attraperêves du cours de l'université populaire avec moi.)
+
+ORI: Wobei… Eva findet so was bestimmt scheiße, oder?
+ARI: But... Eva probably thinks that's crap, right? (Mais... Eva pense probablement que c'est nul, non ?)
+
+ORI: Die ist so streng, die mag mich null.
+ARI: She's so strict, she doesn't like me at all. (Elle est tellement stricte, elle ne m'aime pas du tout.)
+
+ORI: Die sind alle begeistert von dir.
+ARI: They're all enthusiastic about you. (Ils sont tous enthousiastes à ton sujet.)
+
+ORI: Hab ich dir schon tausendmal gesagt.
+ARI: I've told you a thousand times. (Je te l'ai déjà dit mille fois.)
+
+ORI: Hoffentlich schmeckt der BioWein.
+ARI: Hopefully the organic wine tastes good. (J'espère que le vin bio est bon.)
+
+ORI: Wer weiß, wie lange der bei Oma im Keller war.
+ARI: Who knows how long it's been in grandma's cellar. (Qui sait combien de temps il a été dans la cave de grandmère.)
+
+ORI: Wein muss doch alt sein.
+ARI: Wine must be old, after all. (Le vin doit être vieux, après tout.)
+
+ORI: Das Preisschild hättest du abmachen können, Simon.
+ARI: You could have removed the price tag, Simon. (Tu aurais pu enlever l'étiquette de prix, Simon.)
+
+ORI: Lass das. Das sind 20 Tacken. Kleb's auf den Korken.
+ARI: Leave it. That's 20 bucks. Stick it on the cork. (Laisse tomber. C'est 20 balles. Collele sur le bouchon.)
+
+ORI: 20 DMark! Wir können kein DMarkSchild dranlassen.
+ARI: 20 German Marks! We can't leave a German Mark label on it. (20 Deutsche Marks ! On ne peut pas laisser une étiquette de Mark allemand dessus.)
+
+ORI: [lautes Hupen]
+ARI:
+
+ [loud honking] ([klaxon fort])
+
+ORI: Mann!
+ARI: Man! (Mec!)
+
+ORI: Nimmst du diese Salbe von mir?
+ARI: Are you taking this ointment from me? (Tu prends cette pommade de ma part ?)
+
+ORI: Die ist für Pferde. Da sind dieselben Inhaltstoffe drin wie für Menschen.
+ARI: It's for horses. It contains the same ingredients as for humans. (C'est pour les chevaux. Il contient les mêmes ingrédients que pour les humains.)
+
+ORI: Die tut dir gut. Dann bist du nicht mehr so aggressiv beim Fahren.
+ARI: It's good for you. Then you won't be so aggressive when driving. (C'est bon pour toi. Tu ne seras plus si agressif en conduisant.)
+
+ORI: [Reifen quietschen]
+ARI: [tires screeching] ([pneus qui crissent])
+
+ORI: [Handy klingelt]
+ARI: [phone ringing] ([téléphone sonne])
+
+ORI: Herrgott.
+ARI: My goodness. (Mon dieu.)
+
+ORI: Hallo, Frau Obermayer. Nein, es geht nach Körpergröße.
+ARI: Hello, Mrs. Obermayer. No, it goes by height. (Bonjour, Mme Obermayer. Non, ça se fait par taille.)
+
+ORI: Sie müssen in der Tabelle nachgucken und verstecken die Globuli im Futter.
+ARI: You have to check the table and hide the globules in the food. (Vous devez vérifier le tableau et cacher les globules dans la nourriture.)
+
+ORI: Das ist aber gar nicht so selten bei der Rasse, wirklich.
+ARI: But it's not that uncommon for the breed, really. (Mais ce n'est pas si rare pour la race, vraiment.)
+
+ORI: Ja, kommen Sie doch noch mal in die Praxis.
+ARI: Yes, come back to the practice sometime. (Oui, revenez à la clinique un jour.)
+
+ORI: Hat er nicht gemacht…
+ARI: He didn't do it... (Il ne l'a pas fait...)
+
+ORI: Wirklich?
+ARI: Really? (Vraiment?)
+
+ORI: Du siehst so heiß aus.
+ARI: You look so hot. (Tu as l'air tellement sexy.)
+
+ORI: Ja… Oh, spinnst du? Nicht Sie. Ich rede mit meinem Hund.
+ARI: Yes... Oh, are you crazy? Not you. I'm talking to my dog. (Oui... Oh, tu es fou ? Pas toi. Je parle à mon chien.)
+
+ORI: [Simon jault] Labrador. Ja, schrecklich anhänglich.
+ARI: [Simon howls] Labrador. Yes, terribly clingy. ([Simon hurle] Labrador. Oui, terriblement collant.)
+
+ORI: [Simon bellt] Aus. Aus, Benni!
+ARI: [Simon barks] Out. Out, Benni! ([Simon aboie] Dehors. Dehors, Benni!)
+
+ORI: Nein, nicht kastriert, aber ich denk drüber nach.
+ARI: No, not neutered, but I'm thinking about it. (Non, pas castré, mais j'y réfléchis.)
+
+ORI: [Simon wimmert]
+ARI: [Simon whimpers] ([Simon geint])
+
+ORI: Okay, melden Sie sich dann morgen, wie's Hasko geht, ja?
+ARI: Okay, check back tomorrow on how Hasko is doing, alright? (D'accord, revenez demain pour savoir comment va Hasko, d'accord ?)
+
+ORI: [Radiomoderator]
+ARI: [Radio moderator] ([animateur de radio])
+
+ORI: [Klingelton]
+ARI: [ringtone] ([sonnerie])
+
+ORI: Deine Tochter erzählt 'n Haufen Scheiße.
+ARI: Your daughter is telling a bunch of crap. (Ta fille raconte un tas de conneries.)
+
+ORI: Ich hab deine Antwort nicht gehört.
+ARI: I didn't hear your response. (Je n'ai pas entendu ta réponse.)
+
+ORI: Eva, was soll ich dazu sagen? Mit 14 besteht man quasi aus Scheiße.
+ARI: Eva, what should I say about this? At 14, you're basically made of crap. (Eva, que devraisje dire à ce sujet ? À 14 ans, on est pratiquement fait de merde.)
+
+ORI: Scheißnoten, Scheißlaune, Scheißklamotten.
+ARI: Crappy grades, crappy mood, crappy clothes. (Des notes pourries, une humeur pourrie, des vêtements pourris.)
+
+ORI: Sie trifft sich mit diesem Maik. Heißt das jetzt nicht "abhängen"?
+ARI: She's meeting with this guy Maik. Doesn't that mean "hanging out" now? (Elle voit ce gars Maik. Ça ne veut pas dire "traîner" maintenant ?)
+
+ORI: Ich mag den Typen nicht, okay?
+ARI: I don't like the guy, okay? (Je n'aime pas le gars, d'accord ?)
+
+ORI: Deine Eltern wollten auch nicht, dass du mit mir ausgehst. Und nun?
+ARI: Your parents didn't want you to go out with me either. So what now? (Tes parents ne voulaient pas non plus que tu sortes avec moi. Alors, que faire maintenant ?)
+
+ORI: Betrachte die Dinge mit Abstand. Machst du bei deinen Patienten auch.
+ARI: Look at things from a distance. Do you do that with your patients too? (Regarde les choses de loin. Estce que tu fais ça avec tes patients aussi ?)
+
+ORI: Sie hat Kondome in ihrer Tasche.
+ARI: She has condoms in her purse. (Elle a des préservatifs dans son sac.)
+
+ORI: Woher weißt du das?
+ARI: How do you know that? (Comment tu le sais ?)
+
+ORI: Eine Mutter spürt so was.
+ARI: A mother senses these things. (Une mère ressent ce genre de choses.)
+
+ORI: Du wühlst in ihren Sachen. Ich suchte Eyeliner.
+ARI: You're rummaging through her things. I was looking for eyeliner. (Tu fouilles dans ses affaires. Je cherchais de l'eyeliner.)
+
+ORI: Eva! Sie versucht, sich zu definieren.
+ARI: Eva! She's trying to define herself. (Eva ! Elle essaie de se définir.)
+
+ORI: Sie bettelt um Konflikt, um sich vom Elternhaus zu lösen.
+ARI: She's begging for conflict to break free from her parents' home. (Elle demande un conflit pour s'éloigner de la maison de ses parents.)
+
+ORI: Also ist mit Sophie streiten psychologisch zu empfehlen?
+ARI: So, is it psychologically advisable to argue with Sophie? (Alors, estil psychologiquement conseillé de se disputer avec Sophie ?)
+
+ORI: Absolut. Quasi…
+ARI: Absolutely. Kind of... (Absolument. En quelque sorte...)
+
+ORI: Aber wenn du's so sagst, klingt's etwas bescheuert.
+ARI: But when you put it that way, it sounds a bit silly. (Mais quand tu le dis comme ça, ça sonne un peu idiot.)
+
+ORI: Meine Mutter war ja Obsthändlerin. Ja, jetzt kommt das wieder.
+ARI: My mother was a fruit vendor, you know. Yes, here it comes again. (Ma mère était une vendeuse de fruits, tu sais. Oui, ça revient.)
+
+ORI: Alles war unkompliziert. Ich hab mich nicht von einem Modell gelöst.
+ARI: Everything was uncomplicated. I didn't detach myself from a role model. (Tout était simple. Je ne me suis pas détaché d'un modèle.)
+
+ORI: Sie sagte: "Rocco ist nicht da, dann stell ich Hähnchen in den Kühlschrank."
+ARI: She said, "Rocco isn't here, so I'll put the chicken in the fridge." (Elle a dit : "Rocco n'est pas là, alors je mettrai le poulet dans le réfrigérateur.")
+
+ORI: Weißt du, was mich mal interessieren würde?
+ARI: Do you know what I'd like to know? (Saistu ce que j'aimerais savoir ?)
+
+ORI: Nein. Wo mein Mann geblieben ist.
+ARI: No. Where my husband went. (Non. Où est passé mon mari.)
+
+ORI: Du fluchst nicht mehr, bist provokant ausgeglichen.
+ARI: You don't curse anymore, you're provocatively balanced. (Tu ne jures plus, tu es provocativement équilibré.)
+
+ORI: Was entspannt dich denn neuerdings so?
+ARI: What relaxes you so much lately? (Qu'estce qui te détend autant ces derniers temps ?)
+
+ORI: [Türklingel]
+ARI: [Doorbell rings] ([La sonnette de la porte retentit])
+
+ORI: Gehst du?
+ARI: Are you going? (Tu y vas ?)
+
+ORI: Hallo? [Mann]
+ARI: Hello? [Man] (Salut ? [Homme])
+
+ORI: Ja, kommt hoch.
+ARI: Yes, come upstairs. (Oui, monte.)
+
+ORI: Scheiße.
+ARI: Shit. (Merde.)
+
+ORI: Hallo. Hi.
+ARI: Hello. Hi. (Salut. Salut.)
+
+ORI: Hier. Danke schön.
+ARI: Here. Thank you very much. (Ici. Merci beaucoup.)
+
+ORI: Ich komme gleich.
+ARI: I'll be right there. (J'arrive tout de suite.)
+
+ORI: Tut mir leid. Ich durfte mich nicht mal umziehen.
+ARI: I'm sorry. I couldn't even change. (Je suis désolé. Je n'ai même pas pu me changer.)
+
+ORI: So gehst du ins Office? Heiß…
+ARI: Is that how you go to the office? Hot... (C'est comme ça que tu vas au bureau ? Sexy...)
+
+ORI: Spinn nicht rum. Er ist eh schon so eifersüchtig.
+ARI: Don't be silly. He's already so jealous. (Ne sois pas idiot. Il est déjà tellement jaloux.)
+
+ORI: Tiramisu.
+ARI: Tiramisu. (Tiramisu.)
+
+ORI: Gott sei Dank. Ein Gang ist sicher. Keine Ahnung, was Rocco fabriziert.
+ARI: Thank God. One course is safe. No idea what Rocco is concocting. (Dieu merci. Un plat est sûr. Aucune idée de ce que Rocco concocte.)
+
+ORI: -Was hat sie gesagt? -Hey.
+ARI: -What did she say? -Hey. (-Qu'est-ce qu'elle a dit ? -Hey.)
+
+ORI: -Hallo. -Na, Herr Starkoch. Hi.
+ARI: -Hello. -Well, Mr. Celebrity Chef. Hi. (-Bonjour. -Eh bien, Monsieur Chef Célèbre. Salut.)
+
+ORI: Schön, dass ihr da seid.
+ARI: Nice that you're here. (C'est bien que vous soyez là.)
+
+ORI: -Na, Rocco. Stinkt ein bisschen. -Bitte?
+ARI: -Hey, Rocco. Smells a bit. -What? (-Eh bien, Rocco. Ça sent un peu. -Pardon ?)
+
+ORI: Immer dieser neidvolle Kommentar. Das wird ein Überraschungsmenü. Inspiriert von 'ner Weltreise, die wir planen, aber nie buchen werden.
+ARI: Always these envious comments. It's going to be a surprise menu. Inspired by a world trip we're planning but will never book. (Toujours ces commentaires envieux. Ce sera un menu surprise. Inspiré par un voyage autour du monde que nous planifions mais que nous ne réserverons jamais.)
+
+ORI: -[Türklingel] -Das muss kalt. -Wir sind's. -[Türsummer] -Hallo. -Jemand zu Hause? -Hey! -Wow. So pünktlich.
+ARI: -[Doorbell] -That must be cold. -It's us. -[Buzzer] -Hello. -Anyone home? -Hey! -Wow. So punctual. (-[Sonnette] -Ça doit être froid. -C'est nous. -[Buzzer] -Bonjour. -Quelqu'un à la maison ? -Salut ! -Wow. Tellement ponctuel.)
+
+ORI: -Schön, dass du auch dabei bist. -Na?
+ARI: -Nice that you're also here. -What do you think? (-C'est bien que tu sois aussi là. -Qu'en penses-tu ?)
+
+ORI: -Hallo. -Hallo, Eva. Siehst du, so schick sind sie doch gar nicht. Spaßi, Eva.
+ARI: -Hello. -Hello, Eva. See, they're not that fancy after all. Just kidding, Eva. (-Bonjour. -Bonjour, Eva. Tu vois, ils ne sont pas si chics que ça. C'est une blague, Eva.)
+
+ORI: -Eva, ich hab dir was mitgebracht. -Echt? Okay, äh… Danke. Weiß nicht, ob's dir gefällt. Ähm, schau mal. -Ein Traumfänger. Hab ich gebastelt. -Der ist wunderschön. Danke. -Und Weißwein. -Bio.
+ARI: -Eva, I brought you something. -Really? Okay, uh... Thanks. I don't know if you'll like it. Um, take a look. -A dream catcher. I made it. -It's beautiful. Thank you. -And white wine. -Organic. (-Eva, je t'ai apporté quelque chose. -Vraiment ? D'accord, euh... Merci. Je ne sais pas si ça te plaira. Euh, regarde. -Un attrape-rêves. Je l'ai fait moi-même. -Il est magnifique. Merci. -Et du vin blanc. -Bio.)
+
+ORI: [Leo] Haben die euch also auch drangekriegt, ja? Ist das Magenbitter? Oder warum nur eine Flasche?
+ARI: [Leo] So they convinced you too, huh? Is it a digestive? Or why only one bottle? ([Leo] Ils vous ont donc convaincus aussi, hein ? C'est un digestif ? Ou pourquoi seulement une bouteille ?)
+
+ORI: -Was heißt bio überhaupt? -Bio heißt 25 Euro. -Oh... -Soll ich es in Raten zurückzahlen? -Ja. -Ist Sophie schon unterwegs? In ihrem Zimmer. Thront vermutlich auf einer Erbse. -Rudi, lass. Rudi, nein! -Euer Hund ist so krank. -Rudi, aus! -Ich sag mal Hallo, ja? -Nee, lieber nicht.
+ARI: -What does "bio" even mean? -"Bio" means 25 euros. -Oh... -Should I pay it in installments? -Yes. -Is Sophie on her way? In her room. Probably perched on a pea. -Rudi, stop it. Rudi, no! -Your dog is so sick. -Can I say hello, then? -No, better not. (-Que signifie "bio" de toute façon ? -"Bio" signifie 25 euros. -Oh... -Devrais-je le payer en plusieurs fois ? -Oui. -Sophie est-elle en route ? Dans sa chambre. Probablement perché sur un petit pois. -Rudi, arrête. Rudi, non ! -Votre chien est tellement malade. -Puis-je dire bonjour, alors ? -Non, vaut mieux pas.)
+
+ORI: Mit zwölf die erste Flasche Bier und mit 13 die erste Flasche im Bett.
+ARI: With twelve, the first bottle of beer, and at 13, the first bottle in bed. (À douze ans, la première bouteille de bière, et à 13 ans, la première bouteille au lit.) [kichert unsicher]
+
+ORI: Tja, wenn wir 'n Babysitter brauchen, fragen wir nicht Bianca, ne?
+ARI: Well, if we need a babysitter, we won't ask Bianca, right? (Eh bien, si nous avons besoin d'une baby-sitter, nous ne demanderons pas à Bianca, n'est-ce pas ?)
+
+ORI: Wo ist Pepe? Noch nicht aufgetaucht.
+ARI: Where is Pepe? Hasn't shown up yet. (Où est Pepe ? Il n'est pas encore apparu.)
+
+ORI: Stellt er seine Neue vor? Sie heißt Anna, und wir lästern nicht.
+ARI: Is he introducing his new girlfriend? Her name is Anna, and we won't gossip. (Présente-t-il sa nouvelle petite amie ? Elle s'appelle Anna, et nous ne ferons pas de commérages.)
+
+ORI: Ich bin froh, er war so traurig bei Pärchenabenden. Weil er depressive Schübe hat. Was?
+ARI: I'm glad he was so sad at couples' evenings. Because he has depressive episodes. What? (Je suis content qu'il ait été si triste lors des soirées de couples. Parce qu'il a des épisodes dépressifs. Quoi ?)
+
+ORI: Pepe war schon als Kind melancholisch.
+ARI: Pepe was melancholic even as a child. (Pepe était déjà mélancolique dès son enfance.)
+
+ORI: Was machen wir, wenn sie alt ist? 'ne MILF? Aufpassen. Eva und ich sind MILFs. Du vielleicht. Ist da Sekt drin? Das hat Kohlensäure.
+ARI: What do we do when she gets old? A MILF? Be careful. Eva and I are MILFs. Maybe you too. Is there champagne in it? It's carbonated. (Que faisons-nous quand elle vieillit ? Une MILF ? Fais attention. Eva et moi sommes des MILFs. Peut-être toi aussi. Y a-t-il du champagne dedans ? C'est pétillant.)
+
+ORI: Boah, der ist gekippt. Ja. So ein Quatsch. Schütteln, dann ist die Kohlensäure draußen.
+ARI: Oh, it spilled. Yes. What nonsense. Shake it, and the carbonation will be gone. (Oh, ça a débordé. Oui. Quelle absurdité. Secoue-le, et la carbonatation disparaîtra.)
+
+ORI: Oh Gott. Gute Idee, ich nehm auch ein Glas.
+ARI: Oh God. Good idea, I'll have a glass too. (Oh mon Dieu. Bonne idée, je prends aussi un verre.)
+
+ORI: Verena war so nett. Wie konnte er das nur versauen? Nicht Verena erwähnen. Nicht mal im Scherz.
+ARI: Verena was so nice. How could he mess that up? Don't mention Verena. Not even in jest. (Verena était si gentille. Comment a-t-il pu gâcher ça ? Ne mentionne pas Verena. Même pas en plaisantant.)
+
+ORI: Wer ist denn Verena? Pepes Exfreundin. Und die war nicht besonders… schön. Die hatte so 'ne TelefonsexStimme. [tief] "Hallo… Jungs." "Ich hab gehört, ihr kennt euch schon seit der Schulzeit." "Pepe hat euch sicher erzählt, worauf ich so stehe." Schön, dass ihr euren Fetisch teilt.
+ARI: Who is Verena then? Pepe's ex-girlfriend. And she wasn't particularly... beautiful. She had, like, a phone sex voice. [deep] "Hello... guys." "I heard you've known each other since school." "Pepe must have told you what I'm into." Nice that you share your fetish. (Qui est Verena alors ? L'ex-petite amie de Pepe. Et elle n'était pas particulièrement... belle. Elle avait, genre, une voix de sexe au téléphone. [profond] "Salut... les gars." "J'ai entendu dire que vous vous connaissiez depuis l'école." "Pepe doit vous avoir dit ce qui m'excite." C'est bien que vous partagiez votre fétiche.)
+
+ORI: [Türklingeln] Whoo! Here we go. Pepe. Wie lange brauchen die denn, um hochzukommen? Geht vielleicht nicht mehr so schnell in dem Alter. [alle kichern]
+ARI: [Doorbell rings] Whoo! Here we go. Pepe. How long does it take them to come up? Maybe it's not as quick at that age. [everyone giggles] ([Sonnette retentit] Whoo! C'est parti. Pepe. Combien de temps mettent-ils pour monter ? Peut-être que ça ne va pas aussi vite à cet âge. [tout le monde giggle])
+
+ORI: Puh… Schönen guten A…
+ARI: Phew... Good evening... (Pfiou... Bonsoir...)
+
+ORI: Hä? Ist was? Bist du allein? Wo ist denn Anna? Ach, Anna entschuldigt sich. Die hat sich'n MagenDarmVirus eingefangen.
+ARI: Huh? What? Are you alone? Where's Anna? Oh, Anna apologizes. She caught a stomach virus. (Hein ? Quoi ? Es-tu seul ? Où est Anna ? Oh, Anna s'excuse. Elle a attrapé un virus gastro-intestinal.)
+
+ORI: Sie kommt nicht? Nee, Lotti, die hat Fieber. Wir haben uns so auf sie gefreut. Auf die MILF. Ja, ich weiß. Ihr tut's auch leid. Ja... Soll ich wieder gehen? Ja. Okay... Nein! Nein, komm rein.
+ARI: She's not coming? No, Lotti, she has a fever. We were looking forward to her. To the MILF. Yes, I know. You feel bad too. Yes... Should I go again? Yes. Okay... No! No, come in. (Elle ne vient pas ? Non, Lotti, elle a de la fièvre. On se réjouissait tellement de sa venue. Pour la MILF. Oui, je sais. Vous vous sentez mal aussi. Oui... Dois-je repartir ? Oui. D'accord... Non ! Non, entre.)
+
+
+ORI: Wie geht's dir?
+ARI: How are you? (Comment ça va ?)
+
+ORI: Ja… Hungrig bin ich.
+ARI: Yes... I'm hungry. (Oui... J'ai faim.)
+
+ORI: Als Rocco meinte, er kocht, wollte ich vorher noch was essen.
+ARI: When Rocco said he's cooking, I wanted to eat something before. (Quand Rocco a dit qu'il cuisinait, je voulais manger quelque chose avant.)
+
+ORI: Hast du das gekauft für die Mondfinsternis?
+ARI: Did you buy that for the lunar eclipse? (As-tu acheté ça pour l'éclipse lunaire ?)
+
+ORI: Ist aus der Schule. Einige sind wissenschaftlich interessiert.
+ARI: It's from school. Some are scientifically interested. (C'est de l'école. Certains sont intéressés par la science.)
+
+ORI: Allerdings. Ich erforsche am liebsten den Alkoholismus.
+ARI: Indeed. I prefer to research alcoholism. (En effet. Je préfère faire des recherches sur l'alcoolisme.)
+
+ORI: Was hast du da?
+ARI: What do you have there? (Qu'as-tu là ?)
+
+ORI: Egal, Hauptsache es knallt. Oder, Lotte?
+ARI: Doesn't matter, as long as it bangs. Or, Lotte? (Peu importe, tant que ça explose. Ou, Lotte ?)
+
+ORI: Habt ihr euch gestritten? Nee, wieso?
+ARI: Did you guys argue? No, why? (Vous vous êtes disputés ? Non, pourquoi ?)
+
+ORI: Du siehst traurig aus. Schläfst du?
+ARI: You look sad. Are you sleeping? (Tu as l'air triste. Tu dors ?)
+
+ORI: Eva, ich habe keine Depressionen.
+ARI: Eva, I don't have depression. (Eva, je n'ai pas de dépression.)
+
+ORI: Oh, schon wieder Schluss? Ist alles kaputt?
+ARI: Oh, broken up again? Is everything ruined? (Oh, encore une rupture ? Tout est fichu ?)
+
+ORI: Ich merke schon, ihr seid zwei Gläser voraus.
+ARI: I can tell, you're two glasses ahead. (Je peux le dire, vous avez deux verres d'avance.)
+
+ORI: Pst, ey. Hat einer von euch mit Diego gesprochen?
+ARI: Psst, hey. Did one of you guys talk to Diego? (Psst, hey. Est-ce que l'un de vous a parlé à Diego ?)
+
+ORI: Nicht vor den Frauen. Sch…
+ARI: Not in front of the women. Shh... (Pas devant les femmes. Chut...)
+
+ORI: Wie alt ist sie, hast du gesagt? Wir sagten, keine blöden Witze.
+ARI: How old is she, you said? We said, no silly jokes. (Quel âge a-t-elle, tu as dit ? Nous avons dit, pas de blagues idiotes.)
+
+ORI: Was denn für Witze?
+ARI: What kind of jokes? (Quels genres de blagues ?)
+
+ORI: Wir haben überlegt, ist sie groß oder klein. Blond oder brünett. Oder grau meliert. Wieso denn grau meliert?
+ARI: We were wondering, is she tall or short? Blonde or brunette. Or gray-haired. Why gray-haired? (Nous nous demandions, est-elle grande ou petite ? Blonde ou brune. Ou aux cheveux gris. Pourquoi aux cheveux gris ?)
+
+ORI: Ihr denkt, ich hab mir 'ne alte Schachtel aufgerissen. [alle] Nein!
+ARI: You think I picked up an old lady. [all] No! (Vous pensez que j'ai dragué une vieille dame. [tous] Non !)
+
+ORI: Ihr Arschgeigen! Lasst ihn in Ruhe.
+ARI: You assholes! Leave him alone. (Espèces d'idiots ! Laissez-le tranquille.)
+
+ORI: Was ist mit dem Haus auf Mallorca? Ist es jetzt frei?
+ARI: What about the house in Mallorca? Is it available now? (Et la maison à Majorque ? Est-elle disponible maintenant ?)
+
+ORI: Ich hab noch nichts gehört.
+ARI: I haven't heard anything yet. (Je n'ai encore rien entendu.)
+
+ORI: Bist du eigentlich abergläubisch? Wegen der Mondfinsternis…
+ARI: Are you superstitious by any chance? Because of the lunar eclipse... (Es-tu superstitieux par hasard ? À cause de l'éclipse lunaire...)
+
+ORI: Ein bisschen.
+ARI: A little bit. (Un peu.)
+
+ORI: Ich hab bestimmt fünf WhatsAppen bekommen, was uns heute blüht.
+ARI: I've definitely received five WhatsApp messages about what awaits us today. (J'ai certainement reçu cinq messages WhatsApp sur ce qui nous attend aujourd'hui.)
+
+ORI: Jetzt sag. Hm?
+ARI: Now tell me. Hmm? (Maintenant, dis-moi. Hmm ?)
+
+ORI: Wie ist sie? Bist du verliebt?
+ARI: What's she like? Are you in love? (Comment est-elle ? Es-tu amoureux ?)
+
+ORI: Ach, ich weiß gar nicht. Ich hab…
+ARI: Oh, I don't really know. I have... (Oh, je ne sais pas vraiment. J'ai...)
+
+ORI: Pepe, du Klemmi, mit mir kannst du normal reden. [beide] Na?
+ARI: Pepe, you stiff, you can talk to me normally. [both] Well? (Pepe, tu raide, tu peux me parler normalement. [tous les deux] Et alors ?)
+
+ORI: Eva, woran merkt man, ob man in jemanden verliebt ist?
+ARI: Eva, how do you know if you're in love with someone? (Eva, comment sait-on si on est amoureux de quelqu'un ?)
+
+ORI: Oh Gott, das fragst du mich? Als Therapeutin kennt man sich doch aus mit Liebe. Die bei mir auf der Couch sind meistens geschieden.
+ARI: Oh God, you're asking me? As a therapist, you should know about love. The ones on my couch are usually divorced. (Oh mon Dieu, tu me demandes ça ? En tant que thérapeute, tu devrais savoir ce qu'est l'amour. Ceux sur mon divan sont généralement divorcés.)
+ORI: Wenn du dreimal am Tag mit ihr telefonierst, bist du verliebt.
+ARI: If you call her three times a day, you're in love. (Si tu l'appelles trois fois par jour, tu es amoureux.)
+
+ORI: Okay…Leo ist in seine Mutter verliebt.
+ARI: Okay... Leo is in love with his mother. (D'accord... Leo est amoureux de sa mère.)
+
+ORI: Und wenn wir zehnmal am Tag telefonieren?
+ARI: And if we call each other ten times a day? (Et si on s'appelle dix fois par jour?)
+
+ORI: Dann würde ich sagen, es könnte Liebe sein.
+ARI: Then I would say it could be love. (Alors je dirais que c'est peut-être de l'amour.)
+
+ORI: Wenn ihr aufhört zu telefonieren, seid ihr verheiratet.
+ARI: If you stop calling each other, you're married. (Si vous arrêtez de vous appeler, vous êtes mariés.)
+
+ORI: Was wird hier gegackert? Hallo.
+ARI: What's all the cackling here? Hello. (Qu'est-ce que ce brouhaha ici ? Bonjour.)
+
+ORI: Wie alt ist sie denn jetzt? Unser Alter.
+ARI: How old is she now? Our age. (Elle a quel âge maintenant ? Notre âge.)
+
+ORI: Oh…
+ARI: Oh... (Oh...)
+
+ORI: Hast du ein Foto?
+ARI: Do you have a photo? (Tu as une photo ?)
+
+ORI: "Hey, leite diese Nachricht an 666 Menschen weiter oder der Blutmond bringt heute Nacht großes Unglück über dich."
+ARI: "Hey, forward this message to 666 people or the Blood Moon will bring great misfortune upon you tonight." ("Hé, transfère ce message à 666 personnes ou la Lune de Sang apportera de grands malheurs sur toi ce soir.")
+
+ORI: Siehste? Scheiße!
+ARI: See? Damn! (Tu vois ? Merde !)
+
+ORI: Ich hab noch nicht mal 666 Kontakte. Ihr?
+ARI: I don't even have 666 contacts. Do you? (Je n'ai même pas 666 contacts. Et toi ?)
+
+ORI: Scheiße.
+ARI: Damn. (Merde.)
+
+ORI: Bereit für den ersten Gang? Tapas Variation.
+ARI: Ready for the first course? Tapas variation. (Prêt pour le premier plat ? Variation de tapas.)
+
+ORI: Eine ging daneben, ich sage aber nicht, welche.
+ARI: One went wrong, but I won't say which one. (Une a mal tourné, mais je ne dirai pas laquelle.)
+
+ORI: Okay, meine Schwester… Komm und lass den Quatsch.
+ARI: Okay, my sister... come and stop the nonsense. (D'accord, ma sœur... viens et arrête les bêtises.)
+
+ORI: Sieht sehr gut aus. Wie viele Gänge gibt's?
+ARI: Looks very good. How many courses are there? (Ça a l'air très bon. Combien de plats y a-t-il ?)
+
+ORI: Vier. Uh. Bleiben wir bei Weiß?
+ARI: Four. Uh. Shall we stick with white? (Quatre. Uh. Restons-nous sur du blanc ?)
+
+ORI: Leute, Sarah hat sich von Diego getrennt.
+ARI: Guys, Sarah has separated from Diego. (Les gars, Sarah s'est séparée de Diego.)
+
+ORI: Nein. Nicht dein Ernst.
+ARI: No. You can't be serious. (Non. Tu ne peux pas être sérieux.)
+
+ORI: Sie ist bei ihren Eltern in Köln, heult die ganze Zeit.
+ARI: She's with her parents in Cologne, crying all the time. (Elle est avec ses parents à Cologne, en train de pleurer tout le temps.)
+
+ORI: Er hat wohl 'ne Affäre. Sie hat 'ne SMS in seinem Handy gefunden.
+ARI: He must be having an affair. She found a text message on his phone. (Il doit avoir une liaison. Elle a trouvé un message texte sur son téléphone.)
+
+ORI: Krass. Hätte ich nicht gedacht. Ts…
+ARI: Crazy. I wouldn't have thought so. Ts... (Dingue. Je n'aurais pas pensé ça. Ts...)
+
+ORI: Habt ihr das gewusst? Nee.
+ARI: Did you guys know about this? No. (Est-ce que vous saviez ça ? Non.)
+
+ORI: Nein! Natürlich wussten die das.
+ARI: No! Of course they knew. (Non ! Bien sûr qu'ils savaient.)
+
+ORI: Bianca, sei nicht so naiv. Die PerfettiGang hält zusammen.
+ARI: Bianca, don't be so naive. The PerfettiGang sticks together. (Bianca, ne sois pas si naïve. La PerfettiGang reste unie.)
+
+ORI: "Seit der dritten Klasse." Diego hat uns nichts erzählt.
+ARI: "Since third grade." Diego didn't tell us anything. ("Depuis la troisième année." Diego ne nous a rien dit.)
+
+ORI: Rocco, das sieht richtig gut aus. Und du?
+ARI: Rocco, that looks really good. And you? (Rocco, ça a l'air vraiment bon. Et toi ?)
+
+ORI: Ich… Pepe wusste auch nichts.
+ARI: I... Pepe didn't know anything either. (Moi... Pepe ne savait rien non plus.)
+
+ORI: Und wenn, hätten wir's ihr sagen sollen, oder was?
+ARI: And if we did, should we have told her, or what? (Et si on l'avait fait, aurions-nous dû lui dire, ou quoi ?)
+
+ORI: Doof, wenn Frauen zu viel wissen, ne?
+ARI: It's annoying when women know too much, right? (C'est agaçant quand les femmes en savent trop, n'est-ce pas ?)
+
+ORI: Diskutier nicht mit ihr, sie ist die Emanzipationsamazone ihrer Agentur.
+ARI: Don't argue with her, she's the emancipation Amazon of her agency. (Ne te dispute pas avec elle, c'est l'Amazone de l'émancipation de son agence.)
+
+ORI: AntiDiskriminierungsbeauftragte.
+ARI: Anti-discrimination officer. (Agent de lutte contre la discrimination.)
+
+ORI: Ich möchte nicht schuld sein, wenn sich jemand wegen einer 23jährigen Dorfnudel trennt. Nur weil ich nicht die Klappe hielt.
+ARI: I don't want to be responsible if someone breaks up because of a 23-year-old country bumpkin. Just because I didn't keep my mouth shut. (
+
+Je ne veux pas être responsable si quelqu'un se sépare à cause d'une gamine de 23 ans de la campagne. Juste parce que je n'ai pas fermé ma bouche.)
+
+ORI: 22.
+ARI: 22. (22.)
+
+ORI: Da! Ihr habt's gewusst. Hä?
+ARI: There! You knew it. Huh? (Voilà ! Vous le saviez. Hein ?)
+
+ORI: Rocco! Ihr Lügner, echt.
+ARI: Rocco! You liars, seriously. (Rocco ! Vous menteurs, sérieusement.)
+
+ORI: Geraten.Okay, kurze Info.
+ARI: Guessed. Okay, quick info. (Devinez. D'accord, info rapide.)
+
+ORI: Wenn Simon mich betrügt, möchte ich's gerne erfahren.
+ARI: If Simon is cheating on me, I'd like to know. (Si Simon me trompe, j'aimerais le savoir.)
+
+ORI: Na gut.Wenn du's wirklich wissen willst.
+ARI: Well, if you really want to know. (Eh bien, si tu veux vraiment savoir.)
+
+ORI: Du Sack!
+ARI: You jerk! (Espèce de salaud !)
+
+ORI: Oh Mann.
+ARI: Oh man. (Oh mec.)
+
+ORI: Ha, ha.
+ARI: Ha, ha. (Ha, ha.)
+
+ORI: Ich hoffe, dass Diego jetzt genauso leidet wie Sarah.
+ARI: I hope Diego is suffering just as much as Sarah now. (J'espère que Diego souffre autant que Sarah maintenant.)
+
+ORI: Sicher.Er hat Frau und Tochter verloren.
+ARI: Sure. He lost his wife and daughter. (Bien sûr. Il a perdu sa femme et sa fille.)
+
+ORI: Und 'ne 22Jährige an der Backe.
+ARI: And a 22-year-old on his tail. (Et une fille de 22 ans dans ses pattes.)
+
+ORI: Ein Albtraum.
+ARI: A nightmare. (Un cauchemar.)
+
+ORI: Jetzt muss er 'Berlin Tag & Nacht' gucken und auf JustinBieberKonzerte.
+ARI: Now he has to watch 'Berlin Day & Night' and go to Justin Bieber concerts. (Maintenant, il doit regarder 'Berlin Day & Night' et aller aux concerts de Justin Bieber.)
+
+ORI: Wein schmeckt ihr nicht. Er muss zum Waxing.
+ARI: She doesn't like wine. He has to go for waxing. (Elle n'aime pas le vin. Il doit aller se faire épiler.)
+
+ORI: Du gehst auch zum Waxing? Ja, aber das mach ich ja für mich.
+ARI: You also go for waxing? Yes, but I do it for myself. (Tu vas aussi te faire épiler ? Oui, mais je le fais pour moi-même.)
+
+ORI: Wenn du vorm Spiegel masturbierst oder was.
+ARI: If you masturbate in front of the mirror or something. (Si tu te masturbes devant le miroir ou quelque chose comme ça.)
+
+ORI: Er benutzt auch meine Gesichtscreme. Was soll denn das jetzt?
+ARI: He also uses my face cream. What's that all about? (Il utilise aussi ma crème pour le visage. C'est quoi cette histoire ?)
+
+ORI: Schön weich. Familie zerbricht wegen 'ner SMS.
+ARI: Nice and soft. A family breaks apart because of a text message. (Doux et agréable. Une famille se brise à cause d'un message texte.)
+
+ORI: Wohl eher wegen 'ner 22jährigen Schlampe.
+ARI: Probably more because of a 22-year-old slut. (Probablement plus à cause d'une salope de 22 ans.)
+
+ORI: Sarah hätte die SMS auch nicht lesen dürfen.
+ARI: Sarah shouldn't have read the text message either. (Sarah n'aurait pas dû lire le message texte non plus.)
+
+ORI: Ist jetzt Sarah schuld, weil sie in sein Handy geguckt hat?
+ARI: Is it Sarah's fault now because she looked in his phone? (Est-ce la faute de Sarah maintenant parce qu'elle a regardé dans son téléphone ?)
+
+ORI: Du bist so krass, Simon.
+ARI: You're so intense, Simon. (Tu es tellement intense, Simon.)
+
+ORI: Wenn ich mit 'nem Mädchen rumficke, lösch ich die SMS.
+ARI: When I fool around with a girl, I delete the text messages. (Quand je m'amuse avec une fille, je supprime les messages texte.)
+
+ORI: Was redest du denn?
+ARI: What are you talking about? (De quoi parles-tu ?)
+
+ORI: Interessant. Seht ihr das auch so?
+ARI: Interesting. Do you all see it the same way? (Intéressant. Est-ce que vous le voyez aussi de la même manière ?)
+
+ORI: Nein.Auf keinen Fall. Wirklich. Simon.
+ARI: No. Absolutely not. Seriously, Simon. (Non. Absolument pas. Sérieusement, Simon.)
+
+ORI: Ja, genau. Jetzt alle auf mich, weil ich die Wahrheit sage.
+ARI: Yes, exactly. Now everyone's on my case because I'm telling the truth. (Oui, exactement. Maintenant, tout le monde me critique parce que je dis la vérité.)
+
+ORI: Gib mir mal die Pimientos, bitte.
+ARI: Pass me the pimientos, please. (Passe-moi les piments, s'il te plaît.)
+
+ORI: Aber er hat schon recht.
+ARI: But he's right. (Mais il a raison.)
+
+ORI: Man muss schon aufpassen mit den Dingern.
+ARI: You really have to be careful with these things. (Il faut vraiment faire attention à ces choses.)
+
+ORI: Na ja, hier ist ja alles drin.
+ARI: Well, everything is in here. (Eh bien, tout est là-dedans.)
+
+ORI: GPS-Daten, wo wir sind, Fotos, Nachrichten…
+ARI: GPS data, where we are, photos, messages... (Données GPS, où nous sommes, photos, messages...)
+
+ORI: Zig Passwörter. Das ist quasi der Flugschreiber unseres Lebens.
+ARI: Lots of passwords. It's like the black box of our lives. (Beaucoup de mots de passe. C'est comme la boîte noire de nos vies.)
+
+ORI: Stimmt.
+ARI: That's true. (C'est vrai.)
+
+ORI: Ich will nicht wissen, wie viele Paare zerbrechen würden, würde der ein das Handy des anderen gucken.
+ARI: I don't want to know how many couples would break up if one checked the other's phone. (Je ne veux pas savoir combien de couples se sépareraient si l'un regardait le téléphone de l'autre.)
+
+ORI: Leo würde mir seins eh niemals geben.
+ARI: Leo would never give me his anyway. (Leo ne me donnerait jamais le sien de toute façon.)
+
+ORI: Hier, guck doch rein. Nimm's.
+ARI: Here, take a look. Take it. (Tiens, regarde. Prends-le.)
+
+ORI: Ich warn dich, ich nehm's wirklich. Ja, mach.
+ARI: I'm warning you, I'll really take it. Yes, go ahead. (Je te préviens, je vais vraiment le prendre. Oui, vas-y.)
+
+ORI: Er zittert schon.
+ARI: He's already shaking. (Il tremble déjà.)
+
+ORI: Blass wird er auch schon.
+ARI: He's also getting pale. (Il devient aussi pâle.)
+
+ORI: Okay, jetzt besteh ich drauf.Guck rein.
+ARI: Okay, now I insist. Take a look. (D'accord, maintenant j'insiste. Regarde.)
+
+ORI: Aber dann pack deins auch auf den Tisch.
+ARI: But then put yours on the table too. (Mais alors mets le tien sur la table.)
+
+ORI: Nachrichten meiner Chefin und deiner Schwester, die Fotos von den Kindern will.
+ARI: Messages from my boss and your sister, she wants photos of the kids. (Des messages de ma patronne et de ta sœur, elle veut des photos des enfants.)
+
+ORI: "Kannste noch mal eins vom Töpfchen machen?"
+ARI: "Can you take one more from the potty?" ("Peux-tu en prendre un de plus du pot ?")
+
+ORI: Bianca, würdest dude ins Simon geben?
+ARI: Bianca, would you give it to Simon? (Bianca, tu le donnerais à Simon ?)
+
+ORI: Klar, ich hab ja nicht mal 'n PIN.Würde ich doch gar nicht wollen.
+ARI: Sure, I don't even have a PIN. I wouldn't want to. (Bien sûr, je n'ai même pas de code PIN. Je ne voudrais pas.)
+
+ORI: Ich hab auch keine PIN. Ich mach mir immer 'ne Notiz ins Handy, wie meine PIN ist. Wenn ich die PIN vergesse, komm ich nicht mehr an die Notiz, weil ich die PIN nicht mehr weiß. Spektakuläre Anekdote.
+ARI: I don't have a PIN either. I always make a note in my phone of what my PIN is. If I forget the PIN, I can't access the note because I don't remember the PIN. Spectacular anecdote. (Je n'ai pas de code PIN non plus. Je note toujours dans mon téléphone ce que mon code PIN est. Si j'oublie le code PIN, je ne peux pas accéder à la note parce que je ne me souviens plus du code PIN. Anecdote spectaculaire.)
+
+ORI: Rocco würde seins eher verschlucken, stimmt's?
+ARI: Rocco would probably swallow his, right? (Rocco avalerait probablement le sien, n'est-ce pas ?)
+
+ORI: Beeindruckend, wie du als Therapeutindiffizil meine Gedanken liest. Wie kommst du drauf? Hier, nimm.
+ARI: Impressive how you as a therapist difficultly read my thoughts. How did you figure it out? Here, take it. (Impressionnant de voir comment en tant que thérapeute, tu lis difficilement mes pensées. Comment as-tu deviné ? Tiens, prends-le.)
+
+ORI: Sind Titten und Ärsche meinerPatienten drin, gehört zum Beruf.
+ARI: If there are breasts and buttocks of my patients in there, it's part of the job. (Si les seins et les fesses de mes patients sont là-dedans, c'est une partie du travail.)
+
+ORI: Kann ich mal…Finger weg!
+ARI: Can I have a look... Hands off! (Puis-je regarder... Les mains hors de là !)
+
+ORI: Ihr wollt behaupten,keiner von euch hätte Geheimnisse?
+ARI: You want to claim that none of you have secrets? (Vous voulez prétendre que vous n'avez aucun secret ?)
+
+ORI: Außer Diego sind also alle Heilige.Wir haben nichts zu verheimlichen.
+ARI: Except for Diego, are you all saints then? We have nothing to hide. (Sauf Diego, vous êtes tous des saints alors ? Nous n'avons rien à cacher.)
+
+ORI: Genau. Ich kenn euch allein und auswendig, ihr Langweiler.
+ARI: Exactly. I know all of you inside and out, you boring people. (Exactement. Je vous connais tous sur le bout des doigts, vous êtes ennuyeux.)
+
+ORI: Glaubst du wirklich?Ja.
+ARI: Do you really think so? Yes. (Le crois-tu vraiment ? Oui.)
+
+ORI: Gut, dann spielen wir ein Spiel. Nämlich? Farbe bekennen. Los, auf den Tisch mit euren Handys. Und dann? Für die Dauer des Essens werden SMS und WhatsApp vorgelesen und alle Anrufe auf Lautsprecher gestellt. Keine Geheimnisse. Oder doch? Oh ja. Das ist lustig. Ja, nee…Na dann. Lassen wir die Hosen runter. Das ist meins.
+ARI: Well, let's play a game then. Namely? Come clean. Come on, put your phones on the table. And then? For the duration of the meal, text messages and WhatsApp will be read aloud, and all calls will be on speaker. No secrets. Or maybe? Oh yes. That's funny. Yeah, well... In that case, let's drop our guard. This is mine. (Eh bien, jouons alors à un jeu. À savoir ? Dire la vérité. Allez, mettez vos téléphones sur la table. Et ensuite ? Pendant le repas, les SMS et WhatsApp seront lus à voix haute, et tous les appels seront en haut-parleur. Pas de secrets. Ou peut-être ? Oh oui. C'est amusant. Ouais, bon... Dans ce cas, dévoilons-nous. C'est le mien.)
+
+ORI: Deine Anna ist ja auch nicht hier.Ja, und? Ich würd's trotzdem machen.Was soll daran witzig sein, Eva? Ist dasein therapeutisches Experiment? Plötzlich so ernst?Verheimlichst du uns was? Ich habe eher Angst,dass du was verheimlichst. Wenn du 'ne Affäre hast,will ich's gar nicht wissen. Wenn ich eine hätte, würde ich wohl kaum das Spiel vorschlagen. Oder du hast eine und willst, dass es rauskommt. Es gibteinen psychologischen Mechanismus, demzufolge Serienkiller alles dafür tun würden, um entdeckt zu werden, weil sie's nicht mehr aushalten mit dem Geheimnis. Ich würde sagen, wir spielen. Und wenn wir keine Lust mehr haben,hören wir einfach auf. So… Es waren eh die meisten dagegen,lasst uns essen.
+ARI: Your Anna isn't here anyway. Yes, and? I would still do it. What's funny about that, Eva? Is this a therapeutic experiment? Suddenly so serious? Are you hiding something from us? I'm more afraid that you're hiding something. If you're having an affair, I don't want to know. If I were having one, I wouldn't suggest the game. Or maybe you have one and want it to come out. There's a psychological mechanism whereby serial killers would do anything to be discovered because they can't stand the secret anymore. I would say, let's play. And if we get tired of it, we can just stop. So... Most of us were against it anyway, let's eat. (De toute façon, ta Anna n'est pas ici. Oui, et alors ? Je le ferais quand même. Qu'est-ce qui est drôle là-dedans, Eva ? Est-ce une expérience thérapeutique ? Soudainement si sérieuse ? Tu nous caches quelque chose ? J'ai plutôt peur que tu nous caches quelque chose. Si tu as une liaison, je ne veux pas le savoir. Si j'en avais une, je ne proposerais certainement pas le jeu. Ou peut-être que tu en as une et que tu veux que ça se sache. Il y a un mécanisme psychologique selon lequel les tueurs en série feraient tout pour être découverts parce qu'ils ne supportent plus le secret. Je dirais, jouons. Et si ça nous lasse, on peut simplement arrêter. Alors... De toute façon, la plupart d'entre nous étaient contre, mangeons.)
+
+ORI: Das war nix Ernstes,ihr hattet nicht mal Haare am Sack,
+ARI: That wasn't serious, you didn't even have hair on your balls. (Ce n'était pas sérieux, vous n'aviez même pas de poils aux couilles.)
+
+ORI: wolltet immer zelten und Stockbrot machen.
+ARI: You always wanted to go camping and make campfire bread. (Vous vouliez toujours faire du camping et préparer du pain sur le feu de camp.)
+
+ORI: Wir wollten dich abknallen.
+ARI: We wanted to shoot you. (Nous voulions te tirer dessus.)
+
+ORI: Ja, hätten wir mal gemacht.Hm.
+ARI: Yeah, we should've done it. Hm. (Oui, on aurait dû le faire. Hm.)
+
+ORI: Wir wollten doch zelten gehen.Hat sich jemand gekümmert?
+ARI: We wanted to go camping though. Did anyone take care of it? (Nous voulions quand même partir en camping. Est-ce que quelqu'un s'en est occupé ?)
+
+ORI: Okay, jetzt nicht ablenken.Simon, leg dein Handy auf den Tisch.
+ARI: Okay, don't distract now. Simon, put your phone on the table. (D'accord, ne te laisse pas distraire maintenant. Simon, mets ton téléphone sur la table.)
+
+ORI: Och nee, will ich nicht.
+ARI: Oh no, I don't want to. (Oh non, je ne veux pas.)
+
+ORI: Ernsthaft?Ja.
+ARI: Seriously? Yes. (Sérieusement ? Oui.)
+
+ORI: Simon.
+ARI: Simon. (Simon.)
+
+ORI: So 'n Quatsch.
+ARI: Such nonsense. (De telles bêtises.)
+
+ORI: Von mir aus. Hier. Mein Handy.
+ARI: As you wish. Here. My phone. (Comme tu veux. Tiens. Mon téléphone.)
+
+ORI: Echt super witzig.
+ARI: Really funny. (Vraiment drôle.)
+
+ORI: Ich bin total excited,weil die Idee echt so lustig ist.
+ARI: I'm totally excited because the idea is really funny. (Je suis totalement excité parce que l'idée est vraiment drôle.)
+
+ORI: Leute, machen wir das jetzt wirklich?
+ARI: Guys, are we really doing this? (Les gars, est-ce qu'on fait vraiment ça ?)
+
+ORI: Ja.
+ARI: Yes. (Oui.)
+
+ORI: Das machen doch nur Proleten, das Handy beim Essen auf den Tisch legen.
+ARI: Only proletarians do that, put their phones on the table during meals. (Seuls les prolétaires font ça, mettent leur téléphone sur la table pendant les repas.)
+
+ORI: Diego hatte seins immer auf Flugmodus.
+ARI: Diego always had his on airplane mode. (Diego avait toujours le sien en mode avion.)
+
+ORI: Leo legt seins verkehrt herum hin.Wie leg ich's hin?
+ARI: Leo puts his upside down. How should I put it? (Leo met le sien à l'envers. Comment devrais-je le mettre ?)
+
+ORI: So. Glaubst du, das fällt nicht auf?Das mach ich doch nicht absichtlich.
+ARI: Like this. Do you think it won't be noticed? I'm not doing it on purpose. (Comme ça. Tu crois que ça ne se remarquera pas ? Je ne le fais pas exprès.)
+
+ORI: Und die 200 Euro DisplayReparatur stören dich nicht.
+ARI: And you're not bothered by the 200 euros for screen repair. (Et tu n'es pas dérangé par les 200 euros pour la réparation de l'écran.)
+
+ORI: Sind 30 Euro in der iPhoneKlinik.
+ARI: It's 30 euros at the iPhone clinic. (C'est 30 euros à la clinique iPhone.)
+
+ORI: Na dann, zerkratzen wir's doch.
+ARI: Well then, let's scratch it. (Eh bien, alors, grattons-le.)
+
+ORI: Gut, ich leg's mit dem Display nach oben hin, ja?
+ARI: Okay, I'll put it with the display facing up, alright? (D'accord, je le mettrai avec l'écran vers le haut, d'accord ?)
+
+ORI: Und keiner darf die Handys anfassen während des Spiels.
+ARI: And no one is allowed to touch the phones during the game. (Et personne n'est autorisé à toucher les téléphones pendant le jeu.)
+
+ORI: Es wird nicht geschummelt.
+ARI: No cheating allowed. (Pas de triche autorisée.)
+
+ORI: So, hier ist meins. Und falls meine Chefin anruft, ich bin nicht da.
+ARI: So, here's mine. And if my boss calls, I'm not here. (Alors, voici le mien. Et si mon patron appelle, je ne suis pas là.)
+
+ORI: Für den Pudel mit der Angststörung bin ich auch nicht erreichbar.
+ARI: I'm also not available for the poodle with anxiety issues. (Je ne suis pas non plus disponible pour le caniche avec des problèmes d'anxiété.)
+
+ORI: Ansonsten stehe ich zur Verfügung.
+ARI: Otherwise, I'm available. (Sinon, je suis disponible.)
+
+ORI: Wird doch noch ein spannender Abend.
+ARI: It's going to be an exciting evening after all. (Ce sera quand même une soirée excitante.)
+
+ORI: [bedrohliche Musik]
+ARI: [ominous music] ([musique menaçante])
+
+ORI: [lauter Knall]Oh Gott.
+ARI: [loud bang] Oh God. ([bruit fort] Oh mon Dieu.)
+
+ORI: Die Pfanne brennt!Und wie.
+ARI: The pan is on fire! And how. (La poêle est en feu ! Et comment.)
+
+ORI: Fällt jetzt 'n Gang aus?Das war das Fett von den Pimientos.
+ARI: Is a course canceled now? That was the oil from the pimientos. (Un plat est-il annulé maintenant ? C'était l'huile des pimientos.)
+
+ORI: Schade.
+ARI: Too bad. (Dommage.)
+
+ORI: Was war den grad los?Nichts.
+ARI: What just happened? Nothing. (Qu'est-ce qui vient de se passer ? Rien.)
+
+ORI: Sicher?Mit dir spiel ich jedes Spiel.
+ARI: Are you sure? I'll play any game with you. (T'es sûr ? Je jouerai à n'importe quel jeu avec toi.)
+
+ORI: Gott…
+ARI: God... (Dieu...)
+
+ORI: Ich bin dann weg.Hallo, Sophie.
+ARI: I'm out then. Hello, Sophie. (Je m'en vais alors. Salut, Sophie.)
+
+ORI: Hallo in die Runde.
+ARI: Hello to everyone. (Salut à tous.)
+
+ORI: Eure Tochter wird immer hübscher.
+ARI: Your daughter is getting prettier and prettier. (Ta fille devient de plus en plus jolie.)
+
+ORI: Danke.
+ARI: Thank you. (Merci.)
+
+ORI: Gott sei Dank kommt sie nach der Mutter.
+ARI: Thank God she takes after her mother. (Dieu merci, elle ressemble à sa mère.)
+
+ORI: Kannst du kurz, Papa?
+ARI: Can you talk for a moment, Dad? (Peux-tu parler un instant, papa?)
+
+ORI: Ja, klar.
+ARI: Yes, of course. (Oui, bien sûr.)
+
+ORI: Tja…
+ARI: Well... (Eh bien...)
+
+ORI: Gut. Alles, was reinkommt, zählt. SMS, EMails, WhatsApp, Anrufe.
+ARI: Alright. Everything that comes in counts. Texts, emails, WhatsApp, calls. (D'accord. Tout ce qui arrive compte. Messages, courriels, WhatsApp, appels.)
+
+ORI: Habt ihr alle eure PINs aus?
+ARI: Did you all lock your phones? (Avez-vous tous verrouillé vos téléphones ?)
+
+ORI: Ja.
+ARI: Yes. (Oui.)
+
+ORI: Simon, ich glaube, dein Flugmodus ist noch an.
+ARI: Simon, I think your airplane mode is still on. (Simon, je pense que ton mode avion est toujours activé.)
+
+ORI: Oh ja. Danke, Herr Lehrer. Den mach ich immer an beim Essen. Wie dumm von mir.
+ARI: Oh yeah. Thanks, Mr. Teacher. I always turn it on when eating. How silly of me. (Oh oui. Merci, M. l'enseignant. Je le mets toujours en mode avion en mangeant. Quelle bêtise de ma part.)
+
+ORI: Kannst du mir etwas Geld leihen? Das konntest du drin nicht fragen?
+ARI: Can you lend me some money? You couldn't ask inside? (Peux-tu me prêter de l'argent ? Tu ne pouvais pas demander à l'intérieur ?)
+
+ORI: Wegen Mama. Sie nervt. Was denn jetzt schon wieder? Das Übliche. Okay, wie viel brauchst du? Ein Euro? Zwei? Bisschen mehr.
+ARI: Because of Mom. She's annoying. What's bothering you now? The usual. Okay, how much do you need? One euro? Two? A bit more. (À cause de maman. Elle est agaçante. Qu'est-ce qui te tracasse maintenant ? Le habituel. D'accord, combien as-tu besoin ? Un euro ? Deux ? Un peu plus.)
+
+ORI: Kein Social Media. Hat jemand ein Zweithandy? Jetzt übertreibst du aber, oder? Ist doch nur ein Spiel. Russisch Roulette ist auch nur ein Spiel, Bianca. Peng.
+ARI: No social media. Does anyone have a second phone? You're exaggerating now, aren't you? It's just a game. Russian Roulette is also just a game, Bianca. Bang. (Pas de médias sociaux. Est-ce que quelqu'un a un deuxième téléphone ? Tu exagères maintenant, n'est-ce pas ? Ce n'est qu'un jeu. La roulette russe n'est aussi qu'un jeu, Bianca. Bang.)
+
+ORI: Wir haben die erste SMS! Für Simon.
+ARI: We got the first text message! For Simon. (Nous avons reçu le premier message texte ! Pour Simon.)
+
+ORI: Ha… Wer liest?
+ARI: Ha... Who's reading? (Ha... Qui lit ?)
+
+ORI: Lies vor. Ja…
+ARI: Read it aloud. Yes... (Lis-le à voix haute. Oui...)
+
+ORI: Was ist? "Ich will deinen Kör… per." Wer ist das? Keine Ahnung.
+ARI: What's this? "I want your b... body." Who is that? No idea. (Qu'est-ce que c'est ? "Je veux ton c... corps." Qui est-ce ? Aucune idée.)
+
+ORI: Das fängt ja super an. Ich sagte gleich, wir lassen das.
+ARI: This is starting off great. I said right away we should drop it. (Ça commence bien. J'ai dit tout de suite qu'on devrait abandonner ça.)
+
+ORI: Wer hat das geschickt? Zu spät. Ich kenn die Nummer nicht. Das muss irgendjemand sein, der sich verwählt hat.
+ARI: Who sent that? Too late. I don't recognize the number. Must be someone who dialed the wrong one. (Qui a envoyé ça ? Trop tard. Je ne reconnais pas le numéro. Ça doit être quelqu'un qui s'est trompé de numéro.)
+
+ORI: Jetzt ruft die Nummer an. Geh doch mal ran. Ich weiß nicht, wer das ist. Geh ran, bitte.
+ARI: Now the number is calling. Just pick up. I don't know who it is. Please answer. (Maintenant, le numéro appelle. Réponds donc. Je ne sais pas qui c'est. S'il te plaît, réponds.)
+
+ORI: Hallo? Lautsprecher. Hallo, wer ist da? Wenn Sie jetzt nichts sagen, lege ich auf! Stöhnen. Heftiges Stöhnen. Wer ist da, verdammte Scheiße? Du Drecksau! Schallendes Gelächter. Rocco! Das ist so 'n Arschloch! Du bist 'n Riesenarschloch! War doch nur Spaß. Das hab ich eh gewusst. Ja, haben wir gemerkt. Aber dein Blick eben. Zu geil. Zu geil. Sag nicht geil, du bist Mitte 40. Kann ich mein Handy wiederhaben? For shizzle. Sagst du noch Tschüss? Hätte ich schon noch gemacht. Tschüss, Mutter. Sie ist nicht immer so. Stimmt. Eben war sie gut drauf. Ja, ist auch ein schwieriges Alter, ne?
+ARI: Hello? Speaker. Hello, who's there? If you don't say anything now, I'll hang up! Moaning. Intense moaning. Who the hell is this? You bastard! Roaring laughter. Rocco! That guy is such an asshole! You're a giant asshole! It was just a joke. I knew that anyway. Yeah, we noticed. But your expression just now. Too hilarious. Too hilarious. Don't say hilarious, you're in your mid-40s. Can I have my phone back? For shizzle. Are you still saying goodbye? I would have still done it. Goodbye, Mom. She's not always like this. Right. She was in a good mood just now. Yeah, it's a difficult age, huh? (Salut ? Haut-parleur. Salut, qui est là ? Si vous ne dites rien maintenant, je raccroche ! Gémisse
+
+ORI: Schön, dass du dich so gut mit dem Nachwuchs auskennst.
+ARI: It's nice that you know so much about the younger generation. (C'est bien que tu connaisses autant la jeune génération.)
+
+ORI: Ich glaube, er wird das ganz gut hinkriegen.
+ARI: I think he'll manage that quite well. (Je pense qu'il s'en sortira assez bien.)
+
+ORI: Was hinkriegen?
+ARI: Get what? (Obtenir quoi?)
+
+ORI: Bist du schwanger? Was?
+ARI: Are you pregnant? What? (Es-tu enceinte ? Quoi ?)
+
+ORI: Nein. Nee, aber wir arbeiten dran.
+ARI: No. No, but we're working on it. (Non. Non, mais nous travaillons dessus.)
+
+ORI: [sie kichert] Es ist mehr 'n Hobby als Arbeit.
+ARI: [she giggles] It's more like a hobby than work. ([elle rit] C'est plus comme un passe-temps que du travail.)
+
+ORI: Oh… Darauf stoßen wir an.
+ARI: Oh... Let's toast to that. (Oh... Trinquons à ça.)
+
+ORI: Nein, es gibt doch noch gar nichts zum Anstoßen.
+ARI: No, there's nothing to toast to yet. (Non, il n'y a rien à fêter pour l'instant.)
+
+ORI: Dann darauf, dass hier jemand richtig vögelt.
+ARI: Then here's to someone getting it on. (Alors, voici pour quelqu'un qui s'amuse bien.)
+
+ORI: Ja! Was?
+ARI: Yes! What? (Oui ! Quoi ?)
+
+ORI: Als ob hier sonst keiner vögelt.
+ARI: As if no one else is getting any action around here. (Comme si personne d'autre ne s'amusait ici.)
+
+ORI: Wollt ihr mir erzählen, ihr vögelt noch wie am ersten Tag?
+ARI: Are you trying to tell me you're still going at it like on the first day? (Essaies-tu de me dire que vous continuez comme au premier jour ?)
+
+ORI: Weiß ich jetzt nicht. Ich hab kein Tagebuch geführt.
+ARI: I don't know for sure. I haven't kept a diary. (Je ne sais pas exactement. Je n'ai pas tenu de journal intime.)
+
+ORI: Haushalt, Waschen, Kindererziehung. Egal.
+ARI: Household chores, laundry, childcare. Whatever. (Tâches ménagères, lessive, éducation des enfants. Peu importe.)
+
+ORI: Ein moderner Ehemann wie Leo wird niemals müde.
+ARI: A modern husband like Leo will never get tired. (Un mari moderne comme Leo ne se fatiguera jamais.)
+
+ORI: Ich koch nicht nur sonntags, Rocco.
+ARI: I don't cook only on Sundays, Rocco. (Je ne cuisine pas seulement le dimanche, Rocco.)
+
+ORI: So, lasst uns anstoßen. Aufs Babymachen.
+ARI: So, let's toast. To making babies. (Alors, trinquons. À faire des bébés.)
+
+ORI: Kinder sind das Beste im Leben. Bis auf den Dammriss.
+ARI: Children are the best thing in life. Except for the perineal tear. (Les enfants sont la meilleure chose dans la vie. À l'exception de la déchirure périnéale.)
+
+ORI: Oh Gott… Prost! Whoo!
+ARI: Oh God... Cheers! Whoo! (Oh mon Dieu... Santé ! Whoo !)
+
+ORI: Kinder sind das Beste im Leben. Kannst du mir das kurz erklären?
+ARI: Children are the best thing in life. Can you explain that to me briefly? (Les enfants sont la meilleure chose dans la vie. Peux-tu m'expliquer ça brièvement ?)
+
+ORI: Menschen heiraten und kriegen Kinder, Pepe.
+ARI: People get married and have children, Pepe. (Les gens se marient et ont des enfants, Pepe.)
+
+ORI: Und wenn ich geschieden bin und keine Kinder hab, bin ich dann kein Mensch?
+ARI: And if I'm divorced and don't have children, am I not a human being then? (Et si je suis divorcé et que je n'ai pas d'enfants, ne suis-je pas un être humain ?)
+
+ORI: [Carlotta wimmert] Boah…
+ARI: [Carlotta whimpering] Oh... ( [Carlotta gémit] Oh...)
+
+ORI: Also… Darf man doch fragen. Der Philosoph…
+ARI: So... One can ask, right? The philosopher... (Alors... On peut demander, non ? Le philosophe...)
+
+ORI: Zeit zum Abschmecken. Vergifte dich nicht.
+ARI: Time to taste. Don't poison yourself. (Le moment de goûter. Ne t'empoisonne pas.)
+
+ORI: Kannst du schon ausschließen, Kinder mit Anna zu haben? Ließ sie keine Eizellen einfrieren vor den Wechseljahren?
+ARI: Can you already rule out having children with Anna? Didn't she freeze her eggs before menopause? (Peux-tu déjà exclure d'avoir des enfants avec Anna ? N'a-t-elle pas congelé ses ovules avant la ménopause ?)
+
+ORI: Nein, aber der Gedanke, dass ein Leben ohne Kinder sinnlos sein soll, ist doch absurd.
+ARI: No, but the idea that a life without children should be meaningless is absurd, isn't it? (Non, mais l'idée qu'une vie sans enfants devrait être dénuée de sens est absurde, n'est-ce pas ?)
+
+ORI: Klar ist es für manche bequemer, weil sie 'ne Aufgabe brauchen, aber…
+ARI: Of course, for some, it's more convenient because they need a purpose, but... (Bien sûr, pour certains, c'est plus pratique parce qu'ils ont besoin d'un but, mais...)
+
+ORI: Ich will kein Kind, um 'ne Aufgabe zu haben.
+ARI: I don't want a child just to have a purpose. (Je ne veux pas d'un enfant juste pour avoir un but.)
+
+ORI: Warum dann?
+ARI: Then why? (Alors pourquoi ?)
+
+ORI: Die Welt verbessern? Vielleicht erfindet es was gegen den Müllstrudel oder Krebs.
+ARI: To make the world better? Maybe it'll invent something to tackle the garbage vortex or cancer. (Pour améliorer le monde ? Peut-être qu'il inventera quelque chose pour lutter contre le tourbillon de déchets ou le cancer.)
+
+ORI: Ja. Na ja.
+ARI: Yes. Well, yeah. (Oui. Eh bien, oui.)
+
+ORI: Der Punkt geht an dich.
+ARI: The point goes to you. (Le point va à toi.)
+
+ORI: Hab vergessen, was für'ne EsoterikTante du bist.
+ARI: I forgot what kind of New Age aunt you are. (J'ai oublié quel genre de tante ésotérique tu es.)
+
+ORI: Mit Kindern ist ein Paar doch erst richtig komplett.
+ARI: A couple is only truly complete with children. (Un couple n'est vraiment complet qu'avec des enfants.)
+
+ORI: Das heißt, zu zweit kann man nicht glücklich sein oder was?
+ARI: So, being alone together can't make you happy or what? (Alors, être seul à deux ne peut pas vous rendre heureux, n'est-ce pas ?)
+
+ORI: Tragisch.Egoist.
+ARI: Tragic. Selfish. (Tragique. Égoïste.)
+
+ORI: Na und? Der Sinn meines Lebens bin ich gerne selbst.
+ARI: So what? I'm happy to be the purpose of my own life. (Et alors ? Je suis heureux d'être le but de ma propre vie.)
+
+ORI: Pepe hat nicht unrecht.Es kann auch egoistisch sein.
+ARI: Pepe is not wrong. It can also be selfish. (Pepe n'a pas tort. Cela peut aussi être égoïste.)
+
+ORI: Also.
+ARI: So. (Donc.)
+
+ORI: Manche haben Angst vorm Alter
+und hoffen, ein zweites Lebengeschenkt zu bekommen.
+ARI: Some people fear aging and hope to receive a second chance at life. (Certaines personnes craignent le vieillissement et espèrent recevoir une deuxième chance dans la vie.)
+
+ORI: Was soll denn das? Ich find's toll, ein Kind zu haben.
+ARI: What's the matter with that? I think it's great to have a child. (Qu'est-ce que ça peut faire ? Je trouve génial d'avoir un enfant.)
+
+ORI: Ich hätte gern mehr gehabt. Du hast doch gar keine Kinder.
+ARI: I would have liked to have more. You don't have any children, do you? (J'aurais aimé en avoir plus. Tu n'as pas d'enfants, n'est-ce pas ?)
+
+ORI: Ich habe jeden Tag 30 vor mir.
+ARI: I have 30 in front of me every day. (J'ai 30 devant moi chaque jour.)
+
+ORI: Und schickst sie nachmittags weg. Gott sei Dank.
+ARI: And you send them away in the afternoon. Thank God. (Et tu les envoies loin l'après-midi. Dieu merci.)
+
+ORI: Lacht gerne, aber der schönste Moment des Tages ist, wenn ich die Kleinen ins Bett bringe, da geht mir das Herz auf.
+ARI: I like to laugh, but the most beautiful moment of the day is when I put the little ones to bed, my heart melts. (J'aime rire, mais le plus beau moment de la journée, c'est quand je mets les petits au lit, mon cœur fond.)
+
+ORI: Wenn sie über mein Gesicht streicheln und sagen, wie sehr sie mich lieben.
+ARI: When they stroke my face and say how much they love me. (Quand ils caressent mon visage et disent combien ils m'aiment.)
+
+ORI: Wirklich, da empfinde ich nichts als Freude, Freude, Freude.
+ARI: Really, I feel nothing but joy, joy, joy. (Vraiment, je ne ressens que de la joie, de la joie, de la joie.)
+
+ORI: Und bald heißt es: "Mama, du bist so peinlich, peinlich, peinlich."
+ARI: And soon it'll be like: "Mom, you're so embarrassing, embarrassing, embarrassing." (Et bientôt ça sera comme : "Maman, tu es tellement gênante, gênante, gênante.")
+
+ORI: Keine Kritik, aber kann man Eltern sein beurteilen, wenn man nur am Wochenende Mutter ist?
+ARI: No criticism, but can one judge parents when they're only a mother on weekends? (Pas de critique, mais peut-on juger les parents quand on n'est qu'une mère le week-end ?)
+
+ORI: [leise] Simon…
+ARI: [softly] Simon... (Chuchote) Simon...
+
+ORI: Keine Kritik, aber kann man arbeitende Frauen beurteilen, wenn man noch nie im Leben 'ne Probezeit überstanden hat?
+ARI: No criticism, but can one judge working women if they've never passed a probation period in their life? (Pas de critique, mais peut-on juger les femmes qui travaillent si elles n'ont jamais réussi une période d'essai de leur vie ?)
+
+ORI: Na ja, ich kann's auf jeden Fall kaum erwarten.
+ARI: Well, I can hardly wait for it. (Eh bien, j'ai hâte.)
+
+ORI: Deine haben dann ja schon mit zwölf Kondome und Alk for free.
+ARI: Yours will already have condoms and free alcohol at the age of twelve. (Les tiens auront déjà des préservatifs et de l'alcool gratuit à douze ans.)
+
+ORI: Die sind schnell aus dem Haus. [Lacher]
+ARI: They'll be out of the house quickly. [Laughter] (Ils partiront rapidement de la maison. [Rires])
+
+ORI: [ein Handy klingelt]
+ARI: [a cell phone rings] (un téléphone portable sonne)
+
+ORI: Das ist meine Schwester. Was jetzt? Na, rangehen.
+ARI: That's my sister. What now? Well, answer it. (C'est ma sœur. Et maintenant ? Eh bien, réponds.)
+
+ORI: Hey, Sabine.
+ARI: Hey, Sabine. (Salut, Sabine.)
+
+ORI: Lautsprecher. Ach so.
+ARI: Speakerphone. Oh, I see. (Haut-parleur. Oh, je vois.)
+
+ORI: [Sabine] Ja. Sag nichts Peinliches. Du bist auf Lautsprecher.
+ARI: [Sabine] Yes. Don't say anything embarrassing. You're on speakerphone. ([Sabine] Oui. Ne dis rien de gênant. Tu es en haut-parleur.)
+
+ORI: Penner, ey.
+ARI: Jerk, huh. (Connard, hein.)
+
+ORI: Wir spielen so ein Spiel.
+ARI: We're playing a game. (Nous jouons à un jeu.)
+
+ORI: Du darfst sie nicht vorwarnen.
+ARI: You mustn't warn them. (Tu ne dois pas les avertir.)
+
+ORI: Ich bin bei Rocco und Eva…[Eva] Na super.
+ARI: I'm with Rocco and Eva... [Eva] Oh great. (Je suis avec Rocco et Eva
+
+... [Eva] Oh super.)
+
+ORI: Red einfach weiter.
+ARI: Just keep talking. (Continue simplement à parler.)
+
+ORI: Hallo, Bine!
+ARI: Hello, Bine! (Salut, Bine!)
+
+ORI: Hallo, Sabine![alle] Hallo, Sabine.
+ARI: Hello, Sabine! [all] Hello, Sabine. (Salut, Sabine ! [tous] Salut, Sabine.)
+
+ORI: Ich will nicht nach Heidelberg.
+ARI: I don't want to go to Heidelberg. (Je ne veux pas aller à Heidelberg.)
+
+ORI: Tschüss.
+ARI: Goodbye. (Au revoir.)
+
+ORI: Ja, sorry, ich hab's verkackt.Allerdings.
+ARI: Yes, sorry, I messed it up. Indeed. (Oui, désolé, j'ai merdé. En effet.)
+
+ORI: Haben alle die Regeln verstanden?Ja, ging halt sehr schnell.
+ARI: Did everyone understand the rules? Yeah, it went by quickly. (Tout le monde a compris les règles ? Ouais, ça s'est passé rapidement.)
+
+ORI: Was für ein Job in Heidelberg?
+ARI: What kind of job in Heidelberg? (Quel genre d'emploi à Heidelberg?)
+
+ORI: Meine Schwester hat da wasan 'ner Schule für mich aufgetrieben.
+ARI: My sister found something for me at a school there. (Ma sœur a trouvé quelque chose pour moi dans une école là-bas.)
+
+ORI: Kündigst du?Du stehst kurz vor der Verbeamtung.
+ARI: Are you quitting? You're about to become a civil servant. (Tu démissionnes ? Tu es sur le point de devenir fonctionnaire.)
+
+ORI: Ja, aber meine Schule ist irgendwie nicht so…
+ARI: Yeah, but my school is somehow... (Oui, mais mon école est d'une certaine manière...)
+
+ORI: Ich komm nicht so gut klar mit diesen versnobten Kindern.
+ARI: I don't get along well with these snobbish kids. (Je ne m'entends pas bien avec ces enfants snobs.)
+
+ORI: Du warst doch froh, an so 'nem konservativen Gymnasium zu arbeiten,
+weil's kaum Messerstechereien gibt.
+ARI: Weren't you happy to work at such a conservative high school because there's hardly any knife fights? (N'étais-tu pas content de travailler dans une école secondaire si conservatrice car il n'y a presque pas de bagarres au couteau ?)
+
+ORI: Hm, jetzt hab ich's miranders überlegt.
+ARI: Hm, now I've changed my mind about it. (Hm, maintenant j'ai changé d'avis à ce sujet.)
+
+ORI: Ist zu viel Druck.
+ARI: There's too much pressure. (Il y a trop de pression.)
+
+ORI: Nimm's mir nicht übel,
+aber meine Freundin Silkeunterrichtet an zwei Schulen.
+Die würde alles tunfür die Verbeamtung.
+ARI: Don't take it personally, but my friend Silke teaches at two schools. She would do anything for the civil service. (Ne le prends pas personnellement, mais mon amie Silke enseigne dans deux écoles. Elle ferait n'importe quoi pour devenir fonctionnaire.)
+
+ORI: Mehr Geld, private Krankenversicherung, sichere Pension,
+und du verkündest, du gibst das auf,weil der Job zu hart ist?
+Findest du das nicht ein bisschen arrogant?
+ARI: More money, private health insurance, a secure pension, and you're announcing that you're giving it up because the job is too tough? Don't you find that a bit arrogant? (Plus d'argent, une assurance maladie privée, une pension sûre, et tu annonces que tu abandonnes tout parce que le travail est trop dur ? Ne trouves-tu pas cela un peu arrogant ?)
+
+ORI: Lass ihn. Muss nicht jeder karrierefixiert sein.
+Er will halt auch mal im Lehrerzimmer chillen.
+ARI: Let him be. Not everyone has to be career-focused. He just wants to chill in the teacher's lounge once in a while. (Laisse-le tranquille. Tout le monde n'a pas besoin d'être axé sur sa carrière. Il veut juste se détendre dans la salle des professeurs de temps en temps.)
+
+ORI: Wenn aus jedem Anruf eine moralische Diskussion wird, brauch ich…
+…mehr Wein.Ja.
+ARI: If every call turns into a moral discussion, I need... more wine. Yeah. (Si chaque appel se transforme en discussion morale, j'ai besoin... de plus de vin. Ouais.)
+
+ORI: Bianca, schüttel noch mal.
+ARI: Bianca, shake it again. (Bianca, secoue-le à nouveau.)
+
+ORI: Ich hab ein paar Bewerbungen laufen.Irgendwann kommt was Gutes.
+ARI: I have a few job applications in progress. Something good will come eventually. (J'ai quelques candidatures en cours. Quelque chose de bien viendra éventuellement.)
+
+ORI: Hast du da richtig Streit?Was 'n passiert?
+ARI: Did you have a real fight there? What happened? (Tu as eu une vraie dispute là-bas ? Que s'est-il passé ?)
+
+ORI: Hast du 'ne Abiturientin gebumst oder was?
+ARI: Did you sleep with a high school graduate or something? (Tu as couché avec une bachelière ou quoi ?)
+
+ORI: Ja, ist gut jetzt.
+ARI: Yeah, that's enough now. (Oui, c'est assez maintenant.)
+
+ORI: Ich find's gut,in Bewegung zu bleiben.
+Das ist heute der einzige Weg.
+ARI: I think it's good to keep moving. That's the only way today. (Je pense que c'est bien de rester en mouvement. C'est la seule façon aujourd'hui.)
+
+ORI: Ich habe mein Geschäft aufgegeben,die Ärmel hochgekrempelt
+und mir ein Taxi zugelegt.
+ARI: I gave up my business, rolled up my sleeves, and got myself a taxi. (J'ai abandonné mon entreprise, retroussé mes manches et acheté un taxi.)
+
+ORI: Wir sollten uns alle ein Beispiel an dir nehmen.
+Und alle sechs Monate pleitegehen.Ja, macht euch nur lustig.
+Ich orientier mich gerade wieder neu.
+Hab meine Taxilizenz zum Verkauf angeboten.
+Du hast die Raten noch nicht mal abbezahlt.
+Warum sagst du mir das nicht?Hätte ich schon noch.
+Ja, aber wann?
+[Eva und Carlotta kichern]
+ARI: We should all take an example from you. And go broke every six months. Yeah, just make fun of me. I'm in the process of reorienting myself. I offered my taxi license for sale. You haven't even paid off the installments. Why didn't you tell me that? I would have. Yeah, but when? [Eva and Carlotta giggle]
+(Nous devrions tous prendre exemple sur toi. Et faire faillite tous les six mois. Ouais, moquez-vous de moi. Je suis en train de me réorienter. J'ai proposé ma licence de taxi à la vente. Tu n'as même pas encore remboursé les mensualités. Pourquoi ne me l'as-tu pas dit ? Je l'aurais fait. Ouais, mais quand ? [Eva et Carlotta ricanent])
+
+ORI: Du hast Bianca nicht gesagt, dass du als Lifestyle-Model gearbeitet hast?
+ARI: You didn't tell Bianca that you worked as a lifestyle model, did you? (Tu n'as pas dit à Bianca que tu avais travaillé en tant que modèle de style de vie, n'est-ce pas ?)
+
+ORI: Eva. Lass es. Nein.
+ARI: Eva. Let it go. No. (Eva. Laisse tomber. Non.)
+
+ORI: Er wurde mal als Model gebucht, für ein Fotoshooting eines Tabakkonzerns. Für die Fotos, die auf der Packung als Warnung drauf sind. Er lag im Bett, ganz blass geschminkt und hatte so 'n… …Sauerstoffzugang. Ja, in der Nase.
+ARI: He was once booked as a model for a photoshoot for a tobacco company. For the photos that are on the packaging as a warning. He was lying in bed, pale makeup, and had a... oxygen tube. Yes, in his nose. (Il a été une fois réservé en tant que modèle pour une séance photo pour une société de tabac. Pour les photos qui sont sur l'emballage comme avertissement. Il était allongé au lit, maquillage pâle, et avait un... tube d'oxygène. Oui, dans le nez.)
+
+ORI: Und was war das andere Motiv? Hm? Es gab kein anderes Motiv. Doch. Impotenz. [alle] Ja! Er im Bett, neben ihm eine frustrierte Frau, die ganz traurig nach unten schaut zu seinem besten Stück. Das hat er dezent verschwiegen. Die meinten, es sei nur für den russischen Markt! Und nicht, dass die Scheißfotos in ganz Europa drauf kommen. Er wollte alle Zigaretten kaufen, weil er ständig gefragt wurde, ob er Krebs hat wegen der Fotos.
+ARI: And what was the other motif? Hm? There was no other motif. Yes, impotence. [all] Yes! Him in bed, next to him a frustrated woman, looking sadly down at his best piece. He discreetly kept that quiet. They said it was only for the Russian market! And not that the damn photos would be all over Europe. He wanted to buy all the cigarettes because he was constantly asked if he had cancer because of the photos. (Et quel était l'autre motif ? Hm ? Il n'y avait pas d'autre motif. Oui, l'impuissance. [tous] Oui ! Lui au lit, à côté de lui une femme frustrée, regardant tristement vers le bas à sa meilleure partie. Il en a discrètement gardé le silence. Ils ont dit que c'était uniquement pour le marché russe ! Et pas que les fichues photos seraient partout en Europe. Il voulait acheter toutes les cigarettes parce qu'on lui demandait constamment s'il avait le cancer à cause des photos.)
+
+ORI: Wieso redet ihr nur über die Tiefpunkte? Ich hatte zig geniale Ideen!
+ARI: Why are you only talking about the low points? I had numerous brilliant ideas! (Pourquoi ne parlez-vous que des bas points ? J'ai eu de nombreuses idées brillantes !)
+
+ORI: Stimmt, die Rassehundezucht. Hör auf!
+ARI: True, the purebred dog breeding. Stop it! (Vrai, l'élevage de chiens de race. Arrêtez !)
+
+ORI: Der Yorkshire Terrier für 9000 Euro. Die Idee war gut. Was kann ich dafür, wenn die Schlampe die Dogge vögelt. Klar kam das raus. Die Welpen hatten viel zu lange Beine.
+ARI: The Yorkshire Terrier for 9000 euros. The idea was good. What can I do if that bitch is screwing the Great Dane? Of course, it came out. The puppies had way too long legs. (Le Yorkshire Terrier à 9000 euros. L'idée était bonne. Que puis-je faire si cette salope baise le Grand Danois ? Bien sûr, ça s'est su. Les chiots avaient des pattes beaucoup trop longues.)
+
+ORI: Mmh, sieht gut aus, oder?
+ARI: Mmh, looks good, doesn't it? (Mmh, ça a l'air bon, n'est-ce pas ?)
+
+ORI: Was ist das denn Deformiertes? Das sind Ravioli, du Bastard.
+ARI: What's that deformed thing? Those are ravioli, you bastard. (Qu'est-ce que c'est que cette chose déformée ? Ce sont des raviolis, espèce de salaud.)
+
+ORI: Womit hast du die gefüllt, du Penner? Weiß nicht mehr, Henssler. Besser als dein Mörtel da.
+ARI: What did you fill them with, you jerk? Can't remember, Henssler. Better than your mortar there. (Avec quoi les as-tu remplis, espèce d'enfoiré ? Je ne m'en souviens plus, Henssler. Mieux que ta mortier là-bas.)
+
+ORI: Hast du Kakaopulver? Selbstverständlich, da vorne. Nee, richtigen Kakao, nicht den Industrie-Scheiß. Wir essen kaum noch Zucker.
+ARI: Do you have cocoa powder? Of course, it's up front. No, real cocoa, not the industrial crap. We hardly eat sugar anymore. (As-tu de la poudre de cacao ? Bien sûr, c'est devant. Non, du vrai cacao, pas cette merde industrielle. Nous ne mangeons presque plus de sucre.)
+
+ORI: Ich hatte neulich einen Müsliriegel auf dem Spielplatz dabei. Ich wär fast gesteinigt worden von den anderen Müttern. Elternzeit ist also…
+ARI: I had a granola bar with me on the playground the other day. I was almost stoned by the other mothers. So, parental leave is... (J'avais une barre de granola avec moi au parc de jeux l'autre jour. J'ai failli être lapidé par les autres mères. Donc, le congé parental c'est...)
+
+ORI: Nicht so witzig wie auf meiner Facebook-Seite. [Gelächter] Wehe, du sagst Eva was. Ich hab 'n Jobangebot von meiner alten Firma. Die brauchen dringend 'n Bauzeichner. Ich kann nicht zurück.
+ARI: Not as funny as on my Facebook page. [Laughter] Don't you dare tell Eva. I got a job offer from my old company. They urgently need a draftsman. I can't go back. (Pas aussi drôle que sur ma page Facebook. [Rires] Ne t'avise pas de le dire à Eva. J'ai reçu une offre d'emploi de mon ancienne entreprise. Ils ont désespérément besoin d'un dessinateur. Je ne peux pas revenir.)
+
+ORI: Sage ich Carlotta, dass Elternzeitscheiße ist, flippt die aus.
+ARI: If I tell Carlotta that parenting is crap, she freaks out. (Si je dis à Carlotta que la parentalité c'est de la merde, elle pète un câble.)
+
+ORI: Deine ist eben die größte Emanze. Ich weiß.
+ARI: Yours is the biggest feminist. I know. (La tienne est la plus grande féministe. Je sais.)
+
+ORI: Ich verstehe nicht, wie die anderen Väter das durchziehen.
+ARI: I don't understand how the other fathers manage this. (Je ne comprends pas comment les autres pères s'en sortent.)
+
+ORI: Ich pass mich an. Ich hab mir Leinensachen gekauft und versuch, ökig auszusehen.
+ARI: I adapt. I bought linen clothes and try to look eco-friendly. (Je m'adapte. J'ai acheté des vêtements en lin et j'essaie d'avoir l'air écolo.)
+
+ORI: Die akzeptieren dich nicht, wenn du nicht nach Gleichberechtigung aussiehst.
+ARI: They don't accept you if you don't look like you're for equality. (Ils ne t'acceptent pas si tu ne ressembles pas à quelqu'un qui défend l'égalité.)
+
+ORI: Manchmal lass ich Kinderkotze auf meinen Klamotten, damit Mütter mich respektieren.
+ARI: Sometimes I let children's vomit on my clothes so that mothers respect me. (Parfois, je laisse le vomi d'enfants sur mes vêtements pour que les mères me respectent.)
+
+ORI: Topp Taste!
+ARI: Top-notch! (Au top !)
+
+ORI: Wie lange musst du denn noch? Wir wollten nach sechs Monaten reden. Das war vor zwölf Monaten.
+ARI: How much longer do you have to go? We said we would talk after six months. That was twelve months ago. (Combien de temps encore? Nous avions dit que nous parlerions après six mois. C'était il y a douze mois.)
+
+ORI: Ich fühle mich so nutzlos, Rocco.
+ARI: I feel so useless, Rocco. (Je me sens tellement inutile, Rocco.)
+
+ORI: Und dann immer diese GeldScheiße.
+ARI: And then there's always this money shit. (Et puis il y a toujours cette merde d'argent.)
+
+ORI: Wenn wir mehr Kohle hätten, würden wir drei Nannys einstellen.
+ARI: If we had more cash, we would hire three nannies. (Si nous avions plus d'argent, nous embaucherions trois nounous.)
+
+ORI: So wie Simon das bald machen wird. Simon? Wieso? Seine Kleine ist stinkreich.
+ARI: Just like Simon is about to do. Simon? Why? His little one is filthy rich. (Comme Simon est sur le point de le faire. Simon ? Pourquoi ? Sa petite est très riche.)
+
+ORI: Weißt du, was die Oma ihr vererbte? Wieso erzählt er das nur dir? Ich war bei ihm, da lag so 'ne Erbschaftssache rum. Da hat er's mir gesteckt.
+ARI: Do you know what her grandma left her? Why did he only tell you? I was at his place, and there was some inheritance stuff lying around. That's when he told me. (Sais-tu ce que sa grand-mère lui a laissé ? Pourquoi te l'a-t-il dit seulement à toi ? J'étais chez lui, et il y avait des trucs d'héritage qui traînaient. C'est là qu'il me l'a dit.)
+
+ORI: Die muss nie wieder arbeiten. Die Oma hat so ein Patent geerbt von ihrem Mann.
+ARI: She never has to work again. Grandma inherited a patent from her husband. (Elle n'aura plus jamais à travailler. Grand-mère a hérité d'un brevet de son mari.)
+
+ORI: Schätze, er wartet die Hochzeit ab, damit er seine eigene Kreditkarte bekommt. Hat er geheim gehalten, der Sack.
+ARI: I guess he's waiting for the wedding so he can get his own credit card. He kept it a secret, the bastard. (Je suppose qu'il attend le mariage pour avoir sa propre carte de crédit. Il l'a gardé secret, le salaud.)
+
+ORI: Komm. Du sagst uns auch nicht alles. Was meinst du?
+ARI: Come on. You don't tell us everything either. What do you mean? (Allez. Tu ne nous dis pas tout non plus. Que veux-tu dire ?)
+
+ORI: Tu doch nicht so. Ja…
+ARI: You don't either. Yeah... (Toi non plus. Ouais...)
+
+[Handyklingeln]
+
+ORI: Wer ist das?
+ARI: Who is it? (Qui est-ce ?)
+
+ORI: Oh nein. Oh Gott. Uh… Oh nein! Mein Vater.
+ARI: Oh no. Oh my God. Uh... Oh no! My father. (Oh non. Oh mon Dieu. Uh... Oh non ! Mon père.)
+
+ORI: Dein Liebhaber? So früh?
+ARI: Your lover? So early? (Ton amoureux ? Si tôt ?)
+
+ORI: Mein Vater. Lautsprecher.
+ARI: My father. Speakerphone. (Mon père. Haut-parleur.)
+
+ORI: Hallo, Papa.
+ARI: Hello, Dad. (Bonjour, Papa.)
+
+ORI: Super, wir essen grad mit Freunden. Perfekt, danke. Grüß Mama. Ciao.
+ARI: Great, we're eating with friends right now. Perfect, thanks. Say hi to Mom. Bye. (Super, on mange avec des amis en ce moment. Parfait, merci. Dis bonjour à maman. Au revoir.)
+
+ORI: Was denn für eine Operation? Ach, ist nichts Ernstes, Augmentationsmastoplastie.
+ARI: What kind of surgery? Oh, it's nothing serious, augmentation mastoplasty. (Quel genre de chirurgie ? Oh, ce n'est rien de grave, une augmentation mammaire.)
+
+ORI: Hä? 'ne Brustvergrößerung. Du lässt dir die Brüste machen?
+ARI: Huh? Breast enlargement. You're getting your breasts done? (Hein ? Une augmentation mammaire. Tu te fais refaire les seins ?)
+
+ORI: Ich lass mir die Brüste vergrößern. Warum hast du mir das nicht gesagt?
+ARI: I'm getting my breasts enlarged. Why didn't you tell me that? (Je me fais agrandir les seins. Pourquoi ne m'as-tu pas dit ça ?)
+
+ORI: Aber du bist doch Psychotherapeutin. Und? Eine Therapeutin lässt sich nicht den Busen vergrößern. Warum? Sie gefallen mir nicht. Müsstest du dich als Therapeutin nicht akzeptieren, wie du bist? Euer Ernst? Eine Frau, die sich den Busen machen lässt, akzeptiert sich nicht? Nein. Nicht wirklich.
+ARI: But you're a psychotherapist, right? So what? A therapist doesn't get their breasts enlarged. Why not? I don't like how they look. Shouldn't you, as a therapist, accept yourself as you are? Seriously? A woman who gets her breasts done doesn't accept herself? No. Not really. (Mais tu es psychologue, n'est-ce pas ? Et alors ? Une psychologue ne se fait pas refaire les seins. Pourquoi pas ? Je n'aime pas leur aspect. Ne devrais-tu pas, en tant que psychologue, t'accepter telle que tu es ? Sérieusement ? Une femme qui se fait refaire les seins ne s'accepte pas ? Non. Pas vraiment.)
+
+ORI: Ich akzeptier alles an mir, außer meine Titten.
+ARI: I accept everything about myself except my breasts. (J'accepte tout de moi sauf mes seins.)
+
+ORI: 'ne Seelenklempnerin mit großen Möpsen würde mich unruhig machen.
+ARI: A therapist with big boobs would make me uneasy. (Une thérapeute avec de gros seins me rendrait mal à l'aise.)
+
+ORI: Lenkt das nicht ab?
+ARI: Doesn't that distract you? (Ça ne te dérange pas?)
+
+ORI: Da liegt man so rum und hat immer deine…
+ARI: You lie there and always have yours... (Tu restes là à avoir les tiens...)
+
+ORI: Leo, es werden keine Melonen, es werden fucking normal große Brüste.
+ARI: Leo, it's not going to be melons, it's going to be normal-sized breasts, damn it. (Leo, ce ne seront pas des melons, ce seront des seins de taille normale, bon sang.)
+
+ORI: Und warum macht das nicht Rocco? Ja, wäre ja auch viel billiger.
+ARI: And why doesn't Rocco do it? Yeah, it would be much cheaper. (Et pourquoi Rocco ne le fait pas ? Ouais, ce serait beaucoup moins cher.)
+
+ORI: Weil Papa Chefarzt das nicht möchte. Für die Tochter bitte das Beste.
+ARI: Because Papa, the chief doctor, doesn't want that. For his daughter, only the best. (Parce que papa, le chef de service, ne le veut pas. Pour sa fille, seulement le meilleur.)
+
+ORI: Es muss Professor Blanchard sein. Der Arzt der VIPs.
+ARI: It has to be Professor Blanchard. The doctor for VIPs. (Ça doit être le Professeur Blanchard. Le médecin des VIP.)
+
+ORI: Das kann nicht irgendwer machen. Nicht ich. Einer, der zwei Brüste zum Preis von einer macht.
+ARI: Just anyone can't do it. Not me. Someone who can give you two breasts for the price of one. (Ce n'est pas n'importe qui qui peut le faire. Pas moi. Quelqu'un qui peut te donner deux seins pour le prix d'un.)
+
+ORI: So ein Quatsch.
+ARI: Such nonsense. (Une telle absurdité.)
+
+ORI: Komm… Dein Vater hält mich für einen Versager.
+ARI: Come on... Your father thinks I'm a loser. (Allez... Ton père pense que je suis un perdant.)
+
+ORI: Bist du fertig mit deinen Komplexen?
+ARI: Are you done with your complexes? (As-tu fini avec tes complexes?)
+
+ORI: Komplexe scheint ihr ja beide zu haben.
+ARI: It seems like you both have complexes. (Il semble que vous ayez tous les deux des complexes.)
+
+ORI: Ein Mann kann nicht die Brüste seiner Frau machen. Das ist unsexy.
+ARI: A man can't make his wife's breasts. That's not sexy. (Un homme ne peut pas refaire les seins de sa femme. Ce n'est pas sexy.)
+
+ORI: Morgens schneidest du mich auf, wühlst in mir rum, und etwas später soll's wieder erotisch sein.
+ARI: In the morning, you cut me open, dig around in me, and then it's supposed to be erotic again. (Le matin, tu me découpes, tu fouilles en moi, et ensuite ça doit redevenir érotique.)
+
+ORI: Da ist was dran.
+ARI: There's something to that. (Il y a quelque chose à cela.)
+
+ORI: Lassen wir das Thema, aber ich finde, dass du das nicht nötig hast.
+ARI: Let's drop the subject, but I think you don't need it. (Abandonnons le sujet, mais je pense que tu n'en as pas besoin.)
+
+ORI: Er hat dir ein Kompliment gemacht.
+ARI: He gave you a compliment. (Il t'a fait un compliment.)
+
+ORI: Liegt vermutlich am Mond.
+ARI: It's probably because of the moon. (C'est probablement à cause de la lune.)
+
+ORI: Eva hat aber recht. Also…
+ARI: Eva is right, though. So... (Eva a raison, cependant. Alors...)
+
+ORI: Wär total komisch. Als wenn du zu ihr in die Analyse gehst, das wär ja…
+ARI: It would be really weird. Like if you went to her for therapy, that would be... (Ça serait vraiment bizarre. Comme si tu allais la voir en thérapie, ce serait...)
+
+ORI: ...undenkbar.
+ARI: ...unthinkable. (...impensable.)
+
+ORI: Therapie ist für ihn grundsätzlich undenkbar.
+ARI: Therapy is fundamentally unthinkable for him. (La thérapie est fondamentalement impensable pour lui.)
+
+ORI: Mich schreckt ab, dass es lange dauert, aber ich würde es probieren.
+ARI: It scares me that it takes a long time, but I would try it. (Ça me fait peur que ça prenne beaucoup de temps, mais j'essaierais.)
+
+ORI: Weil du die ganze Zeit auf der Couch liegen und labern dürftest.
+ARI: Because you'd get to lie on the couch and talk the whole time. (Parce que tu pourrais te coucher sur le canapé et parler tout le temps.)
+
+ORI: "Ich hab Angst vorm Turnen, dass ich einer meiner Schülerinnen an den Po komme."
+ARI: "I'm afraid of gymnastics, that I might touch one of my students on the butt." ("J'ai peur de la gymnastique, que je pourrais toucher l'une de mes élèves sur les fesses.")
+
+ORI: Boah, echt ey…
+ARI: Geez, seriously... (Pff, sérieusement...)
+
+ORI: Nee, Rocco denkt, dass Analyse Quatsch ist.
+ARI: No, Rocco thinks that therapy is nonsense. (Non, Rocco pense que la thérapie c'est du n'importe quoi.)
+
+ORI: Dass mein Job sinnlos ist. Warum sagst du so was?
+ARI: That my job is pointless. Why would you say that? (Que mon travail est inutile. Pourquoi tu dis ça ?)
+
+ORI: Du denkst es insgeheim.
+ARI: You secretly think it. (Tu y penses secrètement.)
+
+ORI: Unsere Jobs sind nicht so verschieden. Du kümmerst dich ums Hirn, ich um die Brüste.
+ARI: Our jobs aren't so different. You take care of the mind, and I take care of the breasts. (Nos métiers ne sont pas si différents. Tu t'occupes de l'esprit, et moi des seins.)
+
+ORI: Es soll den Leuten besser gehen. Der Unterschied ist, ich brauche ein paar Stunden, du ein paar Jahre.
+ARI: Eva, die Soße schmeckt widerlich.Mir kommt's hoch.
+
+ORI: Wow…
+ARI: Wow...
+(Oh la la...)
+
+ORI: Hey…[Lotta] Schau mal.
+ARI: Hey... [Lotta] Look at this.
+(Hey... [Lotta] Regarde ça.)
+
+ORI: [Leo] Dieses Essen… Seit wann macht er das?
+ARI: [Leo] This food... Since when does he make it?
+([Leo] Cette nourriture... Depuis quand il la prépare ?)
+
+ORI: Das ist was Neues. Ist das die Midlife Crisis?
+ARI: This is something new. Is this the midlife crisis?
+(C'est quelque chose de nouveau. Est-ce la crise de la cinquantaine ?)
+
+ORI: [leise] Der Mond sieht echt genial aus.
+ARI: [quietly] The moon looks really awesome.
+([en silence] La lune a l'air vraiment géniale.)
+
+ORI: Es ist ein bisschen kompliziert… Nee, ganz einfach. Schau.
+ARI: It's a bit complicated... No, very simple. Look.
+(C'est un peu compliqué... Non, très simple. Regarde.)
+
+ORI: Die Sonne und die von ihr beleuchtete Erde sind ausgedehnte Objekte.
+ARI: The sun and the Earth illuminated by it are extended objects.
+(Le soleil et la Terre qu'il éclaire sont des objets étendus.)
+
+ORI: Entsteht auf der sonnenabgewandten Seite…
+ARI: It occurs on the sunlit side...
+(Ça se produit du côté éclairé par le soleil...)
+
+ORI: Hör zu, bevor du mit dem Unterricht anfängst…
+ARI: Listen, before you start with the lesson...
+(Écoute, avant de commencer la leçon...)
+
+ORI: Ich hab da 'ne Bekannte. Total alberne Geschichte. Unbedeutend. Eigentlich nicht mal erwähnenswert.
+ARI: I have this acquaintance. A completely silly story. Insignificant. Actually not even worth mentioning.
+(J'ai cette connaissance. Une histoire complètement idiote. Sans importance. En fait, même pas digne d'être mentionnée.)
+
+ORI: Boah, ich vertrag das echt überhaupt nicht mehr. Nikotinflash. Wie früher. [er pfeift]
+ARI: Man, I really can't handle this anymore. Nicotine rush. Like in the old days. [he whistles]
+(Mec, je ne peux vraiment plus supporter ça. Coup de nicotine. Comme dans le bon vieux temps. [il siffle])
+
+ORI: Ich versuch, dir hier gerade… Du hast 'ne Bekannte.
+ARI: I'm trying to tell you here... You have an acquaintance.
+(J'essaie de te dire ici... Tu as une connaissance.)
+
+ORI: Schon etwas bekannter als 'ne Bekannte, und sie schickt mir jeden Abend um neun Uhr…
+ARI: A bit more well-known than just an acquaintance, and she sends me a message every evening at nine o'clock...
+(Un peu plus connue qu'une simple connaissance, et elle m'envoie un message tous les soirs à neuf heures...)
+
+ORI: …einen GuteNachtGruß.
+ARI: ...a goodnight greeting.
+(...un message de bonne nuit.)
+
+ORI: Mhm.
+ARI: Mhm.
+(Mhm.)
+
+ORI: Und manchmal auch ein… [nuschelt] …kleines Foto.
+ARI: And sometimes even a... [mumbles] ...little photo.
+(Et parfois même une... [murmure] ...petite photo.)
+
+ORI: Wie bitte?
+ARI: Pardon?
+(Excusez-moi ?)
+
+ORI: Ein kleines Foto.
+ARI: A little photo.
+(Une petite photo.)
+
+ORI: Ein kleines Foto, okay? Mit ihr drauf.
+ARI: A little photo, okay? With her in it.
+(Une petite photo, d'accord ? Avec elle dessus.)
+
+ORI: Ist kurz vor neun. Sieht schlecht aus für dich.
+ARI: It's almost nine. Looks bad for you.
+(Il est presque neuf heures. Ça ne présage rien de bon pour toi.)
+
+ORI: Wir sitzen nebeneinander und haben dieselben Handys. Wir tauschen einfach. Das merkt keiner. Bis das Foto da ist, dann tauschen wir wieder.
+ARI: We sit next to each other and have the same phones. We just swap. No one notices. Until the photo arrives, then we swap again.
+(Nous sommes assis côte à côte et avons les mêmes téléphones. Nous échangeons simplement. Personne ne s'en rend compte. Jusqu'à ce que la photo arrive, puis nous échangeons à nouveau.)
+
+ORI: Dann bekomm ich ja das Foto. Du bist Single.
+ARI: Then I'll get the photo. You're single.
+(Alors je recevrai la photo. Tu es célibataire.)
+
+ORI: Nein, nein! Nicht mehr. Verstanden, es ist was Ernstes.
+ARI: No, no! Not anymore. Understand, it's serious.
+(Non, non ! Plus maintenant. Comprends, c'est sérieux.)
+
+ORI: Dann sag, es ist von Anna. Was, wenn ich sie euch vorstelle?
+ARI: Then say it's from Anna. What if I introduce her to you?
+(Alors dis que c'est d'Anna. Et si je vous la présente ?)
+
+ORI: Du hättest doch ablehnen können. Ich hab's versucht. Hast du Carlottas Blick gesehen?
+ARI: You could have declined. I tried. Did you see Carlotta's look?
+(Tu aurais pu refuser. J'ai essayé. As-tu vu le regard de Carlotta ?)
+
+ORI: Ich wär gefickt gewesen, wenn ich abgelehnt hätte.
+ARI: I would have been screwed if I had declined.
+(J'aurais été dans la merde si j'avais refusé.)
+
+ORI: Was macht ihr denn da so lange?
+ARI: What are you doing there for so long?
+(Que faites-vous là si longtemps ?)
+
+ORI: Wir quatschen. Hab den Streuner lang nicht gesehen.
+ARI: We're chatting. Haven't seen the stray for a long time.
+(Nous discutons. Ça fait longtemps que je n'ai pas vu le vagabond.)
+
+ORI: Mhm.
+ARI: Mhm.
+(Mhm.)
+
+ORI: Hilfst du mir? Ich will nicht reingezogen werden. Sie wird mich verlassen und die Kinder mitnehmen. Meine Kinder.
+ARI: Will you help me? I don't want to get involved. She'll leave me and take the kids. My kids.
+(Tu m'aides ? Je ne veux pas être entraîné là-dedans. Elle me quittera et emmènera les enfants. Mes enfants.)
+
+ORI: Weißt du, wie viele Ärzte nötig waren, um diese Kinder zu bekommen? Außerdem wirst du Pat
+
+enonkel. Gott, von wem jetzt genau?
+ARI: Do you know how many doctors were needed to have these children? Plus, you'll be the godfather. God, from whom exactly?
+(Tu sais combien de médecins ont été nécessaires pour avoir ces enfants ? En plus, tu seras le parrain. Mon dieu, de qui exactement ?)
+
+ORI: Von beiden, wenn du nicht mitmachst.
+ARI: From both, if you don't participate.
+(Des deux, si tu ne participes pas.)
+
+ORI: Was wär das für ein Foto? Nichts Perverses, oder?
+ARI: What kind of photo would it be? Nothing perverse, right?
+(Quel genre de photo serait-ce ? Rien de pervers, n'est-ce pas ?)
+
+ORI: Nein, harmlos. Okay.
+ARI: No, harmless. Okay.
+(Non, inoffensif. D'accord.)
+
+ORI: Gestern war's ein Foto von ihr im Pyjama mit Pluto drauf.
+ARI: Yesterday it was a photo of her in pajamas with Pluto on it.
+(Hier, c'était une photo d'elle en pyjama avec Pluto dessus.)
+
+ORI: Mit Pluto? Wie alt ist die denn?
+ARI: With Pluto? How old is she then?
+(Avec Pluto ? Elle a quel âge alors ?)
+
+ORI: Weiß ich jetzt nicht, aber… Jedenfalls älter, als sie aussieht.
+ARI: I don't know now, but... Anyway, older than she looks.
+(Je ne sais pas maintenant, mais... De toute façon, plus âgée qu'elle en a l'air.)
+
+ORI: Rette mich, Pepe.
+ARI: Save me, Pepe.
+(Sauve-moi, Pepe.)
+
+ORI: Nein.
+ARI: No. (Non.)
+
+ORI: [Gelächter]
+ARI: [Laughter] (Rires)
+
+ORI: Ist es besser geworden? Keine Ahnung, ich kann nicht kochen.
+ARI: Has it gotten better? I have no idea, I can't cook. (Est-ce que c'est devenu meilleur ? Je n'en ai aucune idée, je ne sais pas cuisiner.)
+
+ORI: Bäh!
+ARI: Yuck! (Beurk!)
+
+ORI: Oh Gott… Braucht ihr Hilfe?
+ARI: Oh God... Do you need help? (Oh mon Dieu... Vous avez besoin d'aide ?)
+
+ORI: [beide] Nein!
+ARI: [both] No! (Non !)
+
+ORI: Das kann man nicht essen.
+ARI: You can't eat that. (On ne peut pas manger ça.)
+
+ORI: Oh nein, Eva! Vorsicht! Pass auf!
+ARI: Oh no, Eva! Be careful! Watch out! (Oh non, Eva ! Fais attention ! Méfie-toi !)
+
+ORI: Scheiße! Die Soße ist… Die schöne Gorgonzolasoße.
+ARI: Shit! The sauce is... The beautiful Gorgonzola sauce. (Merde ! La sauce est... La magnifique sauce au Gorgonzola.)
+
+ORI: [sie kichern]
+ARI: [they giggle] ([ils ricanent])
+
+ORI: [Handyklingeln] Oh Gott! Das ist meins!
+ARI: [phone ringing] Oh God! That's mine! (Sonnerie de téléphone) Oh mon Dieu ! C'est le mien !
+
+ORI: Wer ist es?
+ARI: Who is it? (Qui est-ce ?)
+
+ORI: "Maus". [Simon] Wer?
+ARI: "Maus". [Simon] Who? ("Maus". [Simon] Qui ?)
+
+ORI: [Bianca] Eine Maus.
+ARI: [Bianca] A mouse. ([Bianca] Une souris.)
+
+ORI: Micky Maus, die will sich nach Pluto erkundigen.
+ARI: Mickey Mouse, she wants to inquire about Pluto. (Mickey Mouse, elle veut se renseigner sur Pluto.)
+
+ORI: Wer ist denn Maus?
+ARI: Who is Maus then? (Qui est Maus alors ?)
+
+ORI: Katja. Gott, Katja, meine Schulfreundin.
+ARI: Katja. God, Katja, my school friend. (Katja. Mon Dieu, Katja, mon amie d'école.)
+
+ORI: Was soll der Unterton? Wir nennen uns seit dem Kindergarten Maus.
+ARI: What's with the tone? We've been calling each other Maus since kindergarten. (Qu'est-ce que c'est que cette tonalité ? On se surnomme Maus depuis la maternelle.)
+
+ORI: Ja…
+ARI: Yes... (Oui...)
+
+ORI: Ja.
+ARI: Yes. (Oui.)
+
+ORI: Hi, Maus.
+ARI: Hi, Maus. (Salut, Maus.)
+
+ORI: Ja, ist nicht so dringend.
+ARI: Yeah, it's not that urgent. (Oui, ce n'est pas si urgent.)
+
+ORI: [Kind brabbelt]
+ARI: [Child babbling] ([Bébé babille])
+
+ORI: Nein, ich… hab das, ehrlich gesagt, so noch nicht angesprochen.
+ARI: No, I... haven't really talked about that, to be honest. (Non, je... n'en ai pas vraiment parlé, pour être honnête.)
+
+ORI: [Lacher]
+ARI: [laughter] ([rires])
+
+ORI: [Kinder schreien]
+ARI: [Children screaming] ([Enfants qui crient])
+
+ORI: Wir haben ja eins. Ist nicht so dramatisch.
+ARI: We have one. It's not that dramatic. (On en a un. Ce n'est pas si dramatique.)
+
+ORI: Mausegruß.
+ARI: Mause greeting. (Salut Mause.)
+
+ORI: Ja… Überraschung.
+ARI: Yes... Surprise. (Oui... Surprise.)
+
+ORI: Ich rede mit meiner besten Freundin über unser Sexleben. Ist das schlimm?
+ARI: I'm talking to my best friend about our sex life. Is that bad? (Je parle de ma meilleure amie de notre vie sexuelle. Est-ce mal ?)
+
+ORI: Meinst du das Sexleben, was ihr nicht habt, quasi?
+ARI: Do you mean the sex life you don't have, so to speak? (Tu veux dire la vie sexuelle que vous n'avez pas, en quelque sorte ?)
+
+ORI: Kann ich mir gar nicht vorstellen, Leo. Du wirkst so potent.
+ARI: I can't even imagine it, Leo. You seem so potent. (Je n'arrive même pas à l'imaginer, Leo. Tu sembles si viril.)
+
+ORI: Haltet die Fresse.
+ARI: Shut up. (Ferme-la.)
+
+ORI: Sag mal, was erzählst du der alles?
+ARI: Tell me, what are you telling her? (Dis-moi, qu'est-ce que tu lui racontes ?)
+
+ORI: Na eigentlich… Alles.
+ARI: Well, actually... Everything. (Eh bien, en fait... Tout.)
+
+ORI: Wie darf ich mir das vorstellen?
+ARI: How should I imagine that? (Comment devrais-je l'imaginer ?)
+
+ORI: Du beschreibst jede Aktion von mir, und dann bekomme ich Schulnoten?
+ARI: You describe every action of mine, and then I get grades? (Tu décris chaque action de la mienne, et ensuite j'obtiens des notes ?)
+
+ORI: Also, wenn es zu einer Aktion kommt, schon.
+ARI: Well, when there is an action, yes. (Eh bien, quand il y a une action, oui.)
+
+ORI: Momentan geht es eher darum, wieso es weniger zu Aktionen kommt.
+ARI: At the moment, it's more about why there are fewer actions happening. (En ce moment, c'est plus à propos de pourquoi il y a moins d'actions qui se produisent.)
+
+ORI: Kennt ihr ja wahrscheinlich alle.
+ARI: You probably all know that. (Vous le savez probablement tous.)
+
+ORI: Oder auch nicht…
+ARI: Or maybe not... (Ou peut-être pas...)
+
+ORI: Ist kein großes Ding, Leo. Nimm's nicht persönlich.
+ARI: It's not a big deal, Leo. Don't take it personally. (Ce n'est pas grave, Leo. Ne le prends pas personnellement.)
+
+ORI: Jeder hat mal ein Tief. Vor allem, wenn die Kinder klein sind.
+ARI: Everyone has their low points. Especially when the kids are young. (Tout le monde a des moments difficiles. Surtout quand les
+
+ enfants sont petits.)
+
+ORI: Kann man aber drüber sprechen. Vielleicht auch im kleinen Kreis.
+ARI: But you can talk about it. Maybe even in a small circle. (Mais vous pouvez en parler. Peut-être même en petit comité.)
+
+ORI: Wir bumsen zu wenig, kann man doch so sagen.
+ARI: We don't have sex enough, you could say. (On ne fait pas assez l'amour, on peut le dire comme ça.)
+
+ORI: Und wir trinken zu viel.
+ARI: And we drink too much. (Et on boit trop.)
+
+ORI: Ich glaube, euer Leben ist echt anstrengend.
+ARI: I believe your life is really exhausting. (Je crois que votre vie est vraiment épuisante.)
+
+ORI: Vielleicht nehmt ihr euch zu wenig Zeit füreinander.
+ARI: Maybe you don't spend enough time with each other. (Peut-être que vous ne passez pas assez de temps ensemble.)
+
+ORI: Du kriegst aber schon noch einen hoch, oder?
+ARI: But you can still get it up, right? (Mais tu peux toujours bander, n'est-ce pas ?)
+
+ORI: Wieso glaubt ihr, dass es an mir liegt?
+ARI: Why do you think it's my fault? (Pourquoi pensez-vous que c'est de ma faute ?)
+
+Wie viele SMSen muss ich dir schreiben,
+damit du vor neun oder zehn nach Hause kommst?
+Und am Wochenende ist immer deine Mutter da.
+Und wenn's abends zu spät wird,will sie nicht mehr SBahn fahren
+und schläft bei uns.
+Und unser Wohnzimmer hatkeine richtige Tür, ist doch klar.
+Was hat das mit meiner Mutter zu tun?
+Sie ist ständig da, Leo.
+Ich habe das Gefühl,die wohnt bei uns.
+Sie hilft, Carlotta!
+Die Anwesenheit von Eltern ist natürlich nicht förderlich.
+Natürlich bumst man sich dann nicht mehr quer durch die Wand.
+Quer durch die Wand? Das würde ich gern bei zeiten mal ausprobieren.
+Wenn deine Mutter mehr als zweimal bei uns übernachten würde,
+das würde ich auch nicht aushalten.
+Ich auch nicht.
+Habt ihr euch abgesprochen?
+Leo, deine Mutter nervt.Wenn die in Fahrt ist…
+Die hat uns früher öfter einegeknallt als unsere eigenen Eltern.
+Ja, sie ist temperament voll.
+Vielleicht kannst du sie ja ab und zu nach Hause schicken.
+Auch wenn's ihr zu spät wird.
+Und wenn du mit Maus telefonierst,hol dir ein paar Tipps für dich.
+Wenn du mir einen bläst,fühl ich mich wie in 'nem Comic.
+Wie Donald Duck,der in Lichtgeschwindigkeit
+einen Maiskolben abknabbert.
+[Gelächter]
+Wir können gern gleich üben.
+So, wer hilft mir denn beim nächsten Gang?
+Ich muss aufs Klo.
+Ich wollte dich nicht bloßstellen.Das weißt du, oder?
+Ja.
+Ist schon vergessen.
+Ich will wirklich,dass es besser wird.
+Ich glaube total an uns.
+Dem Mythos zufolge hatten die Menschen kugelförmige Rümpfe,
+vier Hände, vier Füße und zwei Gesichter auf einem Kopf.
+Und Zeus wollte sie schwächen.
+Also zerschnitt er sie in zwei Hälften, daraus wurden wir.
+Die zwei beinigen Menschen.
+Die Theorie ist also, dass…[Simon schlürft]
+Dass wir unser Leben lang unsere verlorene zweite Hälfte suchen,
+die grob von uns getrennt wurde.
+Aristophanes hat mit der Geschichte Freud vorweggenommen,
+dass der Trieb das Bedürfnis
+nach Wiederherstellungeines ursprünglichen Zustandes ist.
+Ja, das wusste ich.
+So erklärt Platon elegant,
+wieso so viele ihren Schwanz nicht in der Hose lassen.
+Du bist so zynisch.
+Der Mensch sucht sein Leben lang einen Seelenverwandten,
+der ihn wieder vollkommen macht.
+Ja, wir haben ihn alle schon gefunden.
+Vielleicht ist so alles vorbestimmt,
+und wir können gar nicht selber entscheiden, wen wir lieben.
+[Klingelton]
+Nachricht für… Simon!Von wem?
+Äh…
+Marika.Och…
+"Ruf mich dringend an."Mit drei Ausrufezeichen.
+Wer ist denn Marika?Klingt ein bisschen nach Luder.
+Marika arbeitet in der Taxizentrale.
+Ihr wisst schon: "Leopoldstraße,Ecke Georgen in zehn Minuten.
+Alte Damemit künstlichem Darmausgang."
+Ruf sie doch mal zurück.Wir sind neugierig auf diese Marika.
+Die drückt mir 'ne Schicht auf.Sicher 'ne Dienstplanänderung.
+Irgendein Notfall.Süß, wie sie dich verteidigt.
+Frisch verlobt halt, hm?
+Ey, lass das nicht auf dir sitzen.Ruf sie an.
+Und wenn sie fragt,ob ich einspringe?
+Dann ist unser Wochenende ruiniert.
+Das geht nicht. Wir sind bei meinen Eltern eingeladen.
+Ein Anruf könnte dein ganzes Wochenende retten.
+Meine Eltern lieben Simon.
+Meine Mutter hat ihn schon kabbalisch getauft.
+Außerdem ist Marika gar nicht mein Typ.
+Sie ist ein totaler Proll. Tätowiert mit peinlichen FakeBrüsten…
+Danke schön.Nein. Wirklich unnormal gemacht, ja?
+Nicht dezente und geschmack volle Brüste, wie du das vorhast.
+Wie ist ihr Nachname?Vielleicht sind die von mir.
+Pepe?
+Eine Instant Direct Message.Es hieß keine Social Media.
+Wenn's schon piept,wollen wir's auch wissen.
+Eine Cleo Dream Onhat dir geschrieben.
+"Super süß von dir.Worauf hättest du denn Bock?"
+Das könnte jetzt irritierend sein.
+Sag mal, Cleo ist äh… Wie alt?
+Da.
+What?
+15.Dicker…
+Das ist nicht dein Ernst.Das erklärt den neuen Job.
+Nein, ich…
+Ich hab 'n Schüler, Lukas.Äh… mathematisch sehr begabt.
+Hat aber Schwierigkeiten im sozialen Umgang und…
+Das verbindet, oder?
+Er ist 'n Vollnerd ohne Plan von Frauen.
+Er hat mich gebeten, ihm zu helfen,an seinen Schwarm ranzukommen.
+Süß.Das ist alles.
+Ich bin sein Cyrano.Das ist nichts Anrüchiges.
+Wer ist so bescheuert und nutzt dich zum Frauenaufreißen?
+Jemand,der langfristiges Glück sucht, Leo.
+Du bist schon'n bisschen speziell, ne, Pepe?
+Wie lange hat das bei Verenagedauert? Ein halbes Jahr?
+Wir mussten mit dir Bowlen und ins Kino, weil du nicht wusstest,
+wie sie dich findet.
+Okay, ich lese mal den Verlauf vor.Also: "Hi." Sie.
+"Hi zurück."Er. "Yo, yo, was geht ab?"
+Sie: "Läuft. Bei dir so?"
+Er: "Bin fett bowlen." Cooler Post.
+Wo ist das Problem?Das toppt dich fast, Rocco.
+Du musst aufhören,bevor das auffliegt.
+Sonst ist Lukastotal unten durch bei ihr.
+Sie könnten zusammen shoppen gehen.Soll ich das schreiben?
+Iiiih, nein!
+Mit 13 willst du doch nicht shoppen.
+Frag sie, ob ihr 'ne DVD gucken wollt. Gibt's DVD noch?
+Oder ein Kompliment.Nee. Nein, das geht nicht.
+Das klingt aber überhaupt nicht so,
+als hättest du Probleme mit deinen Schülern.
+So was fragt man nur einen Lehrer,dem man vertraut.
+[Nachrichtentöne]
+[Simon] Paule."Donnerstag Fußball?"
+"Donnerstag Fußball."Bestätigt von Paule.
+Pepe. "Donnerstag Fußball."Alles klar.
+Wieso hab ich keine?
+Vielleicht schlechtes Netz.Ja.
+So, lass mal den Master ran hier:"Lukas."
+"I bims wieder."
+"Wenn wir Samstag zusammen abchillen,
+könnten wir noch ein paar andere Lauchs fragen…"
+Spinnst du! Rocco!
+"…ob sie mit…"Rocco!
+"…uns DVD gucken wollen und…"
+Hör auf."…Pizza …"
+Rocco, der bringt mich um, Mann."…essen. Rechnung geht auf mich."
+Nein!
+Und senden. Zack.
+[Bianca] Ihr seid krank.Fuck.
+Ah, sie schreibt zurück.
+[Klingelton]
+"Deal, du Opfer."Bam! Wer ist hier über 40, hä?
+Ehrenmann.Yes!
+Ich hab immer noch keine SMS wegen Fußball bekommen.
+Äh, vielleichtist dein Guthaben alle?
+Ihr Wichser wollt mich nicht dabei haben, oder?
+Nur, wenn ihr einen Torwart braucht.Nein.
+Schalt's doch mal aus und wieder an.
+Seid nicht so scheiße zu ihm, echt.
+[Gekreische, Gelächter]
+Komm, Salz drauf.Das geht bestimmt wieder raus.
+Entschuldige.Ich helfe dir.
+[Simon] Hier ist alles voll.
+Ich hab die Handys getauscht.
+Ist das dein Ernst?Hm.
+Alles ins Gesicht. Gott.Echt. Ich treffe sonst nie.
+Oh Mann.
+Bist du nervös?
+Ich genieße es.So zärtlich warst du lange nicht.
+Ich dachte, Fußball mit Paule ist immer mittwochs.
+Ja, aber manchmal verschiebt sich's halt.
+In den letzten Wochen seid ihr immer mittwochs gegangen.
+Ich glaube, das bringt nichts.Ich zieh mich um.
+[Klingelton]
+Jemand hat ein Telegram bekommen.
+Telegram. Du.
+Richtig. Ja.Ich hab neuer dings Telegram.
+Was hab ich da wohl bekommen?
+Ein Foto von… Von X.
+Uh…Uh…
+"Achtung. Achtung.Das ist vermutlich nicht Anna."
+Warum verstellst du deine Stimme so komisch?
+Um das zu untermalen.
+Wer ist X? Singlemutter, Kollegin oder ein kleiner Pausensnack?
+Das ist, ähm… nur eine Bekannte.Wir… schicken uns manchmal Fotos.
+Zum Spaß.
+Ja, zeigen.Nee, ja, es lädt…
+Fuck.
+Ey, dein Display.Wieso? Ist doch meins.
+[Knirschen]
+Was hast du da?Nichts.
+Was ist das für ein Foto?Ist privat.
+Spiel das Spiel.Nein.
+Heute Abend ist nichts privat.Nein.
+Mach die Hand da weg.Nein.
+Mach die Hand weg.Losla…
+Los jetzt.Du drehst völlig ab.
+Wir haben gesagt,heute dürfen wir alle gucken.
+Au!
+Alter! Pepe!
+Rocco… Rocco!Was ist denn?
+Das musst du dir angucken!
+Gleich!Und ich darf nicht oder…
+Du hast das Display kaputt gemacht.Wir haben ein Foto.
+Für wen?Rate mal. Pepe.
+Oh.
+Wir brauchen deinen Rat.Wie ist das medizinisch möglich?
+Nee, nee, nee…Was ist da oben und unten?
+Wir wollen auch sehen.Nichts für Mädchen.
+[Gelächter]
+Wie kann man so beweglich sein?Die macht Pilates! Das ist es.
+NacktPilates und sie scheint kein Hüftgelenk zu haben.
+Das müsste der Sonnengruß sein.Wie du dich mit Yoga auskennst.
+Zeig mal. Ist das Anna? Ja?Nein. Ich guck mir das nicht an.
+Ist das deine Freundin?
+Nein. Glaubst du,die könnte meine Freundin sein?
+Ich nehme alles zurück. Seit der Trennung lief jahrelang nichts.
+Und jetzt bist du FlirtExperte,hast Freundinnen, eine Geliebte…
+Ja, gut, jetzt gebt das mal her.
+Hast du gesehen, Leo?Ja, hab ich.
+Keine falsche Bescheidenheit.Wir gönnen's dir.
+Bisschen enttäuscht bin ich schon.Was ist denn mit Anna?
+Er hat sich ein bisschen Spaßverdient nach der langen Dürre.
+Applaus für das InkognitoLuder!
+Der Kandidat hat tausend Punkte!
+[Froschquaken]Wessen Handy war das?
+Deins.Meins?
+Ach so. Ja, ja…
+Hast du 'n Frosch als Klingelton?
+Hat sichbeim schlechten Sex verstellt.
+Hannes: "Wie geht's?"
+Nett.Wer ist Hannes?
+Einer aus der Elterngruppevom Spielplatz.
+Hast du nie erwähnt.
+Hättest ja selber Elternzeitnehmen können,
+dann würdest du keinen SpielplatzTalk verpassen.
+Hättest du 'n Job, der Geld bringt,hätte ich das wahrscheinlich gemacht.
+[Pepe räuspert sich]
+Antwortest du ihm nicht?
+Nee.
+Ich will nicht stänkern,aber das versteh ich nicht.
+Da ist jemand besorgt.Kann man doch zurückschreiben.
+"Alles okay. Bin zu Hause."
+Ja… Vielleicht.
+Aber er ist doch gar nicht zu Hause.
+Auch wieder wahr.
+Schreib, du bist bei Freunden.
+Gut.
+Wieso soll er schreiben, wo er ist?Gibt's keine Privatsphäre mehr?
+Erinnert ihr euch noch, als Anrufebegannen mit: "Hey, wie geht's?"
+Jetzt mit: "Wo bist du?"
+Geht doch keinen was an,wo ich gerade bin, oder?
+Wieso muss jeder wissen, wo man ist?
+Was zur Hölle interessiert's den,wo du jetzt bist, he?
+Wieso drehst du so durch?
+Weil diese Scheißdinger unsere Existenz zerstören.
+Die berauben unsunserer Privatsphäre.
+Aber es liegt an uns,
+ob wir das mitmachen oder endlich damit aufhören.
+Okay.
+Gut, dann antworte ich ihm eben nicht.
+Dann antwortest du eben nicht.
+So viel Aufmerksamkeit hatte Hannes lange nicht mehr.
+[Hund jault]
+Rudi!
+Scheint, die Mondfinsternis macht nicht nur Hunde nervös.
+[Gelächter]
+[Klingelton]Wessen Handy war das?
+Roccos.
+Okay.
+Hey…
+Was?
+"Abbuchung bestätigt."
+Überraschung! Ich hab das Ferienhaus auf Mallorca gebucht!
+[Jubel]
+Du bist so blöd, echt.
+Party!
+Weißt schon, dass dumir 'n bisschen Geld leihen musst?
+Bianca kann dir doch was leihen.
+Du hast doch geerbt, oder nicht?
+Ja, genau.Das wollte ich euch auch noch fragen.
+Weil ihr euch ja mit Anlagen und so was auskennt.
+Aber ich überlege,ob ich's einfach spenden soll.
+Omi hätte sich gewünscht,dass es an einen guten Zweck geht.
+Wir brauchen doch gar nicht mehr Geld, oder Schatz?
+Wir haben doch uns.[sie kichert]
+Sehe ich genauso.
+[unterdrücktes Gelächter]Weißt du schon wohin?
+Es gibt tolle Vereine…[Piepen]
+Es geht los. Wollen wirdie Mondfinsternis anschauen?
+Ja!Ja!
+Die Handys bleiben auf dem Tisch.Kann ich es mitnehmen für 'n Foto?
+Nur du, ihr nicht.Okay.
+[Bianca] Wow.[Pepe] Wow.
+Kommt ihr euch auch so klein vor,
+wenn ihr euchdie Tiefen des Universums vorstellt?
+Ist irgendwie unheimlich, oder?Nee, ich find's magisch. Der Mond.
+Wieso faszinierteine Mondfinsternis alle?
+Sieht ganz lustig aus, aber…Es ist nicht so, wie es aussieht.
+Der Mondscheint ja nicht aus eigener Kraft.
+Oder aber es ist der einzige Moment,
+in dem der Mond sich endlich malum seinen eigenen Kram kümmern kann.
+Bianca muss nachher unbedingt in unser Poesiealbum schreiben.
+Okay, Gruppenselfie?[alle] Ja!
+So.Ja, hopp.
+Mit dem Mond.
+Ready, steady…Alle drauf?
+Musst du mit Weinglas drauf?Wenn das Mama sieht.
+Wirklich, Carlotta!Ts, ts, ts…
+[Bianca]Simon, du bist abgeschnitten.
+Gib mal her.Okay.
+So, alles klar?[Bianca] Ja. Bitte lächeln.
+Drei, zwei…
+Was will der denn so spät?Keine Ahnung.
+Wer ist Matti?Ihr Exfreund.
+Okay?
+Wieso ist erunter Matti gespeichert?
+Weil's sein Spitzname ist.
+Speichere ihn doch unter Matthias und seinem Nachnamen.
+Simon, es ist ihr Exfreund.
+Ja, deswegen find ich die Verniedlichungsform etwas unpassend.
+Exfreunde sind gefährlich.Geben wie Japaner nie auf.
+Wenn nicht sie Schluss machen.Wer war's?
+Ich.Er.
+[Alle] Oh, oh…
+Können wir?Ich kann nicht mehr grinsen.
+Ja… Los.
+[Simon] Alles klar.
+Drei, zwei…
+Uh…
+Was hatt'n der Scheiß zu bedeuten?Ich kann das erklären.
+Er schreibt:"Ich hab Lust zu ficken."
+Könnte an T9 liegen.Was laberst du?
+Simon, ich spüre wenig Vertrauen,wenn ich sage, es hat…
+[Klingelton]
+"Ich bin gerade richtig spitz!"Ja.
+Die Nachrichten sind nicht für mich.Ist das 'n Gruppenchat oder was?
+Er leitet mir die SMSen weiter von dieser Frau, die er datet.
+Er ist verknallt,und sie will nur Sex.
+Ab und zu helfe ich ihm,das Richtige zu formulieren.
+Glaubst du mir nicht?
+Kannst du's beweisen?
+Ich finde,Bianca ruft jetzt mal Matti an.
+Ja. Ja…
+Ja.
+Dann beweis es doch!
+Wir müssenunsere Handys zurücktauschen.
+Wie? Du hast das Display geschrottet,du Penner, das merkt doch jeder.
+Shit.Wieso bist du so ausgeflippt?
+[Freizeichen]
+Hey, mach's kurz, ich bin bei SimonsFreunden, dem netten Chirurgen.
+So ist das, wenn man alt wird.
+Ich hab nie was von zickig gesagt.
+[unterdrücktes Gelächter]
+Ja, wir müssen unserst mal kennenlernen.
+Aber heute gibt sie sich für ihre Verhältnisse sehr viel Mühe.
+Hat deine Flamme das geschrieben?Dass sie Sex will?
+Ja, und was soll ich jetzt machen?
+Fahr auf keinen Fall zu ihr.
+Nein! Nein, nein.
+Sag, du bist unterwegs, aber du hast nächstes Wochenende Zeit.
+Du musst ihr klarmachen,dass du was Ernstes willst.
+Ist sie etwa heißer als ich?
+Ja, sie sollte dich erst mal richtig kennenlernen.
+Okay, mach's gut.
+Tschüss. HDGDL.
+Zufrieden?
+Ich will euch keine Angst machen,aber der nächste Gang ist fertig.
+Hühnchen!
+Mexikanisches Schokohühnchen.
+[Lotta] Mmh…[Leo] Lecker!
+Ihr Banausen.
+Internationale Küche hier.
+Entschuldigung.
+Sonst erzählst du mir jeden Furz,der passiert ist.
+Aber dass du Kontakt mit deinem Ex hast, verschweigst du.
+Ich hab nie gesagt,dass ich keinen hab.
+Du musst aufhören mit deiner Eifersucht. Das engt mich total ein.
+Der will dich noch bumsen. Ist Fakt.So 'n Quatsch.
+Ich telefonier nicht mit meinen Exfreundinnen.
+Die würden dich lieber tot sehen.[Gelächter]
+Was meinte er eigentlich?Was hat er für 'n Problem?
+Er hat Akne.Sie hat gelogen.
+Eindeutig gelogen. Das Lid zittert.Hört auf.
+Sag es.
+Was? Ist total unfair über ihn zu reden, er ist gar nicht hier.
+Ich will das jetzt wissen.
+Will er was von dem Erbe haben?
+Sag mal, das scheint dichja doch brennend zu interessieren.
+Er hat einen extrem großen Penis,wenn du's genau wissen willst.
+Wieso? Ist das ein Problem?
+Nein wirklich. Wir reden hier nicht von sehr groß oder besonders groß.
+Er ist… Ja…
+Wie groß?
+Na sag. Wie groß?
+Na, jetzt sag's halt.
+So…
+Hä?Guck, Leo, fast so groß wie deiner.
+[schallendes Gelächter]
+Das schreckt Frauen nun mal eher ab und deswegen ist er…
+Wie lange wart ihr zusammen?Zwei Jahre.
+Vermisst du ihn?
+Musst in ein furchtbares Loch gefallen sein.
+Nein, bin ich nicht! Er hatte'ne wahnsinnig lange Leitung.
+Nein, nein, nein, nein,ich mein, er war langsam.
+Er war ein bisschen dumm.
+Du meintest,er war mehr der feminine Typ.
+[schallendes Gelächter]
+Ich hab gesagt, dass er sensibel ist.Das hab ich gesagt. So wie du.
+Wenn's dich so stört, ruf ich ihn an und sag, wir brechen den Kontakt ab.
+Das wäre schön. Ja.
+Dann ist Simon beruhigt, und du kannst ihn heimlich weiter anrufen.
+Wenn ich sage, ich rufe ihn nicht mehr an, ruf ich ihn nicht mehr an.
+Das ist absurd. Er ist dein Freund,wieso auf Kontakt verzichten?
+Du musst ihr einfach vertrauen,Simon. Schluss aus.
+Ich vertrau ihr doch.
+Kann ich doch sagen,wenn mir was auf den Sack geht.
+So, wer will als Erster?
+Du.
+So viel passt heute bei mir nicht mehr rein.
+So…
+[Bianca] Für mich bitte ganz viel Gemüse.
+Sicher, dass du nicht mehr Fleisch brauchst, wie du's gewohnt bist?
+Ich hatte mal 'ne Patientin,die ist morgens aufgewacht,
+und das Silikonwar alles auf einer Seite.
+Da musste sie die Lippen erst kneten,damit sie wieder normal aussahen.
+Wirklich, das stimmt!
+[Handyklingeln]Sophie.
+Meinst du,es ist was passiert?
+Hallo, mein Schatz, alles okay?
+Na klar, was gibt's?
+[leise] Nein, sie soll nach Hause.
+Ja. Ja, ja.
+Was willst du machen?
+Du gehst auf keinen Fall zu ihm,weil du glaubst, er ist sonst sauer.
+Das darf nicht der Grund sein.
+Ich würd gern sagen, mach's nicht.
+Mach's niemals…
+und bleib immer mein kleines Mädchen.
+Aber eins das sag ich dir…
+Dieser Abend wird wichtig werden.
+Das, was vielleicht passiert,
+wird eine Erinnerung,die dich dein ganzes Leben begleitet.
+Das ist nichts, was du morgen deinen Freundinnen erzählst.
+Wenn du glaubst, dass du immerwenn du daran zurückdenkst,
+lächeln wirst, dann tu es.
+Bist du aber nicht sicher,
+dass der richtige Zeitpunkt schon gekommen ist,
+dann lass es, dann warte.
+Du hast noch so viel Zeit.
+Hm?
+Na los, sag schon.
+Das war nicht,damit du sie gleich benutzt.
+Warum sagst du's ihr nicht?
+Die Wahrheit.
+Sophie, du musst mit ihr reden.
+Du weißt,dass ich dich ständig darum bitte.
+Du musst sienur im richtigen Moment erwischen.
+Hör auf mich,und geh auf sie zu, okay?
+Sophie…
+Das hast du gut gemacht.
+Ja, man merkt richtig,dass du 'ne Therapie machst.
+Bianca.
+Wie bitte?
+Oh nein.
+Hast du ihr das etwa erzählt?
+Ich? Nee…
+Natürlich hast du.
+Ja, aber nur Bianca.
+Ja, und ich wirklich nur Pepe.
+Und ich nur Leo.
+Ja, mir erzählt wieder keiner was.
+Ihr Plappertaschen.
+Tut mir leid.
+Leute, er macht nur 'ne Therapie.
+Er geht nicht in den Puff.Ist doch was Gutes.
+Therapie, ja?
+Seit wann?
+Seit ungefähr sechs Monaten.
+Das ist ziemlich lang.
+Mittwochs.
+Bist du sauer?Nein… Doch. Ja.
+'n bisschen. Du wolltest doch nie.
+Als ich die Paartherapie vorschlug,bist du ausgeflippt.
+Hab 'n bisschen gebraucht, um…Das kommt alles sehr überraschend.
+Rudi.
+Was machst du denn da?
+[leise] Ja, fein.
+Vielleicht bringt Therapie nichts.Aber ich möchte es versuchen.
+Dann können wir sagen, wir hätten alles getan, auch wenn's schiefläuft.
+Und? Nützt es was?
+Das musst du mir sagen.
+Hör doch mal auf.
+Eins hab ich zumindest gelernt.Ja? Was denn?
+Wie man deeskaliert.Aha. Und wie?
+Indem man nicht jeden Streitals Kampf um die Vorherrschaft sieht.
+Es ist kein Zeichen von Schwächenachzugeben. Im Gegenteil.
+Dauerhaft bestehen nur Paare,
+in denen beide bereit sind,ab und zu nachzugeben
+und dadurch voranzukommen.
+Aber das Geheimnis ist beide, Eva.
+Ich möchte nicht, dass wirbeide enden wie Barbie und Ken.
+Du voll mit Plastikund ich ohne Eier.
+[Bianca] Zeit für Nachtisch![Pepe] Wir haben Hunger!
+[Jubel]
+Es war zwar schon der Höhepunkt,aber TraumschiffFeeling muss sein.
+Das sieht so schön aus.
+Wow.Whoo!
+[Rocco] Heiß.
+Na, schmeckt's?Ja…
+[Froschquaken]
+Der Frosch wieder.
+Hannes will, dass du antwortest.Wahnsinn, der Typ nervt.
+"Esse mit Freunden.Wir quatschen morgen früh."
+Wirklich lecker, Leo.[Eva] Ja.
+Wer noch was mag,in der Küche ist mehr.
+Wir müssen alles vorlesen,was reinkommt.
+Mhm.Hm?
+[Froschquaken]
+Er schreibt: "Arschloch."
+Spinnt der?Wieso schreibt der so was?
+'n Fremderschreibt nicht grundlos "Arschloch".
+Vielleicht hab ich'ne Verabredung vergessen.
+Keine Ahnung,Kindergeburtstag oder so.
+Aber dieser Hannes istnicht in Wirklichkeit eine Hannah?
+Darauf hab ich nur gewartet.Natürlich nicht.
+[Handyklingeln]Ist er das?
+Na geh ran.
+Wir wollen alle wissen,wieso er so sauer ist.
+Auf Lautsprecher bitte.
+[es klingelt weiter]
+[Leo räuspert sich] Hallo?
+[Besetztton]
+So kann man sich täuschen.Der Typ hat ja wohl 'n Vollknall.
+Äh…
+Was guckt ihr denn jetzt so?
+Lotta,das ist 'ne Schwuchtel also…
+Ein Bisexueller,ein verwirrter Vater,
+der sich in mich verguckt hat mehr nicht.
+Warum hast du mir das nicht erzählt?Weil's albern ist.
+Das ist 'n Typ vom Spielplatz.Die Kinder mögen sich.
+Ich hab ihm wohl mal'ne Apfelspalte zu viel gegeben,
+jetzt denkt er, ich steh auf ihn.
+Lief da mal was?
+Hast du sie noch alle?
+Ob da was lief?Ist ja keine komplizierte Frage.
+Natürlich nicht!Was sollte denn da laufen?
+Ich weiß ja noch nicht mal,wie genau…
+Wie rum werda was in wen steckt.
+Simon, sag doch bitte auch mal was.
+Stimmt schon,dass Schwuchteln sich einbilden,
+dass jeder was von ihnen will.
+Ich wurde auch schon angebaggert.
+Da hast du zwei Sekundenzu lange geguckt und…
+Tiefgreifende Analyse…
+Ist mir auch schon passiert.Man versucht's halt in der Sauna…
+Was ist dasfür 'ne homophobe Scheiße?
+Ist so.
+Ich will jetzt wissen,ob ihr was hattet.
+Lotti, ich bin's.Wir sind seit acht Jahren zusammen.
+Hältst du's für möglich, dass ich mirhinten einen reinstecken lasse?
+Eben wusstest du noch nicht,wer wo was reinsteckt.
+Carlotta.
+Guck mich an. Guck mich an!
+Kannst du dir vorstellen,dass ich im Gebüsch steh
+und mich so… ficken lasse? He?
+Dass ich so was Krankes tun würde?
+Also… Nicht, dass dawas gegen einzuwenden wäre.
+Ist Geschmackssache.
+Jeder wie er will.Aber ich steh nun mal auf Frauen.
+Eine… Frau.
+Ich schwöre dir,zwischen mir und diesem…
+Hannes.…Hannes ist nie was gelaufen.
+Steiger dich jetztbitte nicht in irgendwas rein.
+[Froschquaken]
+Hannes.
+Was schreibt er?
+Ich, äh…
+Ich weiß nicht…
+…was genau…
+Er schreibt:"Ich vermiss deine Küsse."
+Glaubt ihr, er ist schwul?
+[leise] Oh Gott…
+Was für ein verficktes Spiel.
+Bist du 'ne Tucke?
+Hey, ist okay.
+Jetzt ist es raus.
+Wie soll ich euch das erklären?Das ist ganz einfach.
+Musst gar nichts erklären.Am besten gar nichts mehr sagen.
+Was soll denn der Ton jetzt?Die Sache ist doch eigentlich…
+Nein, nein, Pepe,
+ich würde gern wissen,wo Simons Problem liegt.
+Du hast uns Scheiße erzählt.20 Jahre lang.
+Sieht nicht so aus, als ob erInteresse hat, mit uns zu reden.
+Nur dass ich's versteh,bist du sauer,
+weil ich schwul bin oderweil ich dir's nicht gesagt habe?
+Ich bin sauer, weil ich dichseit der Grundschule kenne
+und nicht weiß, wer du bist.
+Äh, er ist der alte.
+Er hat sich nicht verändert.
+Er ist der, dem du Scheiß erzählst,mit dem du alles geteilt hast.
+Er ist dein Freund, Simon.
+Ja. Aber 'ne Kleinigkeit hätte er vielleicht erwähnen müssen.
+Müssen.
+Ich habe mit dirin einem Bett geschlafen.
+Ich war mit dir duschen.
+Ich hab dir meinen Pimmel gezeigt,als ich dachte, ich hab Tripper!
+Wann war das denn?Halt die Fresse, Rocco!
+War nicht schön.Aber es hat dir gefallen, oder?
+Hätt's wissen müssen, als duzigmal 'Titanic' sehen wolltest.
+Hör dir zu, und du weißt,warum ich nie was gesagt habe.
+Ich bin nicht homophob. Ich will nur wissen, wenn mein Freund schwul ist.
+Damit ich selbst entscheiden kann,ob's mir passt! Ich will's wissen!
+Um zu entscheiden, ob dir das passt?Ist dir klar, was du da gesagt hast?
+Ist dir klar,was du nicht gesagt hast?
+Wieso sagt denn hier keiner was außer mir?
+Du redest grad Scheiße, Simon.Ah. Okay.
+Wenn ihr das alles so normal findet,bin ich eben der, der seltsam ist.
+Dann existiert das alles nur in meinem Kopf.
+Ein Riesenmissverständnis.Entschuldigung.
+Das einzige Missverständnis ist,zu glauben, wir beide sind Freunde.
+Hör auf zu saufen, Simon.
+Dein Pimmel sah aus wie ein Blumenkohl.
+Den hätte ich nicht für Geld in den Mund genommen!
+Mein Schwanz sieht gut aus!Hör auf zu saufen.
+[sie streiten gedämpft weiter]
+[traurige Musik]
+Ich habe einen extrem attraktiven Schwanz!
+Und du Arschloch entschuldigst dich bei ihm!
+Hey, Jungs!Jetzt hört auf, verdammt!
+Geh eine rauchen, Leo.
+Und du hör auf zu saufen.
+Stopp, stopp, stopp, Eva.Was soll ich bitte positiv sehen?
+Leo war vermutlich nur besoffen und… und neugierig.
+Männer in der Lebensmittestellen alles infrage.
+Vielleicht wollte er nur ausbrechen.Es bleibt trotzdem Betrug, Eva.
+Kommt drauf an,was man von 'ner Beziehung erwartet.
+Rechnest du damit, dass ihr euch in 20 Jahren immer noch vakuumküsst?
+Ja.
+Simon und ich sind Seelenverwandte.
+Glaubt ihr denn wirklich an die perfekte Beziehung?
+Mein Leben lang.
+[Bianca] Ach…
+Er betrügt dich nicht mit 'ner anderen Frau.
+Er stellt nicht die Beziehung zu dir, sondern zu sich infrage.
+Deswegenist er auch so schlecht im Fußball.
+Du musst überlegen,ob du bereit bist, ihm zu verzeihen.
+Das ist der einzige Weg,das Problem anzugehen.
+Das einzige Problem ist,
+dass dieser Penner den Körper meines Mannes vermisst.
+Die bumsen sich in den Arsch, Bianca.Er ist 'ne Schwuchtel!
+Gut, es reicht.Ich darf das.
+Ich bin mit ihm verheiratet.
+Ach, Scheiße!
+[düstere Musik]
+Eigentlich keine Überraschung, oder?
+Ich meine,du rufst mich seit Monaten nicht an.
+Bist abweisend und distanziert.
+Ich war sicher, dass du fremdgehst mit 'ner Nutte wie der von Pepe.
+Das hätte wenigstens Sinn gemacht.
+Tut mir leid, dich zu enttäuschen.
+[traurige Musik]
+Seit wann geht das schon, Leo?
+Wie lange das schon geht.Sag mir die verdammte Wahrheit.
+Noch nicht so lange.
+[Pepe räuspert sich]Darf ich jetzt…
+Nein.
+Und wie viele?
+Wie viele was?
+Vor ihm.Wie viele waren's vor ihm?
+Keiner.
+Hannes war der einzige.
+[traurige Musik]
+Lass uns zu Hause reden, okay?Wieso nicht hier?
+Komm schon, erzähl uns von Hannes.Von seinem süßen Knackarsch.
+Stammt die Idee mit Waxing von ihm?Mag er das, wenn du glatt bist?
+Na los, rede! Das sind deine besten Freunde, die interessiert das auch!
+Wir fahren jetzt, okay?Leck mich. Fahr doch alleine.
+[Simons Handy klingelt]
+Ein Faruk Juwelier.Ja. Lass klingeln.
+[es klingelt weiter]
+Er kommt!
+Vollknall.
+Faruk. Was gibt's?
+Ja, war viel los in letzter Zeit.
+Ja.
+Er hat ihr gefallen.
+Faruk, ist gerade schlecht.
+Auch, auch.
+Ich muss auflegen.
+Bis morgen.
+Wem sollendie Ohrringe gefallen haben?
+Na dir.
+Ich trag gar keine Ohrringe.
+Ich hab nicht mal Ohrlöcher.
+Ja, des… deswegen hab ich sie dir ja nicht gegeben.
+Wieso lügst du mich an?
+Hä?
+Nein, wa… wann habe ich dich je angelogen?
+Jetzt gerade.
+Leute, ich hab keine Lust mehr auf das verfickte Spiel.
+Ihr seht, was dabei rauskommt.Alle verstehen sich falsch.
+Für wen waren die Scheißohrringe?Für niemanden.
+[Simons Handy klingelt]
+Geh ran.
+Ist Marika,bestimmt wegen der Taxischicht.
+Geh ran, Simon.
+[es klingelt weiter]
+Leg's wieder hin.
+Gib mir das Handy.
+[es klingelt weiter]Gib das Scheißhandy her!
+Was?
+Das stimmt nicht.
+Fass mich nicht an.
+Bianca!
+Mach die Tür auf.Lass mich kurz mit ihr reden.
+[bedrohliche Musik]
+Wie geht's ihr?
+Äh, nicht so gut.
+Ich meine, wir haben uns gradeverlobt. Wir haben ständig Sex.
+Kannst du mir mal bitte sagen,was in all dem Marika zu suchen hat?
+Ich weiß es nicht,ich weiß es wirklich nicht.
+Ich wollt's besser machen als meine Eltern.
+Ich wollte keine alte Mutter sein.
+Ich hab ihn nie gefragt,wenn er spät nach Hause gekommen ist.
+Ich hätte mich sogar darauf eingelassen, wenn er gesagt hätte,
+dass ihm was fehlt,weißt du?
+So wie Leo.
+Entschuldige bitte.Das hätte ich nicht sagen dürfen.
+Bianca, du bist besser als er.
+Lass dich davon nicht brechen, versprich mir das.
+[Klopfen]Hau ab!
+[Leo] Carlotta, ich bin's.Du kannst dich erst recht verpissen.
+Du hast 'ne Nachricht, Lotti.
+Deine Chefin will wissen, ob du's,ich zitiere, gemacht hast, geile Sau.
+Rufen wir sie mal zurück, oder?
+Leo…
+Leo, komm,das ist doch wirklich affig.
+[Freizeichen]Leo!
+[es klingelt]
+Super! Ich bin grad bei Freunden…
+Hast du keinen Slip an?
+Das war 'n InsiderGag.
+Zeig doch mal.
+[schnelle Musik]
+Leo! Leo, hör auf!Zeig!
+Leo! Ich hab keine Unterwäsche an, okay?
+Ich saß in dem Meeting und hatte keine fucking Unterwäsche an, okay?
+Und das ist der Job, der dir den Sinn des Lebens zurückgibt?
+Das nennt man jetzt Women Empowerment, oder was?
+Hast du nicht den Me TooVortraggehalten vor dem Vorstand?
+Ja, und der war sehr erfolgreich.
+Und kurz darauf gehst du ohne Unterwäsche ins Meeting
+und machst irgend einen Kunden scharf?
+Wir waren besoffen.Britta hatte die Idee.
+Es war ein bescheuertes Spiel.
+Wir sollten das Meeting interessant machen für den Kunden.
+Er hat 'nen großen Etat und…Hast du überhaupt keinen Stolz?
+Carlotta, wenn deine Chefin so was verlangt, ist das kein seriöser Job.
+Ich bin die einzige Mutter im Büro,und die anderen reden schon.
+Bin nicht ehrgeizig und energetischgenug und stinke nach Babypuder.
+Ich bin da nicht mehr rausgekommen.
+Glaubst du,ich hab's freiwillig gemacht?
+Und wenn er mehr gewollt hätte?
+Ja, genau, Leo.
+Ja, vielleicht hätte ich mich sogar prostituiert, wer weiß?
+Ich treffe einige falsche Entscheidungen, wie dich zu heiraten.
+[Klingelton]
+Leo…
+Ist das…
+Seht ihr, was das ist?Ein bisschen was zum Wach werden.
+Ich nehme das nur ganz selten und wenn, nur in die Nase.
+Da bin ich ja beruhigt, dass dunur ganz selten Kokain nimmst.
+Was ist das für ein kranker Job?
+Was ist das für 'ne Werbeagentur?Ist das normal?
+Wusstet ihr das? Eva?
+Wenn man da nicht mitmacht,ist man die Langweilerin.
+Damit du ohne Slip koksen kannst,hab ich meinen Job gekündigt
+und putz den Hintern unserer Kinder?
+Okay, wollt ihr alle ein Geheimnis wissen?
+Ich find's beschissen, zu arbeiten,wenn man Kinder hat!
+Okay…
+Ja. Ich dachte, das sei meine Pflicht
+als emanzipierte Frau,das durchzuziehen.
+Alle meine Freundinnen machen Karriere. Mit Kind.
+Ich durfte nicht egoistisch seinund sagen: "Ich will die Elternzeit."
+Aber in Wirklichkeit wollte ich Babybrei machen und dabei sein,
+wenn sie das erste Mal Mama sagen.
+Praise be, Carlotta.
+Stattdessen hör ich mir seit Monaten von deiner Mutter an,
+dass ich 'n Karrierebiest bin und die Kinder mich nicht mehr erkennen.
+Henry hat neulich Tschüss zu mir gesagt.
+Der dachte, ich heiß Tschüss!
+Warum sagst du mir das erst jetzt?
+Siehst du, wie Eva mich anguckt,weil ich die Wahrheit sage?
+"Gott, die altmodische Hausmaus.Kocht lieber Brei, statt zu arbeiten.
+Eine Schande für alle Frauen, die um Gleichberechtigung gekämpft haben."
+Ja, ist so.
+Kann nur hoffen, dass du so besoffen bist, dass du's morgen bereust.
+Ich bin leider null besoffen.
+Ich würde gern Einkaufen gehen
+und auf die Werbung reinfallen,statt sie mir auszudenken.
+Ja. Ich geb's zu.Ich hab Bock, ein Muttertier zu sein.
+Das Milch gibt und auf dem Spielplatz Apfelspalten verteilt.
+Und vielleicht endlich mal zwischendurch ihren Roman schreibt.
+Du hast gesagt, es bringt kein Geld.Ja. und?
+Hera Lind hat auch Kinder bekommen und Romane geschrieben, oder?
+Aber ich musste mich vier Wochen,
+nachdem ich Zwillinge aus meiner Vagina rausgepresst hab,
+in ein BusinessKostüm zwängen…
+…und KoksMauMaumit 20jährigen Werbern spielen
+und vor dem Meeting die Milchpumpe im Papierkorb verstecken,
+während mir die Titten platzten!
+Ja, schön. Das wusste ich nicht.
+Unter Umständen wäre ich bereit,
+für dich auf die Elternzeit zu verzichten.
+Wieso? Jetzt muss ich ja eh weiterarbeiten, weil wir uns trennen.
+Wäre es eine Mutter vom Spielplatz,hätte ich 'ne Chance,
+aber gegen Hannes kann ich ja nur verlieren.
+[Froschquaken]
+"Wir wissen,was du mit unseren Kindern vorhast,
+du schwuler Drecksack."
+"Verpiss dich endlich von der Schule."
+Macht keinen Sinn. Ist der für dich?
+Ich bin die Schwuchtel.
+Schwuchtel.Das… sagt man doch so, oder?
+Hm?
+Ihr benutzt diesen Ausdruck nämlich so gern voller Inbrunst. Schwuchtel.
+Mit diesem angewiderten Unterton.
+War keine so tolle Idee, oder?
+Habt ihr Handys getauscht?
+Kannst du bitte…
+Wo willst du hin?
+[leise] Oh Gott…
+Was meintest du damit, wenn's'ne Frau wäre, gäb's eine Chance?
+Warum hast du's uns nicht früher gesagt, Pepe?
+Weil ich's früher nicht wusste.
+Weil ich 'ne Zeit lang gar nichts mehr wusste.
+Wer ich bin und…
+Als ich's bemerkt hab, dachte ich, es geht vielleicht wieder weg.
+Aber… Ich glaube, es war immer da.
+Mir ist völlig klar,warum er nichts gesagt hat.
+Ich war eine Stunde lang schwul.Das hat mir gereicht.
+Oder haben wir'sgut aufgenommen, Simon?
+Suchst du deshalb gerade einen neuen Job?
+Ja, zwei Schüler haben mich gesehen mit Hannes vor so 'ner Bar.
+Die haben's ihrem Vater erzählt,seitdem bekomm ich Liebesbriefe
+von Herrn Engelmann.
+Nur weil du… homosexuell bist?
+Oh, komm, Rocco, ey.Das ist doch jetzt echt blöd.
+Sag lieber weiter Schwuchtel oder Tucke, das kommt viel natürlicher.
+Warum zeigst du ihn nicht an?
+Ich schaff's nicht mal,euch zu sagen, dass ich schwul bin,
+wie soll ich das vor Gericht machen?
+Vor 'nem Richter,den Anwälten, den Eltern…
+Und am besten noch ein paar Schülern.Was das für 'n Spießrutenlauf wird.
+Ich bin für so was nicht gemacht.
+Ich mochte die Idee dieses Spiels, es…
+…war so wie mit dem Serienkiller,der nach Erlösung sucht.
+Ich hab gehofft,dass heute alles rauskommt, aber…
+Ehrlich gesagt nicht so viel.
+Ich würde mich freuen,wenn du uns deinen Hannes vorstellst.
+Unbedingt.
+Nee.
+Ich will ihn euch überhaupt nicht vorstellen.
+Ich will ihn vor euch schützen.
+Weil wenn man jemanden liebt,dann schützt man ihn nämlich.
+Heute Abendhabt ihr euch geoutet, nicht ich.
+Ich erkenn euch nicht wieder.
+Ich hab auch nicht die Wahrheit gesagt, aber…
+Ich war offenbar der Einzige,der wollte.
+Und irgendwas hat mich gestoppt und ich weiß nicht…
+Vielleicht bin ich mir nicht mehr sicher, ob wir noch Freunde sind.
+Jetzt nur,weil es einmal geknallt hat.
+Ach komm, Simon. Wir sind schon lang nicht mehr die PerfettiGang.
+Die hat immer zusammengehalten.
+[Simons Handy klingelt]
+[Handyklingeln verstummt]
+Bianca, mach die Tür auf.Bianca!
+Bianca, sag was!Schlag die Tür ein. Hol sie da raus.
+Bianca, mach auf!Geht aus dem Weg!
+Deine Mutter hat angerufen.
+Ich hab gesagt,du erwartest ein Kind.
+Sie hat mir gratuliert.
+Ich hab immer gewusst,dass du besonders bist.
+Sei froh und sei stolz.Ist gut, wie du bist.
+Lauf ihr nach.
+Ist zu spät.
+Na komm. Scheiße gebaut,Leben geht weiter, hm?
+Tut mir leid.
+Tschüss.Hau ab jetzt.
+Dafür, dass du sie nicht mochtest,bist du sehr parteiisch.
+Mordsspiel, Eva. Vielen Dank.
+Scheiße.
+Kannst bei mir mitfahren.
+Aber glaub nicht,dass ich dir einen blase.
+Was für ein Spiel.
+Du warst so dagegen,dass ich dachte, dass du…
+Und noch mal, du kannst gerne gucken.Jeden Tag, jederzeit.
+Ich hatte, ehrlich gesagt,den ganzen Abend Angst,
+dass es bei dir was gibt.
+Warum denkst du das?
+Weil ich viel falsch gemacht habin letzter Zeit.
+Hätt's dir nicht mal verübeln können.
+Deine Scheißtherapeutin ist ziemlich gut.
+Es ist ein Mann.
+Was wäre, wenn ich… Wenn…
+Ich will wissen, was kommt,nicht was war, Eva.
+Versteh doch endlich,dass du mir genug bist.
+Ich weiß, andere können dich haben.Das musst du mir nicht beweisen.
+Und dir auch nicht.
+Sag du, ob du unseine Chance geben willst.
+Oh mein Gott. Wie abartig kann man sein in euerm Alter.
+Die Party war Schrott,ich gehe schlafen.
+Allein.
+Das ist unser Auto. Bleib stehen.
+Bleib stehen!Ja.
+Carlotta!
+Carlotta!
+Pepe, sie ist gesprungen.Was?
+Scheiße, es tut mir leid.Äh, Leo…
+Spinnst du?Oh Gott…
+Ich glaub,ich hab die Scheißerei von den Tapas.
+Ich dachte, du wärst…
+Ich wollt meine Schuhe im Gebüsch nicht versauen, du Idiot.
+Sternschnuppe.
+Und? Habt ihr euch was gewünscht?
+Dass das Ganze irgendwas gebracht hat.
+Dass die Wahrheit zu irgendwas Gutem führt.
+Wärst du echt gesprungen?
+Hey, große Freude, mein Bester.
+Ganz tolle Präsentation.Danke.
+Wir hören uns.Wiedersehen.
+Hat mir richtig gut gefallen. Wow.Danke.
+Wir gehen später was trinken.
+Wenn du mir deine Nummer gibst,dann ruf ich dich an.
+Ich bin nur im Büro zu erreichen.Hast du kein Handy oder…
+Wegen der Strahlung.
+Weil das ist gar nicht so gut,wenn man 'n Handy hat.
+Sag doch gleich,dass du keinen Bock hast.
+Whoa!
+Ups! Oh!
+'tschuldigung!
+'tschuldigung.
+So…
+Aussteigen!
+Der Erste im Sandkastenkriegt ein Gummibärchen.
+[Bruno] Mag die Schaufel.
+Na, warten Sie auf 'ne SMS?
+Äh… Ja, ja, tatsächlich.
+Sie werden keine kriegen.
+Er musste sein Handy im Direktoratabgeben für sehr, sehr lange Zeit.
+Bruno! Henri!
+Spielt mal mit Papas Handy.
+Macht's ruhig kaputt.Handys sind scheiße, das wisst ihr.
+[sie seufzt]
+Werte sind so wichtig.
+Apfelspalte?
+Nee, danke.
+Kapitel eins.Eine aussichtslose Affäre.
+Das ist er.
+Ich fühle mich wie 16.Ich hab Schiss.
+Dann weißt du, wie sich Pepe fühlt.
+Aber der Wichser ist voll groß.
+Frau Donner, da würde ich mir keine Sorgen machen. Ja? Das wird.
+Ja. Tschüss.Tschüss.
+So, äh… Frau Engelmann.
+Herr Engelmann.
+Endlich sehen wir uns, Herr Deneke.
+Mein Sohner zählt viel Gutes von Ihnen.
+Der beste Lehrer an der Schule.
+Tolles Klassenzimmer.
+Wie lief der Elternsprechtag?
+Hoffe, du nimmst unsere Entschuldigung an.
+Wie sieht's aus? Hast duLust auf Zelten und Lagerfeuer?
+Leo hat das Internetnach Stockbrotrezepten durchforstet.
+Fick dich, Rocco.
+Wir können auch schwimmen gehen oder uns abrubbeln.
+Was er damit sagen will, ist,
+eine Wahrheit kam bei dem Spiel nicht raus.
+Dass wir dich lieben.
+Ja.
+Bin dabei.
+Ihr Arschlöcher!Ja.
+Mama glaubt, du wirst auch schwul,aber ich soll's dir nicht sagen.
+Na los.
+Übrigens, ich hab mein Messer dabei wegen Blutsbrüderschaft und so.
+Lass stecken, auf deine Hepatitis können wir verzichten.
+Hm, genau.
+Ich bin froh, dass wir uns alle wieder in die Augen sehen können.
+Wir haben eine Sache bewiesen…[Handyklingeln]
+[Rocco] Das ist meins.Gibst du's mir bitte?
+Das ist es nicht.
+Das andere. Im Handschuhfach.
+[es klingelt weiter]
+…dass niemand besser ist als der andere.
+Na, ich dachte,du meldest dich gar nicht mehr.
+Ey, mach auf Lautsprecher.
+Rocco.
+Rocco, machauf Lautsprecher, Mann.
+Rocco!Halt ihn!
+Der hat 'n Zweithandy!Was?
+Rocco, bleib stehen, du Wichser!
+Verpisst euch!Du Arsch!
+[fröhliche Musik]
+[singt]
+6/4, die Vierte. Klappe.
+Ey!Sag mal, nimmst du die Seife…
+Shit.Noch mal.
+Ey!Sag mal, nimmst du die…
+Scheiße,ich wollte wieder Seife sagen.
+Ey!
+Nimmst du… die Salbe,die ich dir gegeben habe?
+[schrickt auf]
+Hallo, Frau Ratzeburg.[Mann]
+Ich dachte, mal ein anderer Name.
+[sie lacht]
+Wollen wir streiten oder einmal einen schönen Abend verbringen?
+[lachend] Der Pfeil, tut mir leid.
+[Karolina] Ich gehe mich umziehen.[sie lacht]
+Wat willste?[Mann] Ist das nicht Freddy Lau?
+[berlinert] Verfatz dich,aber ganz schnell.
+Du hast nicht geguckt. Guck mal.
+Ach du Scheiße.
+Nee, nee, ich brauche keine Hilfe.[Gelächter]
+Tut mir leid,Leo hat so Stress gemacht.
+Ich durfte mich nicht… [prustet]
+[er flüstert etwas]
+Ja, okay.
+Und…
+Man sagt, mit zwölf die erste Flasche Bier und mit 13…
+Sorry.
+Geh ran!
+Spiel das Spiel!
+Keine Kritik,aber ich weiß nicht,
+ob jemand, der die Kinder nur am Wochenende sieht…
+sich so als Mutter bezeichnen kann.
+What?
+Okay, keine Kritik,aber ich weiß nicht, ob jemand…
+What?[Gelächter]
+'tschuldigung.
+[Karoline] Warst du mal…Nee, warte.
+[Gelächter]
+[Mann] Du hast nichts zwischen den Zähnen.
+'tschuldigung.Kannst ruhig lachen.
+[Karoline lachend]Du hast da doch was.
+So richtig, hier.[Wotan] Volle Kanne.
+[Elyas] Ich bereite kurz was vor.
+Schön, dass wir das jetzt im On diskutieren.
+[Wotan] Besser.Ja, ist besser?
+[Florian] "Koital" war das falsche Wort.
+[Wotan] Wir kämpfen für die Frontseite des Körpers.
+[Jella] Wotan… Are you alright?I'm alright.
+[Wotan] Oh Gott.So ein süßes Meerschweinchen.
+[Gelächter]
+Brauchst du 'nen Arztoder 'ne Kaper?
+[Jessica] Ja, er hat keine Geheimnisse. Oder doch?
+Ist überhaupt nicht lustig.[Wotan] Null. [lacht]
+Null.[Mann] Du schaffst es.
+Kannst du ausschließen,dass du mit Anna Kinder willst?
+Hat sie keine Keimz… Fuck.
+Warum sage ich immer Keimzellen?
+Kannst du ausschließen,dass du mit Anna Kinder willst?
+Hat sie keine Eimzell…
+Kannst du ausschließen…Hör auf zu lachen.
+Das sehe ich schon.
+Kannst du ausschließen,dass du mit Anna Kinder willst?
+Hat sie keine Eim…
+[Gelächter]Ihr wollt mich verarschen.
+Ah, wer ruft denn da an?Noch nicht.
+[Nachrichtenton]Lies vor.
+Lies vor.Ja.
+Lies vor. Oh Gott…
+[Jessica] Gut, dass du dich so gut mit Nachwuchs auskennst.
+Ich glaube,er wird das ganz gut hinkriegen.
+[Karoline] Was wird er hinkriegen?Bist du schwanger?
+Wir haben die erste S… Erste…
+Oh Gott.Was war das?
+Das fängt ja super an. Ich habe gleich gesagt, wir lassen das.
+Zu spät.
+Warum lachst du denn da?'tschuldigung.
+Du siehst so niedlich aus,wenn du lachst.
+Ich find's gut,in Bewegung zu bleiben.
+Ganz ehrlich, das ist das einzige Weg, der heute zählt.
+[Gelächter]
+[Wotan] Ihre Raiffeisenbank.
+Wir machen den Weg frei.
+Bianca, du bist so toll.
+Lass dich davon nicht brechen,versprichst du mir das?
+'tschuldigung,das habe ich jetzt falsch verstanden.
+Aber wie du… Dein Kussversuch…
+Wie kommst du darauf?Hier, nimm's.
+Sind Titten und Ärsche von meinen Patienten drin.
+Wegen Beruf.
+[ein Mann lacht]
+Bist du 'ne Tucke?[Florian] Können wir noch mal?
+Wieso, was war?
+[Elyas] War scheiße gespielt einfach.[er lacht]
+Das wäre ein Effekt gewesen.
+Ich hab hier hochmotiviertes Kollegenmaterial vor mir.
+'tschuldigung…
+[Florian] Es ist vorbei, vergiss es.Hör auf.
+Lass uns drehen, komm.
+Dann geht's weiter mit:"Ist okay, jetzt ist es raus."
+[unterdrücktes Gelächter]
+Dann sagt einer von den beiden Spastis was.
+[Elyas] Freddy, hör auf, bitte.Ich bin doch weg.
+Nein. Nein, nein. Ich würde gerne wissen, wo Simons Problem ist.
+Du hast uns 'n Scheiß erzählt,seit 20 Jahren.
+Scheinbar ist es nicht interessant,uns davon zu berichten.
+[Elyas] Willst du mich verarschen?[Freddy] Ja, ich kann nicht mehr.
+Ist doch inhaltlich richtig.Du hattest keine Freundin.
+Nur, damit ich es verstehe.Bist du schwul, weil ich nicht…
+Ich bin sch…Ich bin sauer, dass…
+Ich bin sauer…
+[Florian] Weil ich sauer bin.
+Ich hätte das wissen müssen…
+Klassischer Lau.
+Du weißt schon,dass du mir noch ein bisschen Geld…
+Jetzt fange ich sogar an mit Textproblemen.
+[Karoline] Krass.
+[schallendes Gelächter]
+[Karoline] Er fickt meine Hand.
+[Mann] Was?Er fickt meine Hand.
+Meinst du mein Arschloch oder sein Arschloch.
+[herzhaftes Gelächter]
+[Trommelwirbel, Tusch]

@@ -1,0 +1,8 @@
+json format: CTRL + ALT + L
+SERVICE:   php bin/console app:replace im.txt dialogs Verkäufer A Abdul B
+SERVICE:   php bin/console app:replace im.txt stories  X A Y B
+SERVICE:   php bin/console app:xml Traumfrau.xml
+
+ABA: .texttrack
+Prime: .ttml2
+Netflix: ?o=xxxx.xhr
